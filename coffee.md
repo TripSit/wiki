@@ -1,0 +1,40 @@
+---
+title: Coffee
+description: Bissy nut, chocolate, cocoa, coffee, gotu kola, guarana, mate, soft drinks, tea
+published: true
+date: 2025-08-08T02:02:03.471Z
+tags: stimulant, ethnobotanical
+editor: markdown
+dateCreated: 2025-08-08T02:02:01.269Z
+---
+
+## Food sources
+
+Bissy nut, chocolate, cocoa, coffee, gotu kola, guarana, mate, soft drinks, tea
+(excluding many herbal teas), some stimulant drugs sold by mail or over-the-counter, and many overthe-
+counter medications.
+
+## Effects
+
+Caffeine is one of the most powerful legal stimulants; it gives a mental boost by releasing adrenaline and noradrenaline into the bloodstream. It interferes on a cellular level with the compound adenosine, in effect flatlining the body's state of arousal, allowing the body to shift into high gear. It may also affect dopamine, acetylcholine, and other neurotransmitters. All coffee, including decaffeinated, contains at least three compounds that act like opiates, or heroin, on the brain. It improves typing skills, mental alertness, energy, reaction time, concentration, and accuracy in performing tasks, and relieves fatigue, mainly by causing the release of norepinephrine in the brain. It improves physical endurance by stimulating the skeletal muscles, increases the production of stomach acid and urine, causes bowel movements, and dilates the bronchial tubes (making it easier to breathe). According to studies, it has no effect on memory or clarity of thought. In addition, the presence of polyphenols in coffee and tea may prevent cancer by inhibiting the conversion of highly carcinogenic nitrosamines in the body. A few cups of coffee a day can help prevent gallstones in men, and four to
+five cups a day can reduce colorectal cancer by 24 percent.
+
+## Precautions
+
+It should not be taken by anyone who is allergic to stimulants, has heart disease or irregular heartbeats, who suffers from insomnia, anxiety, or panic disorders, or has a peptic ulcer of the stomach or duodenum. A physician should be consulted first if any of the following conditions are present: hypoglycemia, epilepsy, or high blood pressure. To discontinue use, gradually decrease the amount over a month or more, or headaches, irritability, and drowsiness may result.
+
+Not all researchers are convinced of its mental benefits. Some studies show no improvement in recall or response time, and others show that high doses can impair a person's ability to work with numbers. And it may have a negative effect on a person's ability to quickly process ambiguous or confusing stimuli. Any improvements in mental functioning may peak at a certain dosage, then decline with increasing consumption. Overall, caffeine may benefit the performance of simple tasks but have no effect on more complex ones such as reading comprehension or advanced mathematics.
+
+Though it is readily absorbed into the bloodstream, researchers still do not understand its full effects upon the human body. Caffeine can lead to a condition in coffee drinkers called coffee intoxication, in which more than four or five cups a day results in irritability, muscle twitches, rambling speech and thought, and trouble sleeping. It can also worsen existing health problems, and may contribute to birth defects, bladder and colon cancer, kidney disease, osteoporosis, hypertension, abnormal heart rhythms, stomach ulcers, and heart disease, though more recent studies refute these findings. When combined with sugar, as in many cola drinks, it can be particularly addictive or habit-forming. It does not replenish a person's noradrenaline once it is used up, and either depletes or limits the absorption of many vitamins and minerals. Withdrawal symptoms can begin 12 to 36 hours after the last dose, and can include lethargy, irritability, severe throbbing headaches, anxiety, depression, fatigue, and possibly even nausea and vomiting; symptoms can last from one and one-half to seven days.
+
+Other adverse effects include heart palpitations, high blood pressure, muscle twitches, rapid heartbeat, low blood sugar, nervousness, insomnia, increased urination, anxiety, indigestion, increased production of gastrointestinal acid, rectal itching, constipation, impaired concentration, a weakened immune system, bladder irritation and urinary problems (especially in women), and interference with DNA replication. It has been shown to trigger panic attacks in susceptible people —which it does by lowering the body's production of DHEA and increasing its production of cortisol —and interfere with the ability to sleep in most coffee drinkers. Decaffeinated coffee still contains some caffeine and can also cause these symptoms. More severe and infrequent symptoms include confusion, nausea, stomach ulcers, indigestion, and a burning feeling in the stomach. Overdose symptoms include excitement, insomnia, rapid heartbeat, confusion, fever, hallucinations, convulsions, and coma.
+
+More than five cups a day can increase the heart attack risk to three times that of a non-coffee drinker. Long-term high-dose caffeine intake can promote calcium loss due to its diuretic effect, weakening bones. The lethal dosage has been estimated to be about 10 grams. If caffeine must be consumed, it should be derived from plant sources, as the synthetic form does not have the fatburning properties the natural form does. As for the natural forms, kola nut and yerba mate are the best caffeine sources, guarana is adequate, and tea and coffee rank lowest. Boiled or percolated coffee can increase serum cholesterol levels and the risk of heart disease; drip coffee does not, as the paper niters absorb the harmful oils in the coffee grounds.
+
+Food and drug interactions are also a cause for concern. Grapefruit juice can increase the level of caffeine and extend its effects by up to one-third. Certain antibiotics such as Cipro (ciprofloxacin) and Penetrex (enoxacin) can significantly intensify and prolong the effects of caffeine. Consuming it with other caffeine-containing drugs, central nervous system stimulants, or sympathomimetics can result in overstimulation; with Cimetidine (Tagamet), oral contraceptives, or Isoniazid, increased sensitivity to the effects of the caffeine (Tagamet can increase caffeine levels by as much as 70 percent); with sedatives, sleep inducers, or tranquilizers, increased sensitivity to the sedative or tranquilizer; with MAO inhibitors, dangerously high blood pressure; and with thyroid hormones, an increase in the thyroid effect. Combined with caffeinated beverages, caffeine is likely to be more stimulating. Taken with alcohol, caffeine can slow a person's reaction time and intensify the effects of alcohol; with cocaine, it can lead to convulsions or extreme nervousness; with marijuana, it can lead to an increased effect of both substances along with a rapid heartbeat; and with tobacco, it can lead to an accelerated heartbeat and a decreased caffeine effect.
+
+Some mail-order "look-alike" drugs that mimic amphetamines have reportedly triggered strokes and irregular heartbeats that ultimately led to death, but this may be blamed more on the stimulant phenylprolanolamine (PPA) than on the caffeine and ephedrine found in these drugs. Still, the healthproblems associated with ephedrine and caffeine have led the FDA to ban drugs and diet aids that contain these two ingredients.
+
+## Dosage
+
+The majority of the research shows that healthy people can consume up to two cups of coffee (200 mg) a day without suffering any ill effects; more than 300 mg of caffeine a day, however, is not recommended. Green tea, in addition to containing about 100 mg of caffeine per serving, contains polyphenols, or strong antioxidant nutrients (which protect against arterial damage that can eventually result in heart attacks or stroke), making it preferable to black tea. Adding milk ties up some of the beneficial chemicals, rendering them useless.

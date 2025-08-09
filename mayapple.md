@@ -1,0 +1,13 @@
+---
+title: Mayapple
+description: 
+published: true
+date: 2025-08-08T02:08:31.015Z
+tags: ethnobotanical
+editor: markdown
+dateCreated: 2025-08-08T02:08:29.166Z
+---
+
+| | |
+|---|---|
+| The mayapple is from North America, where it is also called mandrake, wild mandrake, American mandrake, Indian apple, devil's apple, et cetera (Morton 1977, 87*). The number of names can lead to some confusion. Mandrake is actually the English name for Mandragora officinarum. Settlers applied the name to the mayapple because North American Indians used its root as an amulet and as medicine (Emboden 1974, 149*). Because of this confusion, many people, especially English-speaking Americans, continue to believe that the mayapple is psychoactive. But the root contains no known psychoactive constituents, only toxic glycosides and podophyllin, a resin with cathartic effects (Meijer 1974; Morton 1977,88*). <br><br>The Asian mayapple (Podophyllum pleianthum Hance [syn. Dysosma pleiantha (Hance) Woodson]), a native of China and Japan, is mixed with hemp (Cannabis sativa) and sweet flag (see Acorus calamus) to produce a psychoactive substance that "allows one to see spirits" (Li 1978, 23*). In the Kumaon region of India, the seeds of a species known as bankakri (Podophyllum hexandrum [syn. P. emodi Wall. ex Hook. f. et Th.]) are used to ferment an alcoholic beverage (beer) (Shah and Joshi 1971:417*). <br><br>In homeopathy, the extract Podophyllum is still used in various dilutions. While developing its symptom picture, some strong alterations of consciousness were observed: <br><br>Podophyllum exhibits a bilious temperament. . .. Furthermore, there exists the delusion of a serious heart or liver disease, he [the patient] believes that he is becoming seriously ill and will die. Everything makes him melancholy and sad, and nowhere does he see a ray of light. Sometimes, the delusion arises that through his own fault he has gambled away his own grace or endangered the well-being of his soul by a mortal sin. Still others feel as if the clouds in heaven were too dark or everything were running the wrong way. (Vonarburg 1996,215) <br><br>This example provides a clear illustration of the ways in which the psychological patterns that arise when a medicine is administered can be influenced and shaped by a person's culture. | **Literature** <br><br>Meijer, Willem. 1974. Podophyllum peltatum-may apple: A potential new cash-crop plant of eastern North America. Economic Botany 28:68-72. <br><br>Vonarburg, Willem. 1996. EntenfuB-Podophyllum peltatum 1. (Homoopathisches Pflanzenbrevier: Folge 11). Naturheilpraxis 49 (2): 212-16. |

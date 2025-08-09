@@ -1,0 +1,13 @@
+---
+title: Snakeroot
+description: 
+published: true
+date: 2025-08-08T02:14:30.684Z
+tags: ethnobotanical
+editor: markdown
+dateCreated: 2025-08-08T02:14:28.869Z
+---
+
+| **Synonyms** | **Literature (selection)** |
+|---|---|
+| formerly spelled Rauwolfia<br><br>Rauvolfia, or snakeroot, is occasionally regarded as a psychoactive plant. This is due primarily to theoretical considerations concerning the yohimbane-type alkaloids, here represented by corynanthine, isorauhimbine, and yohimbine (Kahler 1970). The principal active agent, however, is the alkaloid reserpine; its primary effect is hypotensive, although it also has sedative properties. Rauvolfia thus induces sleep (Hansel and Henkler 1994, 369). Reserpine appears to work in a manner similar to the neuroleptica and played a significant role in the study of the function of the monoamine transmitter in the nervous system (D. McKenna 1995, 103*). It is conceivable that certain as yet unknown methods of preparation could yield psychoactive effects. In addition, the some sixty species in the genus may very well include some that contain much higher concentrations of yohimbine and induce very different effects. Apart from Rauvolfia serpentina, the pharmacologically most important species are the African Rauvolfia vomitoria Afzel and the American Rauvolfia tetraphylla 1. [syn. Rauvolfia canescens 1., R. hirsuta Jacq., R. heterophylla Roem. and Schult.], which is also sometimes referred to as borrachero ('(inebriator"; cf. Brugmansia) (Morton 1977, 243-57*). Most of the species are tropical and are found in both the Old and the New Worlds. Many species have ethnomedicinal significance. I)-yohimbine has been detected in Rauvolfia vomitoria (Hofmann 1955; Stoll et al. 1955). In India, Rauvolfia serpentina has a long history as an antidote for snakebite (Jain 1991, 153*). Circumcised boys in Kenya use Rauvolfia caffra Sond. [syn. R. natalensis Sond.], known locally as mwerere, rerendet, omomure, or mutu, as a tea for inducing sleep. The stalks are used as a fermentation agent for making beer (amino and Kokwaro 1993, 173*). | Hansel, Rudolf, and Gunter Henkler. 1994. Rauvolfia. In Hagers Handbuch der pharmazeutischen Praxis, 5th ed., 6:361-84. Berlin: Springer.<br><br>Hofmann, Albert. 1955.I3-Yohimbin aus den Wurzeln von Rauvolfia canescens 1. Helvetica Chimica Acta 38:536 ff.<br><br>Kahler, Hans Joachim, and coworkers. 1970. Rauwolfia Alkaloide: Eine historische, pharmakologische und klinische Studie. Mannheim: Boehringer.<br><br>Stoll, Arthur, Albert Hofmann, and R. Brunner. 1955. Alkaloide aus den Blattern von Rauvolfia canescens 1. Helvetica Chimica Acta 38:270ff. |

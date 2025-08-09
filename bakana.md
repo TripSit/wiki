@@ -1,0 +1,13 @@
+---
+title: Bakana
+description: 
+published: true
+date: 2025-08-08T01:59:52.722Z
+tags: ethnobotanical
+editor: markdown
+dateCreated: 2025-08-08T01:59:50.787Z
+---
+
+| | |
+|---|---|
+| In Northern Mexico, the Tarahumara use a species from the genus Scirpus as a hallucinogen. They call the plant bakanoa, bakanawa, bakanowa, or bakana. The ethnobotanist Robert Bye has stated that this grass is the most important hallucinogen of the central and western Tarahumara (= Ranimuri), being even more important than peyote (Lophophora williamsii) (Bye 1979b, 35*). Little is known about the ritual use:<br><br>Bakinowa is another medicinal plant used in rituals. A ceremony known as simse is associated with and named after the plant simse, bot. Scirpus sp. It is regarded as a source of vigor and is ritually venerated, especially by older women and men, who nourish it with offerings. Bakanowa is a kind of counterpart to hikuri [= peyote]. The plant is sought for in the western Sierra Tarahumara. The ceremonial circle with the offering altar also faces to the west, while the ritual semantics depict the hikuri to the east. The bakanowa root is clearly a potent drug that is not ingested in most cases but [is] merely ritually venerated. Here, some healers use a notched piece of wood, as in the hikuri rites. (DeimelI996, 12)<br><br>Nourishing the plant with offerings is considered important for health. One Tarahumaran healer said, «If god onoruame, the goddess maria mechaka, or the dead or the sacred plants hikuri and bakanowa go hungry, humans will become ill" (DeimelI996, 12).<br><br>The root is used in folk medicine as an analgesic and to treat the insane. The plant is regarded as a protective amulet and as a remedy for all mental illnesses. This is why it is periodically brought offerings. Anyone who treats the plant poorly will be punished with disease. Eating the root tuber is said to induce a deep sleep accompanied by visions and allows one to travel to other dimensions. Unfortunately, the species the Tarahumara use has not yet been identified.<br><br>Alkaloids have been found in one species of the genus Scirpus (Bye 1979b, 36*). These may be ergot alkaloids (cf. Cyperus spp.) that are deposited as metabolites of a parasitic fungus.<br><br>In South America, Scirpus species have been used since pre-Columbian times to produce mats and other woven goods, including some intended for ritual use (Towle 1952,232 f.). | **Literature**<br><br>Deimel, Claus. 1996. Hikuri ba-Peyoteriten der Tarahumara. Ansichten der Ethnologie 1. Hannover: Niedersachsisches Landessmuseum.<br><br>Towle, Margaret Ashley. 1952. Plant remains from a Peruvian mummy bundle. Botanical Museum Leaflets 15 (9): 223-46. |

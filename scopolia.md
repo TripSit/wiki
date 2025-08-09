@@ -1,0 +1,44 @@
+---
+title: Scopolia
+description: 
+published: true
+date: 2025-08-08T02:14:02.202Z
+tags: ethnobotanical
+editor: markdown
+dateCreated: 2025-08-08T02:14:00.051Z
+---
+
+| **Family** | **Preparation and Dosage** |
+|------------|----------------------------|
+| Solanaceae (Nightshade Family); Subfamily Solanoideae, Hyoscyameae Tribe, Hyoscyaminae Subtribe | The fresh root, when boiled and grated, can be eaten as a mush or taken in coffee (Coffea arabica). It also is added to beer or brewed with it in order to potentiate its effects (Fuhner 1919,224). |
+| **Forms and Subspecies** | The root and the rootstock (scopoliae radix et rhizoma) are used. The root is dug up, dried, and used exactly as the belladonna root. Taste, color, and appearance are exactly like belladonna. Many plant collectors confuse the bell henbane with belladonna [Atropa belladonna], which is why one always finds scopolia mixed into belladonna, especially when the belladonna is from the Carpathians. (Gelencir 1983,217) |
+| Three to five species are now accepted botanically in the genus (D'Arcy 1991, 79*; Lu 1986, 6*). A number of varieties of Scopolia carniolica have been described: | The dried herbage, collected while the plant is in flower, can be smoked alone or in smoking blends. |
+| Scopolia carniolica Jacq. var. brevifolia Dun. | **Ritual Use** |
+| Scopolia carniolica Jacq. var. carniolica | In eastern Prussia, Lithuania, and the Balkans, scopolia formerly was collected and used in magic in the same manner as mandrake (Mandragora officinarum). In the early twentieth century, only rudiments of this ritual use were still being practiced (Fuhner 1919). |
+| Scopolia carniolica Jacq. var. concolor Dun. | **Artifacts** |
+| Scopolia carniolica Jacq. var. hladnikiana (Fleischm.) Fiori | See Mandragora officinarum. |
+| Scopolia carniolica Jacq. var. longifolia Dun. | Scopolia anomala is depicted on Tibetan medical thangkas (Aris 1992,67*). |
+| A new form that has pure yellow flowers and is found only in Slovenia (Hladnikov) has recently been described (Dakshobler 1996): | **Medicinal Use** |
+| Scopolia carniolica Jacq. forma hladnikiana | Scopolia carniolica was used in eastern European folk medicine in the same manner as Mandragora officinarum (Schneider 1974,3:240*). In Lithuania, the plant was used to treat rheumatism, gout, toothaches, colic, and Parkinson's disease; as a sedative for children and an aphrodisiac; and to induce abortions (Fuhner 1919,224). |
+| **Synonyms** | In homeopathy, the essence obtained from the fresh-blooming herbage is known as Hyoscyamus scopolia and is used in accordance with the medical description (Schneider 1974,3:240*). |
+| Hyoscyamus scopolia L. | **Constituents** |
+| Scopolia hladnikiana Fleischm. | The entire plant contains hallucinogenic tropane alkaloids (Evans 1979, 249*). The total alkaloid content averages around 0.50% but can range from 0.3 to 0.80% (Fuhner 1919, 223; Roth et al. 1994, 648*). The dried leaves contain 0.19% hyoscyamine and 0.13% scopolamine (Scholten et al. 1989). The root contains approximately 0.50% scopolamine (Gelencir 1983, 218). Also present are the alkaloids cuscohygrine, tropine, and 3a-tigloyloxytropane. Chemotaxonomically, Scopolia is thus closely related to henbane (Hyoscyamus spp.) (Evans 1979,249*; Zito and Leary 1966). The alkaloid content of the dried roots can be as high as 1% (Wagner 1985, 172*). |
+| Scopolia longifolia Dun. | In addition to the alkaloids, the entire plant also contains the coumarins scopoline and scopoletin as well as chlorogenic acid (Roth et al. 1994, 648*). |
+| Scopolina atropoides Schultes | **Effects** |
+| Scopolina hladnikiana Freyer | Few documents describing the actual effects of scopolia are available (Festi 1996). Depending upon dosages, all preparations are capable of producing psychoactive effects that are very similar to those produced by henbane. Low doses induce aphrodisiac sensations, whereas "larger quantities of the root are inebriating and produce a condition associated with unpredictable, comic actions" (Fuhner 1919, 224). High doses have been observed to produce delirium, loss of awareness of reality, coma, severe pupillary dilation, headache, disturbances of coordination, and other symptoms typical of an overdose of Atropa belladonna. |
+| Scopolina viridiflora Freyer | Smoking the leaves produces only very mild psychoactive effects that are comparable with those resulting from smoking Hyoscyamus niger or Datura stramonium. |
+| **Folk Names** | **Commercial Forms and Regulations** |
+| Altsitzerkraut, deewa sales, durna rope (Lithuanian, "crazy root"), glockenbilsenkraut, gotteskraut, krainer tollkraut, matragun (Romanian), mauda, maulda, pikt-rope ("evil root"), pometis ropes ("pometis root"), Russian belladonna, scopolia (Italian), scopolie, skopolia, skopolie, tollkraut, tollriibe, volčič, walkenbaum | The herbage and roots can sometimes be found in eastern European herb shops. The seeds are occasionally available from ethnobotanical specialty sources. |
+| **History** | **Literature** |
+| It is uncertain whether scopolia was known to the authors of antiquity. The "sleeping strychnos" (Strychnos hypnoticos) of Dioscorides (cf. Solanum spp.) has sometimes been interpreted as a Scopolia species (Fuhner 1919,223). The genus was named for the naturalist Antonio Scopoli (1723-1788), who was the first to study and describe the flora of Slovenia (Festi 1996, 35). In Slovenia, the plant may once have been used to prepare witches' ointments. In eastern Prussia, the root of the plant was used as a folk inebriant and aphrodisiac. It is said that women would use it to persuade young men to become their willing lovers. Sometimes some of the root was added to a person's coffee (Coffea arabica) as a practical joke so that others could amuse themselves on the seemingly nonsensical behavior of the inebriated victim (Fuhner 1919). | See also the entries for coumarins, scopolamine, scopoletin, and tropane alkaloids. |
+| In the history of pharmaceuticals, Scopolia has played only a minor role as a substitute or counterfeit for belladonna root (Atropa belladonna) and belladonna leaves (Schneider 1974,3:240*). Today, the plant is used in the industrial manufacture of L-hyoscyamine and atropine (Wagner 1985, 172*). | Dakskobler, Igor. 1996. Hladnikov volčič (Scopolia carniolica f. hladnikiana) tudi v Zelenem potoku. Proteus 58:102-3. |
+| **Distribution** | Festi, Francesco. 1996. Scopolia carniolica Jacq. Eleusis 5:34-45. |
+| The plant occurs wild in the Alps, the Carpathian Mountains, and the Caucasus Mountains (Gelencir 1983, 217). It also grows in southeastern Europe (Slovenia), Lithuania, Latvia, and the Ukraine. | Fuhner, Hermann. 1919. Scopoliawurzel als Gift und Heilmittel bei Litauen und Letten. Therapeutische Monatshefte 33:221-27. |
+| **Cultivation** | Gelencir, Nikola. 1983. Naturheilkunde des Balkans. Steyr, Austria: Verlag Wilhem Ennsthaler. |
+| Cultivation is very simple. In spring, the seeds are sown into seedbeds to germinate. Later, the seedlings can be transplanted to the desired location. The plant does not tolerate a great deal of exposure to the sun (Festi 1996, 36), preferring dark, humid forests and calciferous humus soil. In Lithuania and Latvia, it has long been planted in gardens for use as a medicinal plant. | Scholten, H. J., S. Batterman, and J. F. Visser. 1989. Formation of hyoscyamine in cell cultures of Scopolia carniolica. Planta Medica 55:230. |
+| **Appearance** | Weinert, E. 1972. Zur Taxonomie und Chorologie der Gattung Scopolia Jacq. Feddes Repertorium 82 (10): 617-28. |
+| This annual plant, which is typically 30 to 60 cm in height but can grow as tall as 80 cm, develops a fleshy, spindle-shaped root. The dull green leaves resemble those of the belladonna plant (Atropa belladonna)—hence the name Russian belladonna. The small, pendulous, campanulate flowers are purple to pale yellow in color and are similar in shape to henbane flowers (Hyoscyamus albus)—hence the German name glockenbilsenkraut ("bell henbane"). The plant flowers from April to June. The fruit develops a capsule with a double partition and many small seeds. | Zito, S. W., and J. D. Leary. 1966. Alkaloids of Scopolia carniolica. Journal of Pharmaceutical Sciences 55:1150-51. |
+| Scopolia is easily confused with Chinese scopolia (Scopolia carniolicoides C.W. Wu et C. Chen) and Japanese scopolia (Scopolia japonica Maxim.). Scopolia anomala (Link et Otto) Airy Shaw [syn. Scopolia lurida Dun.], which is native to Nepal and Sikkim, is about twice as large as the European scopolia (Weinert 1972). | |
+| **Psychoactive Material** | |
+| - Root (rhizoma scopoliae, scopoliae radix, scopolia root, glockenbilsenkrautwurzel, europaische scopoliawurzel) | |
+| - Herbage (herba et radix scopoliae carniolicae) | |

@@ -1,0 +1,6 @@
+# Never commit Wiki.js private settings
+settings.json
+config/*.json
+private.pem
+*.key
+users.json.gz

@@ -1,0 +1,13 @@
+---
+title: Securidaca Longepedunculata
+description: 
+published: true
+date: 2025-08-08T02:14:08.245Z
+tags: ethnobotanical
+editor: markdown
+dateCreated: 2025-08-08T02:14:06.465Z
+---
+
+| | |
+|---|---|
+| A native of western and tropical southern Africa, this tree is used in many cultures as a poison in trials by ordeal and in ordeals for uncovering witchcraft (Neuwinger 1994, 682 ff.*). In West Africa, it is used together with Boophane disticha for psychoactive purposes. This species is also venerated as a fetish tree in West Africa and is used to provide magical protection from the "evil eye" and the illnesses of the deceased. The plant is one of the most renowned and legendary medicinal plants and abortifacients in Africa. The Nigerian Haussa call it uwar magunguna, "mother of medicine."<br><br>Among the Kusase, who live in the extreme northeast of Ghana, the plant is used as a psychoactive substance when a new baga ("diviner") is being initiated. A snuff is made of pelig roots (Securidaca longepedunculata) , datin-vulin roots (Ipomoea mauritiana Jacq. [syn. Ipomoea digitata auct. non. 1., Ipomoea paniculata (1.) R. Br.]; cf. Ipomoea spp.) or bailla/punung-buur roots (Tinospora bakis), the root cortex of the zurmuri pepper (Piper guineense Schumach. et Thonn., also known as ashanti pepper; cf. Piper spp.), red nansus pepper (Schinus molle 1.; cf. chicha), and the dried head of a bat. The snuff is blown into the initiate's nose, whereupon he falls into a trancelike state. The Ngindo of Tanzania use a flour made from the root as a snuff for headaches (Neuwinger 1994, 685*).<br><br>In Ethiopia, smoke from the root is inhaled as a medicinal incense to treat flatulence. In Gambia, "crazy" people burn the root cortex and inhale the smoke (Neuwinger 1994,684*).<br><br>The root contains methylsalicylate, the bark contains the alkaloid securine, and the leaves have yielded tannins, saponins, terpenes, et cetera (Lenz 1913). Securine has stimulating effects upon the central nervous system and can produce effects like those of strychnine (Neuwinger 1994, 686). The root contains various indole alkaloids, particularly the psychoactive elymoclavine, from the family of the ergot alkaloids (Costa et al. 1992). | **Literature**<br><br>Costa, C., A. Bertazzo, G. Allegri, O. Curcuruto, and P. Traloli. 1992. Indole alkaloids from the roots of an African plant, Securidaca longepedunculata. Journal ofHeterocycl. Chem. 29:1641-47.<br><br>Lenz, W. 1913. Untersuchungen der Wurzelrinde von Securidaca longepedunculata. Arbeiten aus dem Pharm. Inst. d. Univ. Berlin 10:177-80. |
