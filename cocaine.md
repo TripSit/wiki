@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:01:52.597Z
 ---
 
-<img src="cocaine.jpg" alt="Cocaine" style="float: left; width: 400px;">
+<img src="/assets/cocaine.jpg" alt="Cocaine" style="float: left; width: 400px;">
 
 Cocaine is a powerful CNS stimulant, and most consumed psychoactive plant constituent in the world. Cocaine is known among its users for the 'rush' it provides when first insufflated. It's a crystalline tropane alkaloid that is gathered from the leaves of the coca plant. (Erythroxylon coca). Pure cocaine (as a base) is not water soluble but can be dissolved in alcohol, chloroform, turpentine oil, olive oil, or acetone. Cocaine salts are water soluble.
 
@@ -121,7 +121,7 @@ People who use cocaine frequently suffer from a runny nose ("coke sniffles") the
 
 Cocaine stimulates the central nervous system, especially the autonomic (sympathetic) system, where it inhibits the reuptake of the neurotransmitters noradrenaline, dopamine, and serotonin and increases the time in which they remain in the synaptic cleft. Cocaine is a triple reuptake inhibitor (SNDRI). It also acts as local anesthetic. It has strong stimulant and vasoconstricting properties.
 
-<img src="cocaine molecule.gif" alt="Cocaine molecule" style="float: right;">
+<img src="/assets/cocaine molecule.gif" alt="Cocaine molecule" style="float: right;">
 
 ### Production
 

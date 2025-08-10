@@ -18,7 +18,7 @@ editor: markdown
 dateCreated: 2025-08-01T01:33:12.807Z
 ---
 
-<img src="oxycodone3.png" width="200" align="right">
+<img src="/assets/oxycodone3.png" width="200" align="right">
 
 **Oxycodone**, a strong and addictive drug used to treat moderate to severe pain. It is an analgesic medication synthesized from poppy-derived thebaine. Oxycodone can be available in instant release and extended release tablets. It is often also combined with acetaminophen, marketed under the name Percoset. Oxycodone is a very powerful pain medication and can lead to addiction and dependency.
 

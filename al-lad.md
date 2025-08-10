@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:59:04.397Z
 ---
 
-<img src="allad.jpg" width="200px" align="left">
+<img src="/assets/allad.jpg" width="200px" align="left">
 
 **AL-LAD** is a hallucinogenic drug, lysergamide and an analogue of [LSD](/en/lsd). It is described by Alexander Shulgin in the book *TiHKAL* (Tryptamines i Have Known And Loved). AL-LAD is reported as having some subtle experiential differences to LSD (such as increased visuals), and also appears to be slightly shorter lasting. AL-LAD doses are similar to those of LSD, depending on purity.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:58:05.049Z
 ---
 
-<img src="2ce.jpg" alt="Vial of 2C-E with powder" width="150" align="right">
+<img src="/assets/2ce.jpg" alt="Vial of 2C-E with powder" width="150" align="right">
 
 **2C-E** is a chemical of the [2C-X](/en/2c-x) series which is characterised by its particularly intense visuals and higher potency when compared with other members of the family.
 

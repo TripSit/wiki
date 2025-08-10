@@ -39,7 +39,7 @@ This depends on the operating system you are running:
 ## Textual
 
 * To get started, create a new connection in Textual: Navigate to the main menu in the top left corner of the screen, open the Server menu, then click the item labeled Add Server… when the menu appears.
-<img src="textual1.png" alt="Textual Network Configuration" style="float: right; margin-left: 10px;">
+<img src="/assets/textual1.png" alt="Textual Network Configuration" style="float: right; margin-left: 10px;">
 
 * Each number in the image above indicate where you will place the information that has been collected.
 
@@ -50,7 +50,7 @@ This depends on the operating system you are running:
 
 * With the Add Server… window still open, click the Identity tab on the left side navigation list.
 ** A window will appear that is visually similar to the following:
-<img src="textual2.png" alt="User Details" style="float: right; margin-left: 10px;">
+<img src="/assets/textual2.png" alt="User Details" style="float: right; margin-left: 10px;">
 
 ** In the field labeled Nickname is where you will enter your registered or choice of nick.
 ** Choose some alternative nicks.
@@ -99,7 +99,7 @@ Once you have filled up the fields, please click "Close" and after having highli
 
 * Image Reference
 
-<img src="hexchat.png" alt="Hexchat Network Configuration">
+<img src="/assets/hexchat.png" alt="Hexchat Network Configuration">
 
 ## irssi
 
@@ -150,12 +150,12 @@ Go to Server List
 `It can be opened by pressing the CTRL + S hotkey, by typing /serverlist or by opening Server -> Serverlist in the Menubar.` 
 Please refer to the following screenshots as a reference:
 
-<img src="adiirc1.png" alt="Network/Server List">
-<img src="adiirc2.png" alt="Add a Network">
-<img src="adiirc3.png" alt="User Details">
-<img src="adiirc4.png" alt="Network/Server Details">
-<img src="adiirc5.png" alt="Optional Channel Autojoin configuration">
-<img src="adiirc6.png" alt="Save and Connect">
+<img src="/assets/adiirc1.png" alt="Network/Server List">
+<img src="/assets/adiirc2.png" alt="Add a Network">
+<img src="/assets/adiirc3.png" alt="User Details">
+<img src="/assets/adiirc4.png" alt="Network/Server Details">
+<img src="/assets/adiirc5.png" alt="Optional Channel Autojoin configuration">
+<img src="/assets/adiirc6.png" alt="Save and Connect">
 
 Click on *Save* and then *Connect*
 

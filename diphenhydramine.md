@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:03:05.804Z
 ---
 
-<img src="benadryl.jpg" align="right">
+<img src="/assets/benadryl.jpg" align="right">
 
 **Diphenhydramine** (DPH, also sold as Benadryl) is an antihistamine with anticholinergic and sedative effects. It is found in both OTC and prescription drugs used in the treatment of allergy-related symptoms, some cold and flu symptoms, insomnia, motion sickness and Parkinson's disease. It has also been researched for many other medicinal uses, including the treatment of OCD.
 
@@ -93,7 +93,7 @@ Though DPH causes hallucinations and distortions in the perception, which are of
 * Dysphoria
 
 ## Chemistry and Pharmacology
-<img src="dph_molecule.png" width="110" align="right">
+<img src="/assets/dph_molecule.png" width="110" align="right">
 
 Chemical name: 2-(diphenylmethoxy)-N,N-dimethylethanamine
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:57:58.475Z
 ---
 
-<img src="2cb.jpg" alt="2C-B vial and powder" width="150" style="float: right; margin-left: 10px;">
+<img src="/assets/2cb.jpg" alt="2C-B vial and powder" width="150" style="float: right; margin-left: 10px;">
 
 **2C-B** is a [psychedelic](/en/psychedelics) drug of the [2C-X family](/en/2c-x).
 Effects are often described as being more easily managed than other psychedelics; it is often compared to a mixture of a LSD and MDMA.

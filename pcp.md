@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:11:22.065Z
 ---
 
-<img src="pcp.jpg" align="right">
+<img src="/assets/pcp.jpg" align="right">
 
 **PCP** is a powerful dissociative. The acronym PCP stems from its organic name 1-(1-phenylcyclohexyl) piperidine, which alludes to its relatively simple production from the arylcyclohexylamine piperidine. It is best known for stories of the strange and sometimes violent behavior of people under its influence. However, studies by the Drug Abuse Warning Network in the 1970s show that media reports of PCP-induced violence are greatly exaggerated and that incidents of violence are unusual and often (but not always) limited to individuals with reputations for aggression regardless of drug use. It has been implicated as a major cause of psychiatric decompensation and has a number of clinical syndromes described in the literature. In addition, PCP has been shown to cause significant medical morbidity and mortality. It is found in a variety of forms including crystals/powder, tablets, and liquid. Recently PCP seems to be available on the underground market most commonly in form of cannabis joints, regular cigarettes or cannabis leaf which are dipped in liquid PCP, and usually marketed as something else, seldom as 'PCP'.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:21:24.293Z
 ---
 
-<img src="ambien.jpg" width="300" align="right">
+<img src="/assets/ambien.jpg" width="300" align="right">
 
 **Zolpidem**, brand name Ambien, Stilnox is a Z-drug prescribed by doctors to help patients sleep. Zolpidem has very weak anxiolytic, myorelaxant, and anticonvulsant properties but very strong hypnotic properties. In low doses and without mixing, zolpidem is great for people who have trouble sleeping.  In high doses, you may black out and do very dangerous/risky things and not remember it. Zolpidem is not a recreational drug and should be used only as prescribed.
 

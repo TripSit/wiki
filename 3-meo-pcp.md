@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:58:14.216Z
 ---
 
-<img src="3meopcp.jpg" align="right" alt="3-MeO-PCP in a pill form" />
+<img src="/assets/3meopcp.jpg" align="right" alt="3-MeO-PCP in a pill form" />
 
 **3-Methoxyphencyclidine** (3-MeO-PCP) is a dissociative anesthetic drug that is sold online as a research chemical.
 The effects are often described as being more euphoric and mentally clearer than many related compounds.

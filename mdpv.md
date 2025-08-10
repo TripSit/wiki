@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:08:40.932Z
 ---
 
-<img src="mdpv.png" alt="MDPV" width="250" align="right">
+<img src="/assets/mdpv.png" alt="MDPV" width="250" align="right">
 
 **Methylenedioxypyrovalerone** (MDPV) is a potent, synthetic euphoric stimulant, which shares some of the empathogenic effects of MDMA and acts as a norepinephrine-dopamine reuptake inhibitor (NDRI). It is known for its tendency to cause compulsive redosing and some users report sexual arousal. MDPV (together with Methylone and Mephedrone) is one of the first substances that have been found in products sold as "bath salts", "plant food/fertilizer", and in some "ecstasy" pills.
 

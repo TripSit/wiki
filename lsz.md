@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:08:07.377Z
 ---
 
-<img src="lsz_blotter.jpg" width="250" align="right">
+<img src="/assets/lsz_blotter.jpg" width="250" align="right">
 
 **LSZ**, also known as Lysergic acid 2,4-dimethylazetidide, is a hallucinogenic drug and an analogue of LSD developed by the team led by David E. Nichols at Purdue University. While LSZ has subtly different effects than LSD, it appears to be slightly longer lasting and slightly more potent.
 
@@ -39,7 +39,7 @@ While widespread use of LSZ is relatively new and therefore its full impact is u
 
 ## Images
 
-<img src="lsz.jpg" alt="LSZ">
+<img src="/assets/lsz.jpg" alt="LSZ">
 
 ## Legal status
 

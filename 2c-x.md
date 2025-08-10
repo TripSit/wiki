@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:58:10.905Z
 ---
 
-<img src="2cc.jpg" alt="2C-C vial and powder" width="150" style="float: right; margin-left: 10px;" />
+<img src="/assets/2cc.jpg" alt="2C-C vial and powder" width="150" style="float: right; margin-left: 10px;" />
 
 The **2C family** is a group of [psychedelic](/en/psychedelics) phenethylamines that share the same basic 2C structure. The name '2C' is an acronym for the two carbons between the benzene ring and the amino group in all 2C chemicals. There are also two methoxy groups on the the 2 and 5 positions of the benzene ring. The -x denotes a number of different varieties of 2C's that differ in their substituents on the 3 and 4 positions of the benzene ring.
 
@@ -67,7 +67,7 @@ Alexander Shulgin coined this term and also synthesized the majority of the 2C's
 ## Images
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<img src="2cb.jpg" alt="2C-B" height="200" />
-<img src="2cc.jpg" alt="2C-C" height="200" />
-<img src="2ce.jpg" alt="2C-E" height="200" />
+<img src="/assets/2cb.jpg" alt="2C-B" height="200" />
+<img src="/assets/2cc.jpg" alt="2C-C" height="200" />
+<img src="/assets/2ce.jpg" alt="2C-E" height="200" />
 </div>

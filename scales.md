@@ -16,7 +16,7 @@ To achieve the most accurate measurement from one's scales, one should put it on
 
 Warning: Do not assume that these scales are accurate for amounts lower than at least 50mg. Measure potent chemicals at your own risk; an entry level scale should never be used to measure any drug with an overdose margin smaller than 100mg from your intended dose. For chemicals active at a lower dose, consult our [quick guide to volumetric dosing](/en/quick-guide-to-volumetric-dosing).
 
-<img src="gem20accuracy.png">
+<img src="/assets/gem20accuracy.png">
 
 ## USA
 

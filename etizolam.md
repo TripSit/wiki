@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:04:18.891Z
 ---
 
-<img src="etizolam.jpg" width="300" alt="Sealed vial of etizolam dissolved in propylene glycol." style="float: right; margin-left: 20px;">
+<img src="/assets/etizolam.jpg" width="300" alt="Sealed vial of etizolam dissolved in propylene glycol." style="float: right; margin-left: 20px;">
 
 **Etizolam** is a research chemical analogue of the [benzodiazepine](/en/benzodiazepines) class of drugs - the benzene ring being replaced by a thiophene ring, making it a thienodiazepine. The drug largely shares the effect profile of benzodiazepine drugs (being both hypnotic and anxiolytic), however studies have shown some major differences between etizolam and the more traditional benzos used for treatments; it suffers much less from a rapid build-up of tolerance, and also has a larger range of observed side-effects with abuse.
 
@@ -91,8 +91,8 @@ The LD50 of Etizolam is currently unknown.
 
 ## Images
 
-<img src="etizolam.jpg" height="200" alt="Etizolam solution">
-<img src="etizolam2.jpg" height="200" alt="Etizolam tablets">
+<img src="/assets/etizolam.jpg" height="200" alt="Etizolam solution">
+<img src="/assets/etizolam2.jpg" height="200" alt="Etizolam tablets">
 
 ## Legal status
 

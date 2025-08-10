@@ -18,14 +18,14 @@ This is a list of [N-benzyl](/en/n-benzyl) substituted [phenethylamines](/en/phe
 
 | Name | Structure | R₁ | R₂ | R₃ | R₄ | R₅ | RN |
 |------|-----------|----|----|----|----|----|----|
-| [N-Benzyl-4-iodo-2,5-dimethoxyphenethylamine](/en/n-benzyl-4-iodo-2,5-dimethoxyphenethylamine) | <img src="n-benzyl-4-iodo-2,5-dimethoxyphenethylamine.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₅ |
-| [25I-NB34MD](/en/25i-nb34md) | <img src="25i-nb34md.png" width="200"> | OCH₃ | CH₃ | OCH₃ | I | CH₃ | CH₂C₆H₅ |
-| [25I-NB2Me](/en/25i-nb2me) | <img src="25i-nb2me.png" width="200"> | OCH₃ | CH₃ | OCH₃ | I | H | CH₂C₆H₅ |
-| [25I-NBF](/en/25i-nbf) | <img src="25i-nbf.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₄F |
-| [25I-NBOMe](/en/25i-nbome) | <img src="25i-nbome.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₄OCH₃ |
-| [25I-NBMD](/en/25i-nbmd) | <img src="25i-nbmd.png" width="200"> | OCH₃ | H | OCH₃ | I | CH₃ | CH₂C₆H₄OCH₃ |
-| [25I-NBOMe-d₃](/en/25i-nbome-d3) | <img src="25i-nbome-d3.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₄OCD₃ |
-| [25I-NBOH](/en/25i-nboh) | <img src="25i-nboh.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₄OH |
+| [N-Benzyl-4-iodo-2,5-dimethoxyphenethylamine](/en/n-benzyl-4-iodo-2,5-dimethoxyphenethylamine) | <img src="/assets/n-benzyl-4-iodo-2,5-dimethoxyphenethylamine.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₅ |
+| [25I-NB34MD](/en/25i-nb34md) | <img src="/assets/25i-nb34md.png" width="200"> | OCH₃ | CH₃ | OCH₃ | I | CH₃ | CH₂C₆H₅ |
+| [25I-NB2Me](/en/25i-nb2me) | <img src="/assets/25i-nb2me.png" width="200"> | OCH₃ | CH₃ | OCH₃ | I | H | CH₂C₆H₅ |
+| [25I-NBF](/en/25i-nbf) | <img src="/assets/25i-nbf.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₄F |
+| [25I-NBOMe](/en/25i-nbome) | <img src="/assets/25i-nbome.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₄OCH₃ |
+| [25I-NBMD](/en/25i-nbmd) | <img src="/assets/25i-nbmd.png" width="200"> | OCH₃ | H | OCH₃ | I | CH₃ | CH₂C₆H₄OCH₃ |
+| [25I-NBOMe-d₃](/en/25i-nbome-d3) | <img src="/assets/25i-nbome-d3.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₄OCD₃ |
+| [25I-NBOH](/en/25i-nboh) | <img src="/assets/25i-nboh.png" width="200"> | OCH₃ | H | OCH₃ | I | H | CH₂C₆H₄OH |
 
 ## Pharmacology
 

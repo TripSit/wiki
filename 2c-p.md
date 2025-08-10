@@ -94,8 +94,8 @@ See [Psychedelic Harm Reduction](/en/psychedelic#harm-reduction) for general inf
 
 ## Images
 
-<img src="2cp_package.jpg" width="170px" alt="2C-P package">
-<img src="2cp_molecule.gif" alt="2C-P molecule">
+<img src="/assets/2cp_package.jpg" width="170px" alt="2C-P package">
+<img src="/assets/2cp_molecule.gif" alt="2C-P molecule">
 
 ## Chemistry and Pharmacology
 

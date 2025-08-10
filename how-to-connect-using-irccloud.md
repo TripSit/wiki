@@ -20,9 +20,9 @@ Connect using a different client/service and register a nickname with NickServ (
 ## Configure IRCCloud
 Set it to connect to **irc.tripsit.me** on **port 6697**; Configure your client to identify with SASL, otherwise you won't be able to connect. IRCCloud doesn't label it as such, but this is accomplished by clicking **Advanced Options**, then putting in your **NickServ** password in the provided text box. Click **save**.
 
-<img src="irccloud_sasl_desktop.png" alt="Screenshot of IRCCloud setup for SASL on desktop" />
+<img src="/assets/irccloud_sasl_desktop.png" alt="Screenshot of IRCCloud setup for SASL on desktop" />
 
-<img src="irccloud_sasl_mobile.png" alt="Screenshot of IRCCloud setup for SASL on mobile(android)" />
+<img src="/assets/irccloud_sasl_mobile.png" alt="Screenshot of IRCCloud setup for SASL on mobile(android)" />
 
 ## Connect
 Connect! If there's any issue, the **#help** room has staff there to address network-related issues, such as problems connecting.

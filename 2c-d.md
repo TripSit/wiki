@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:58:01.922Z
 ---
 
-<img src="--file-2c-d.gif" align="right" />
+<img src="/assets/--file-2c-d.gif" align="right" />
 
 **2C-D** is a short acting psychedelic drug of the [2C-X family](/en/2c-x).
 The effects of 2C-D are usually compared to 2C-B (although not as visual as 2C-B) or other psychedelic stimulants and sometimes to MDMA (ecstasy). Its effects are generally considered milder than 2C-B, LSD, or MDMA. 2C-D is also known for the strong body component of its effects which are alternately described as pleasurable energy or a 'sense of being in the body', and by others as an unpleasant 'buzzing' or body-load, which is mostly occurring during onset. 

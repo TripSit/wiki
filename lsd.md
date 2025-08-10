@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:08:04.175Z
 ---
 
-<img src="lsd_bottle.jpg"/>
+<img src="/assets/lsd_bottle.jpg"/>
 
 **Lysergic acid diethylamide**, abbreviated LSD or LSD-25, also known as lysergide (INN) and colloquially as **acid**, is a semisynthetic psychedelic drug of the ergoline family, well known for its psychological effects which can include altered thinking processes, closed and open-eyed visuals, synesthesia, an altered sense of time and spiritual experiences, as well as for its key role in 1960s counterculture. It is used mainly as an entheogen, recreational drug, and as an agent in psychedelic therapy. LSD is non-addictive, is not known to cause brain damage, and has extremely low toxicity relative to dose. However, acute adverse psychiatric reactions such as anxiety, paranoia, and delusions are possible.
 LSD is the best known and most researched psychedelic. It is the standard against which all other psychedelics are compared. It is active at extremely low doses and is most commonly available on blotter or in liquid form.
@@ -38,7 +38,7 @@ Note: Duration can be significantly longer with higher doses.
 * Mood lift, euphoria, sense of well being
 * Closed and open eye visuals, including the saturation of colors, tracers, etc.
 
-<img src="lsdpatterns.png" width="500" />
+<img src="/assets/lsdpatterns.png" width="500" />
 *An example of visual effects on LSD*
 
 * Enhanced audio/tactile senses

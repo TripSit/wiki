@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:00:49.836Z
 ---
 
-<img src="nug.jpg" alt="Cannabis bud, commonly referred to as a 'nug.'" width="400">
+<img src="/assets/nug.jpg" alt="Cannabis bud, commonly referred to as a 'nug.'" width="400">
 
 Cannabis, commonly known in some regions as Marijuana, and by various colloquial names, refers to a genus of plants indigenous to Central and South Asia.<sup>[[1]](#1)</sup> The genus is scientifically subdivided into three species, Ruderalis, Indica and Sativa<sup>[[2]](#2)</sup>, however there is little scientific consensus on taxonomy and often little correlation between scientific classification and commercial descriptions of strains as 'Sativa' or 'Indica'. Commercial psychoactive strains of Cannabis are typically hybrids of Sativa, Indica and/or Ruderalis.<sup>[[3]](#3)</sup>
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:03:44.552Z
 ---
 
-<img src="romilarad.jpg" style="float:left; width:200px;" alt="Romilar 1968 Ad">
+<img src="/assets/romilarad.jpg" style="float:left; width:200px;" alt="Romilar 1968 Ad">
 
 **Dextromethorphan** (also known as 'DXM', 'DM' or 'robo') is an over-the-counter antitussive (cough medicine) which, when taken at doses exceeding the recommended therapeutic range, becomes a powerful [dissociative](/en/dissociatives) drug with psychedelic properties.
 
@@ -301,9 +301,9 @@ Around 10 percent of the Caucasian population has little or no CYP2D6 enzyme act
 
 ## Images
 
-<img src="dxm1.jpg" alt="Robitussin brand DXM Gel Caps">
+<img src="/assets/dxm1.jpg" alt="Robitussin brand DXM Gel Caps">
 
-<img src="dxm_gelcap.jpg">
+<img src="/assets/dxm_gelcap.jpg">
 
 ## Links
 * [The Dexterous World of DXM from TripSit](http://tripsit.me/the-dexterous-world-of-dxm/)

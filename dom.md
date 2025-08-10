@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:03:25.899Z
 ---
 
-<img src="dom.jpg" alt="5mg DOM blotters" width="150" style="float: right; margin-left: 10px;">
+<img src="/assets/dom.jpg" alt="5mg DOM blotters" width="150" style="float: right; margin-left: 10px;">
 
 **DOM** (2,5-Dimethoxy-4-methylamphetamine) is a psychdelic substituted amphetamine with effects similar to LSD. It has a slow come up, and an extremely long duration.
 
@@ -48,10 +48,10 @@ Note: This is a very dose dependent substance, with higher doses yielding longer
 
 ## Images
 
-<img src="dom.jpg" alt="5mg of DOM on blotter paper">
-<img src="dom_blotter.jpg" alt="5mg of DOM on blotter paper, US quarter for size comparison">
-<img src="dom_strip.jpg" alt="5 blotters of DOM">
-<img src="dom_powder.jpg" alt="DOM in powder form">
+<img src="/assets/dom.jpg" alt="5mg of DOM on blotter paper">
+<img src="/assets/dom_blotter.jpg" alt="5mg of DOM on blotter paper, US quarter for size comparison">
+<img src="/assets/dom_strip.jpg" alt="5 blotters of DOM">
+<img src="/assets/dom_powder.jpg" alt="DOM in powder form">
 
 ## Legal status
 

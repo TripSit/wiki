@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:03:14.061Z
 ---
 
-<img src="ketaminedxomxepcp.png" width="200" align="right">
+<img src="/assets/ketaminedxomxepcp.png" width="200" align="right">
 
 **Dissociatives** are a class of [hallucinogen](/en/hallucinogen) which reduce or block signals to the conscious mind from other parts of the brain. In comparison to [psychedelics](/en/psychedelics) and [deliriants](/en/deliriants), they are a very new class of hallucinogen, with the first classical dissociative being synthesized in 1926 (PCP). They offer a trip that is characterised by dissociation and bizarre feelings of detachment from reality, with anaesthetic-like effects and dream-like states.
 
@@ -31,12 +31,12 @@ All of the classical Dissociatives are pharmacologically categorised as [NMDA re
 ## Effects
 
 ### Dissociation and detachment
-<img src="rwy72.jpg" width="200" align="right">
+<img src="/assets/rwy72.jpg" width="200" align="right">
 
 Feelings of detachment are the most noticeable component of a dissociative trip. Which is entirely triggered by the blocking of NMDA receptors. 
 
 At lower states of dissociation, this essentially feels like an obvious but still difficult to pinpoint feeling of detachment from the external environment and body. The greatest analogy to depict this is that if we look at the world through a window during our day to day lives when a person becomes dissociated they are standing increasingly further back from this window proportionally to the dosage consumed. Creating a feeling of being mentally withdrawn from the environment, allowing people to look at their lives from an almost third-person perspective and analyse it without bias, surprisingly resulting in an enjoyable state of deep introspection and a profound drunkenness. These states are often described by people as:
-<img src="otakq.jpg" width="200" align="right">
+<img src="/assets/otakq.jpg" width="200" align="right">
 
 *Feeling generally separate from the external world.
 *Feeling physically and mentally autonomous.
@@ -67,12 +67,12 @@ The final level of dissociation and detachment is a complete disconnection from 
 In terms of the thought patterns and general mental processes, dissociative ego death is very similar to its psychedelic equivalent in a number of ways. Characterised by an extreme loss or failure of a person's short-term memory. This means that a person who is experiencing ego death cannot hold onto the memory of where they are and what they are doing for more than a second or two, instantly forgetting everything as soon as it happens to them. Long-term memory, however, seems to remain mostly intact, with people usually capable of remembering things like who they are and what they are unless they are experiencing ego death at a, particularly high level.
 
 ### Double vision 
-<img src="tumblr_mfv8dhhwqv1r7wwr6o1_1280.jpg" width="200" align="right">
+<img src="/assets/tumblr_mfv8dhhwqv1r7wwr6o1_1280.jpg" width="200" align="right">
 
 As a person begins to become disconnected and detached from their external environment. The visual field not only becomes blurred and indistinct but completely doubled onto itself as well. This feels as if you are seeing out of both of your eyes at once with the two images no longer being spliced and merged together into a unified whole. Forcing people to close one of their eyes if they want to perform any task which requires fine vision or reading.
 
 ### Perspective distortions
-<img src="aliceinwonderlandsyndrome.png" width="200" align="right">
+<img src="/assets/aliceinwonderlandsyndrome.png" width="200" align="right">
 
 Another very common mental component of a classic dissociative trip is one of a profound shift in perspective; this generally consists of drastic changes in the size and distance attributed either to a person's body or their external environment.
 
@@ -82,12 +82,12 @@ Perspective distortions can also affect distance, making specific objects or the
 Another common manifestation of this effect changes in noise volume, making sounds seem extremely quiet or extremely loud.
 
 ### Scenery slicing 
-<img src="slice.jpg" width="200" align="right">
+<img src="/assets/slice.jpg" width="200" align="right">
 
 Scenery slicing is a fairly uncommon visual but appears across multiple people and regularly enough to make it worth mentioning. This effect usually happens spontaneously with no obvious trigger and makes the external environment appear as if it has been cut remarkably cleanly into separate slices with a razor blade  Which then slides across each other in separate directions causing the visual field to split apart into sections.
 
 ### Closed eye visuals 
-<img src="vusr5.jpg" width="200" align="right">
+<img src="/assets/vusr5.jpg" width="200" align="right">
 
 Visuals are an effect triggered by Dissociatives that can be described as the sensation of a person's field of closed-eye vision being partially or completely encompassed by shifting geometric patterns, shapes, structures and colour. Whilst LSD and Mushrooms merely display visuals on a veil in front of your visual field with no sense of particular size attributed them. Dissociatives take you directly into the centre of them as if they are surrounding you. They also have a sense of physical size attributed to them.
 
@@ -101,7 +101,7 @@ A place that is commonly referenced to by the dissociative community as a hole. 
 In terms of its appearance, a typical dissociative hole is usually completely dark with occasional clouds of slow-moving amorphous colour clouds in the background. At their lowest level they are completely empty, but as dosage is increased they are accompanied by and filled with a wide variety of elaborate and complex structures which are described in detail below.
 
 ### Hallucinatory structures
-<img src="si6xz.png" width="200" align="right">
+<img src="/assets/si6xz.png" width="200" align="right">
 
 Dissociative induced hallucinatory structures are the only feature found within what would otherwise be completely empty spaces and holes. They can generally be described as 3-Dimensional and monolithic shapes or structures of infinite variety and size that float above, below or in front of you as they gradually zoom, rotate or pan into focus and become unveiled before your eyes at a slow pace. These structures can take any static comprehensible shape possible but can commonly be experienced as vast and giant pillars, columns, blocks, teardrops, wheels and pyramids. Often fractal in nature and capable of being manifested in any variety of colours but usually following darker themes and tones. In terms of the materials that they appear to be comprised of and the complexity of detail in which they are perceived in, dissociative structures can be broken into 4 basic levels.
 
@@ -118,7 +118,7 @@ Above this, the structures become better defined and 3-Dimensional in shape with
 Once hallucinatory structures reach their third level of complexity they become fully defined in their shape, edges, lighting, shadow and detail. Often appearing to be made of solid and dense realistic materials such as stone and metal. They are capable of being thousands of miles across themselves and extremely complex in form.
 
 **4. Self-transforming mechanistic structural universes**
-<img src="wzah0.jpg" width="200" align="right">
+<img src="/assets/wzah0.jpg" width="200" align="right">
 
 As dosage increases, the detail continues to complexity proportionally until the sensation of seeing the entire universe condensed into an infinitely vast and intricate self-transforming machine structure becomes present. Accompanied by the sudden realization that you are the structure that you are staring down upon and that the structure is also you. In terms of its appearance, this state is extremely hard to describe. The structure can take any form but usually appears to be consistently shaped machine-like structures or clouds that are infinite in size and felt at every point of detail across themselves. This is immediately interpreted through some sort of innate instinct as "the universe" or at least, "everything" by everybody who undergoes the experience.
 

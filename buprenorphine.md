@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:00:28.005Z
 ---
 
-<img src="suboxone.jpg" width="350" align="right">
+<img src="/assets/suboxone.jpg" width="350" align="right">
 
 **Buprenorphine** is a semi-synthetic opioid derived from thebaine which is typically used for treatment of opioid addiction. It is an analgesic, and has gained notoriety for its ability to successfully interrupt severe opiate addictions. Buprenorphine has a higher affinity for μ-opioid receptors compared to full opioid agonists. Because of this, buprenorphine can block the effects of other opioid agonists in a dose-dependent fashion. By its dual effects of reducing craving and attenuating the response to administered heroin, buprenorphine reduces the self-administration of heroin. Methadone, a full opioid agonist, also reduces the impact of additional heroin, but the effect of methadone is primarily due to the induction of cross-tolerance which is dose dependent. In contrast buprenorphine achieves its effect primarily by prolonged occupancy of a high proportion of opioid receptors, blocking the action of heroin and other opioid receptor agonists.
 

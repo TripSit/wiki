@@ -19,11 +19,11 @@ dateCreated: 2025-08-08T01:58:28.676Z
 
 ## Images
 
-<img src="example.jpg" alt="italic caption">
-<img src="example.jpg" alt="">
-<img src="example.jpg" alt="">
-<img src="example.jpg" alt="">
-<img src="example.jpg" alt="">
+<img src="/assets/example.jpg" alt="italic caption">
+<img src="/assets/example.jpg" alt="">
+<img src="/assets/example.jpg" alt="">
+<img src="/assets/example.jpg" alt="">
+<img src="/assets/example.jpg" alt="">
 
 ## Legal
 

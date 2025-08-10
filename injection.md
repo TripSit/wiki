@@ -22,11 +22,11 @@ Unlike other methods of using drugs, injection requires significant preparation 
 
 | Item | Description | Image |
 |------|-------------|-------|
-| Needle | These are the hypodermic tips which attach to syringes. They are typically sold separately from syringes, and come in a variety of lengths and diameters depending on the technique they are required for. | <img src="hypodermicneedles.jpeg"> |
-| Syringe | These are plastic devices which contain a barrel and a plunger. They allow measured amounts of liquid to be pulled into them, and expelled where required. Typically syringes connect to needles via a [Luer Lock](https://en.wikipedia.org/wiki/Luer_taper) mechanism. The size of the syringe you require will depend on the type of drug you use, and the volume of liquid required to dissolve an active dose. | <img src="ketsyri.jpg"> |
-| Gloves | While some people skip using gloves, they are useful in avoiding contamination and protecting against infection. | <img src="glove.jpg"> |
-| Alcoholic wipes | These are necessary for cleaning your hands and the injection site. | <img src="preppad.jpg"> |
-| Sterile water | This is necessary for dissolving your drug of choice. If your drug is already in pharmaceutical solution this step is not necessary. If you do not have access to sterile water it is possible to boil water for 10 minutes to achieve a relatively sterile solution, although this is inferior to truly sterile solution. | <img src="sterilewater.jpg"> |
+| Needle | These are the hypodermic tips which attach to syringes. They are typically sold separately from syringes, and come in a variety of lengths and diameters depending on the technique they are required for. | <img src="/assets/hypodermicneedles.jpeg"> |
+| Syringe | These are plastic devices which contain a barrel and a plunger. They allow measured amounts of liquid to be pulled into them, and expelled where required. Typically syringes connect to needles via a [Luer Lock](https://en.wikipedia.org/wiki/Luer_taper) mechanism. The size of the syringe you require will depend on the type of drug you use, and the volume of liquid required to dissolve an active dose. | <img src="/assets/ketsyri.jpg"> |
+| Gloves | While some people skip using gloves, they are useful in avoiding contamination and protecting against infection. | <img src="/assets/glove.jpg"> |
+| Alcoholic wipes | These are necessary for cleaning your hands and the injection site. | <img src="/assets/preppad.jpg"> |
+| Sterile water | This is necessary for dissolving your drug of choice. If your drug is already in pharmaceutical solution this step is not necessary. If you do not have access to sterile water it is possible to boil water for 10 minutes to achieve a relatively sterile solution, although this is inferior to truly sterile solution. | <img src="/assets/sterilewater.jpg"> |
 
 ## Intramuscular Injection
 

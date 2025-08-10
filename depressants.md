@@ -24,7 +24,7 @@ A **depressant** is a substance that reduces arousal or stimulation. These drugs
 * [Opioids](/en/opioids)
 
 # History
-<img src="alcoholic_beverages.jpg" width="250" height="250" align="right" alt="Alcoholic beverages">
+<img src="/assets/alcoholic_beverages.jpg" width="250" height="250" align="right" alt="Alcoholic beverages">
 
 The history of depressants stretches back thousands of years. Alcohol, the prototypical depressant, was consumed by humans as early as 10,000 B.C., as established by the discovery of beer jugs from the late Stone Age. Other natural depressants such as opium also have ancient origins.
 

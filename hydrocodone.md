@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:06:18.338Z
 ---
 
-<img src="hydrocodone.jpg" align="right">
+<img src="/assets/hydrocodone.jpg" align="right">
 
 **Hydrocodone** is a semi-synthetic opioid derived from codeine. Hydrocodone is used orally as a narcotic analgesic and antitussive (cough medicine), often in combination with paracetamol (acetaminophen) or ibuprofen. Hydrocodone is prescribed predominantly within the United States; elsewhere it is rare. The International Narcotics Control Board reported 99% of the worldwide supply in 2007 was consumed in the United States.
 

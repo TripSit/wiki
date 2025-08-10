@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:05:27.072Z
 ---
 
-<img src="lsdpatterns.png" alt="An example of visual patterning experienced on LSD" width="500" style="float: right; margin-left: 10px;">
+<img src="/assets/lsdpatterns.png" alt="An example of visual patterning experienced on LSD" width="500" style="float: right; margin-left: 10px;">
 
 There are a variety of visual effects caused by hallucinogens, which have only recently started to be categorised and described. Many of these effects are traditionally thought of as being solely the result of [Psychedelic](/en/psychedelics) use, however as part of the larger group of hallucinogens, which also include [Deliriants](/en/deliriants) and [Dissociatives](/en/dissociatives), the effects described occur as components of the 'Psychedelic Experience,' which may also be triggered by non-psychedelics.
 
@@ -21,12 +21,12 @@ Visual acuity is defined by the medical literature as acuteness or clearness of 
 The most commonly reported form of hallucination is a sharp increase in visual acuity which can be described as a newfound ability to comprehend the entire visual field at once, including the peripheral vision. Instead of just being able to perceive the small area that a person's eye is currently focused on, which is the case normally. This results in the level of visual detail attributed to external the environment heightening to the point where the edges of objects become extremely well defined, sometimes making it appear as if all of the air has been pumped out of the room - leaving the environment extremely well-focused, clear and defined.
 
 #### Enhancement of Colour
-<img src="viu6h.jpg" alt="Example of colour enhancement in a nature scene" width="200" style="float: right; margin-left: 10px;">
+<img src="/assets/viu6h.jpg" alt="Example of colour enhancement in a nature scene" width="200" style="float: right; margin-left: 10px;">
 
 Although this is one of the more basic visual effects, to be understood completely it needs to be experienced. During the onset of a trip, almost all people notice that colours start to stand out more, becoming extremely bright and vivid. Reds will seem "Redder", Greens will seem "Greener" and all colours can become much more distinct, powerful and intense than they would be normally. A consistent way to reproduce this effect is in a natural environment, including many different colours with great detail.
 
 #### Enhanced Pattern Recognition
-<img src="uksdk.jpg" alt="Colour enhancement and patterning on tree bark" width="200" style="float: left; margin-right: 10px;">
+<img src="/assets/uksdk.jpg" alt="Colour enhancement and patterning on tree bark" width="200" style="float: left; margin-right: 10px;">
 
 Pattern recognition does not outright change the appearance of the external environment but is rather an effect of the level of detail is being seen in it. During even a mild trip it is common for people to suddenly notice patterns and textures that they may have never previously appreciated or paid any attention to previously. For example, when looking at a carpet, a pavement or tree bark the complexity and beauty of the texture suddenly becomes obvious.
 
@@ -37,7 +37,7 @@ Distortions are generally described as open eye alterations and changes in perce
 
 #### Breathing
 Breathing is a very commonplace visual that can happen to any surface or object but is usually associated with the walls of a room. This effect makes objects appear to be steadily breathing in and out, expanding and contracting in the same way a person's chest does when they slowly inhale and exhale. A fairly consistent way to reproduce this visual is to stare at a blank wall and lose focus.
-<img src="animatedmelting.gif" alt="An animated example of colors breathing. Click to view gif." width="300" style="float: right; margin-left: 10px;">
+<img src="/assets/animatedmelting.gif" alt="An animated example of colors breathing. Click to view gif." width="300" style="float: right; margin-left: 10px;">
 
 #### Flowing Textures
 Flowing, shifting, rippling or moving textures on surfaces is a strong visual effect that can happen to virtually anything in a number of different styles. A classic example of this, however, could be wood grain or carpets flowing like a river in a seamless and looped animation. A consistent way to reproduce this visual is to stare at wood grain and lose focus.

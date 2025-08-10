@@ -18,7 +18,7 @@ editor: markdown
 dateCreated: 2025-08-01T01:29:14.308Z
 ---
 
-<img src="ketanest10.png" width="300px">
+<img src="/assets/ketanest10.png" width="300px">
 
 **Ketamine** is a *dissociative anesthetic* that belongs to the arylcyclohexylamine class, and commonly used in human medical and veterinary care. It has a very wide safety margin, with an anesthetic dose being as much as ten times a recreational dose in an inexperienced user.
 Ketamine is generally sold to the recreational user in one of two forms: in the evaporated salts, which are sold as a powder, or crystals (often referred to as shards), as well as in multi-dose vials for use in veterinary and human medicine. These vials may have concentrations ranging from 5mg/mL all the way up to 100mg/mL, and vary by manufacturer. One manufacturer, Parke-Davis, reports cases of accidental overdoses of ketamine as much as ten times higher than that required for surgery (which is to say 40-100x a recreational dose) "with no obvious, lasting effects." It is, therefore, reasonable to consider it a drug of relatively safe usage. Because ketamine is a dissociative and an anesthetic, users are prone to becoming injured by interaction with their environment and have died from things such as drowning (DM Turner). Overdose, however, is unlikely.
@@ -37,7 +37,7 @@ These numbers are quoted directly from Erowid (which uses subjective dosage repo
 
 ### A note on the "K-hole"
 
-<img src="ketamine.png" style="float: left;">
+<img src="/assets/ketamine.png" style="float: left;">
 
 There is no "guaranteed" dose to "hole" with ketamine. The "k-hole" as it is called is a state of full dissociative anesthesia in which the user is able to retain a semblance of consciousness. The effect associated with this is ego death; that is, the dissolution of the ego, the loss of the perspective of "I" in perception. It is a tricky dose to attain. Reaching too far with dosage will result in full anesthesia without memory of the experience and is worthless for recreational or psychonautical purposes. Too low a dosage will result in a mild sedation and body load, but no ego death, and redosing when anesthetized is tricky.
 
@@ -170,10 +170,10 @@ Pharmacologically, ketamine is classified as an NMDA receptor antagonist.<ref>ht
 
 ## Images
 
-<img src="ketamine_hcl.jpg" alt="Ketamine Vial">
-<img src="k_baggie.jpg" alt="Bag of Ketamine">
-<img src="k_lines.jpg" alt="Lines of ketamine">
-<img src="ketamine_crystals.jpg" alt="Ketamine Crystals">
+<img src="/assets/ketamine_hcl.jpg" alt="Ketamine Vial">
+<img src="/assets/k_baggie.jpg" alt="Bag of Ketamine">
+<img src="/assets/k_lines.jpg" alt="Lines of ketamine">
+<img src="/assets/ketamine_crystals.jpg" alt="Ketamine Crystals">
 
 ## Legal status
 

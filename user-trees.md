@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: 2025-08-08T02:20:11.684Z
 ---
 
-<img src="lovelytrees.jpg" />
+<img src="/assets/lovelytrees.jpg" />

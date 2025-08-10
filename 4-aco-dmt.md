@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T01:58:21.146Z
 
 # *O*-Acetylpsilocin
 
-<img src="4acodmt.jpg" width="300" alt="4-AcO-DMT Fumarate" />
+<img src="/assets/4acodmt.jpg" width="300" alt="4-AcO-DMT Fumarate" />
 
 **O-Acetylpsilocin** (also known as **Psilacetin**, **4-Acetoxy-DMT**, or **4-AcO-DMT**) is a synthetically produced psychoactive drug with a limited history of use. Its effects and duration are similar to those of Psilocybin/Psilocin although it is sometimes described as "warmer" or "more euphoric" than psilocybin-containing mushrooms. It is probably metabolically converted into Psilocin in the body, but there are also reasons to believe that 4-acetoxy-DMT might itself be active in the brain, producing effects that are distinct from Psilocin.
 

@@ -132,8 +132,8 @@ See the [Research Chemicals](/en/research-chemicals) page for more information.
 
 ## Images
 
-<img src="vyvanse.jpg" alt="Vyvanse (Lisdexamfetamine)" style="display: inline-block; margin: 5px;" width="200px" height="200px">
-<img src="adderall.jpg" alt="Adderall" style="display: inline-block; margin: 5px;" width="200px" height="200px">
+<img src="/assets/vyvanse.jpg" alt="Vyvanse (Lisdexamfetamine)" style="display: inline-block; margin: 5px;" width="200px" height="200px">
+<img src="/assets/adderall.jpg" alt="Adderall" style="display: inline-block; margin: 5px;" width="200px" height="200px">
 
 ## Links
 

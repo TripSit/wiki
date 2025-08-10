@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:59:56.281Z
 ---
 
-<img src="xanax.jpg" width="250" height="" alt="Alprazolam pills and prescription bottle" style="float: right; margin-left: 10px;">
+<img src="/assets/xanax.jpg" width="250" height="" alt="Alprazolam pills and prescription bottle" style="float: right; margin-left: 10px;">
 
 Benzodiazepines are drugs which act upon the GABA(A) receptor, and produce a general set of effects which vary by compound, mostly being sedative, hypnotic, anxiolytic, anticonvulsant and muscle relaxant. The first benzodiazepine, Chlordiazepoxide (Librium), was discovered accidentally by Leo Sternbach in 1955, and made available in 1960 by Hoffmann–La Roche, which has also marketed diazepam (Valium) since 1963.
 
@@ -115,7 +115,7 @@ The term benzodiazepine is the chemical name for the heterocyclic ring system, w
 Benzodiazepine drugs are substituted 1,4-benzodiazepines, although the chemical term can refer to many other compounds that do not have useful pharmacological properties. Different benzodiazepine drugs have different side groups attached to this central structure. The different side groups affect the binding of the molecule to the GABAA receptor and so modulate the pharmacological properties. Many of the pharmacologically active "classical" benzodiazepine drugs contain the 5-phenyl-1H-benzo[e][1,4]diazepin-2(3H)-one substructure.
 Nonbenzodiazepines also bind to the benzodiazepine binding site on the GABA(A) receptor and possess similar pharmacological properties. While the nonbenzodiazepines are by definition structurally unrelated to the benzodiazepines, both classes of drugs possess a common pharmacophore, which explains their binding to a common receptor site
 
-<img src="benzo.png" width="500" height="" alt="">
+<img src="/assets/benzo.png" width="500" height="" alt="">
 
 * 2-keto compounds:
   Chlordiazepoxide, Clorazepate, Diazepam, Flurazepam, Halazepam, Prazepam, and others.
@@ -130,10 +130,10 @@ Nonbenzodiazepines also bind to the benzodiazepine binding site on the GABA(A) r
 
 # Images
 
-<img src="xanax.jpg" height="200" alt="(Purepac) alprazolam pills and prescription bottle">
-<img src="alprazolam_solution.jpg" height="200" alt="Alprazolam solved in propylene glycol">
-<img src="alpraz.jpg" height="200" alt=".5mg (Qualitest) alprazolam pills">
-<img src="ativan.png" height="200" alt="Lorazepam (Ativan) pill">
+<img src="/assets/xanax.jpg" height="200" alt="(Purepac) alprazolam pills and prescription bottle">
+<img src="/assets/alprazolam_solution.jpg" height="200" alt="Alprazolam solved in propylene glycol">
+<img src="/assets/alpraz.jpg" height="200" alt=".5mg (Qualitest) alprazolam pills">
+<img src="/assets/ativan.png" height="200" alt="Lorazepam (Ativan) pill">
 
 # Links
 

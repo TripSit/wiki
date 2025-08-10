@@ -92,10 +92,10 @@ See the [Research Chemicals](/en/research-chemicals) page for more information.
 
 ## Images
 
-<img src="5meomipt.jpg" alt="5-MeO-MIPT" width="200px" height="250px">
-<img src="2ct4.jpg" alt="2C-T-4" width="200px" height="250px">
-<img src="mescaline.jpg" alt="Mescaline" width="200px" height="250px">
-<img src="5meomipt2.jpg" alt="5-MeO-MIPT"width="200px" height="250px">
+<img src="/assets/5meomipt.jpg" alt="5-MeO-MIPT" width="200px" height="250px">
+<img src="/assets/2ct4.jpg" alt="2C-T-4" width="200px" height="250px">
+<img src="/assets/mescaline.jpg" alt="Mescaline" width="200px" height="250px">
+<img src="/assets/5meomipt2.jpg" alt="5-MeO-MIPT"width="200px" height="250px">
 
 ## Links
 * [Wikipedia](http://en.wikipedia.org/wiki/Psychedelic_drug) 

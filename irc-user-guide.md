@@ -18,7 +18,7 @@ After installing KVIRC, you will start by accessing the Server page. You can do 
 
 ### Add a Network and Server
 
-<img src="tripsit_kvirc_servers.png" alt="TripSit KVIRC Servers">
+<img src="/assets/tripsit_kvirc_servers.png" alt="TripSit KVIRC Servers">
 
 1. Add a new "Network" to the server list. Networks can have multiple servers.
 2. Add a new "Server" to the network you just created. Name it "irc.tripsit.me".
@@ -26,7 +26,7 @@ After installing KVIRC, you will start by accessing the Server page. You can do 
 
 ### Change your Identity
 
-<img src="tripsit_kvirc_identity.png" alt="TripSit KVIRC Identity">
+<img src="/assets/tripsit_kvirc_identity.png" alt="TripSit KVIRC Identity">
 
 * **Username:** This would be used if you had to log in to our server, which you don't, so ignore this.
 * **Password:** This would be used if you had to log in to our server, which you don't, so ignore this.
@@ -42,7 +42,7 @@ User Modes
 
 ### Change the Connection Protocol
 
-<img src="tripsit_kvirc_connection.png" alt="TripSit KVIRC Connection">
+<img src="/assets/tripsit_kvirc_connection.png" alt="TripSit KVIRC Connection">
 
 * **Port:** 6697 (Explained in 'Use SSL protocol'
 * **Connect to this server at startup:** This will have the chat client connect to our network when you start the KVIRC client.
@@ -52,13 +52,13 @@ User Modes
 
 ### Add Channels to your Auto-Join
 
-<img src="tripsit_kvirc_join.channels.png" alt="TripSit KVIRC Join Channels">
+<img src="/assets/tripsit_kvirc_join.channels.png" alt="TripSit KVIRC Join Channels">
 
 This page is the long way to add channels to your autojoin, the short version is detailed below, but you will use this window to get an overview of which channels you autojoin when connecting to the network. Note that you need to click "Add" and not press Enter on your keyboard.
 
 ### Set up SASL
 
-<img src="tripsit_kvirc_advanced.png" alt="TripSit KVIRC Advanced">
+<img src="/assets/tripsit_kvirc_advanced.png" alt="TripSit KVIRC Advanced">
 
 If you downloaded the TripSit Client then you can get to this part of the settings by:
 
@@ -70,7 +70,7 @@ SASL lets you automatically log in/identify to your nickname once registered. De
 
 ### Register a Nickname
 
-<img src="tripsit_kvirc_help.register.png" alt="TripSit KVIRC Help Register">
+<img src="/assets/tripsit_kvirc_help.register.png" alt="TripSit KVIRC Help Register">
 
 Services are robots that perform functions on the network. For example, the service you will interact with to register your nickname is named NickServ. Most services can be learned about by messaging them "help" or "help <module>" as shown above. Other services you may interact with are:
 * **tripbot** - Our resident multi-purpose android. [Check here for a list of commands](/en/list-of-irc-bot-commands).
@@ -83,7 +83,7 @@ To register your nickname, you need to open up the above query with nickserv by 
 
 ### More Tips
 
-<img src="tripsit_kvirc_ircbasics.png" alt="TripSit KVIRC IRC Basics">
+<img src="/assets/tripsit_kvirc_ircbasics.png" alt="TripSit KVIRC IRC Basics">
 
 You're all set up now! Some basic features of KVIRC include changing the channel color when there's activity in the channel (#drugs), and making a bigger notice when your nickname is mentioned in the channel (#home). After registering, you're welcome to join the #tripsitvip channel which is only accessible to registered users. You can add this channel and others to the auto-join list by right clicking and selecting **"Automatically Join Channel > When Connecting to Network 'Tripsit'"**.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:59:10.476Z
 ---
 
-<img src="xanax.jpg" width="250" align="right">
+<img src="/assets/xanax.jpg" width="250" align="right">
 
 **Alprazolam** is a short acting anxiolytic of the [benzodiazepine](/en/benzodiazepines) class of drugs. It is commonly used and FDA approved for the treatment of panic disorders and anxiety disorders, such as GAD/SAD. It is available in both instant and time released version.
 

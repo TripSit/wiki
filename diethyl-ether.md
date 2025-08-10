@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:03:00.382Z
 
 # Diethyl Ether
 
-<img src="ether.jpeg" width="300" align="left">
+<img src="/assets/ether.jpeg" width="300" align="left">
 
 **Diethyl Ether** ((C2H5)2O) is a highly flammable solvent with anesthetic and dissociative effects when inhaled. It was synthesized first in the late 1200's and has been used recreationally among Polish peasants since the late 19th century. More recently, it gained popularity in the movie "Fear and Loathing in Las Vegas" which depicted Hunter S. Thompson experiencing the strange fiendishness of Diethyl Ether's intoxicating properties, sometimes called "Ethermania". Liquid Diethyl Ether can be obtained in pure form which greatly reduces negative effects. 
 

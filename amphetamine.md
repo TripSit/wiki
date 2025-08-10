@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:59:16.509Z
 ---
 
-<img src="spaste.png" alt="Dried speed paste" style="float: left; width: 200px;">
+<img src="/assets/spaste.png" alt="Dried speed paste" style="float: left; width: 200px;">
 
 Amphetamine is a CNS stimulant, producing mild euphoria and an abundance of energy. Amphetamines include both the specific chemical 'amphetamine' and the general class of chemicals which share structural similaries. Amphetamines generally cause strong physical and mental stimulation, keeping users awake and alert for many hours, and some amphetamines cause mood lift / euphoria. Because they increase wakefulness, various amphetamines have been used by the military, by pilots, truck drivers, and other workers to keep functioning past their normal limits.
 
@@ -102,10 +102,10 @@ See [Stimulant Harm Reduction](/en/stimulants#harm-reduction) for general inform
 
 ## Images
 
-<img src="spaste.png" alt="Drying amphetamine paste" width="200px" height="200px">
-<img src="amphetamine.jpg" alt="Amphetamine with vial" width="200px" height="200px">
-<img src="amphetamines.jpg" alt="~50mg of amphetamine" width="200px" height="200px">
-<img src="adderall.jpg" alt="Several 10mg Adderall IR pills" width="200px" height="200px">
+<img src="/assets/spaste.png" alt="Drying amphetamine paste" width="200px" height="200px">
+<img src="/assets/amphetamine.jpg" alt="Amphetamine with vial" width="200px" height="200px">
+<img src="/assets/amphetamines.jpg" alt="~50mg of amphetamine" width="200px" height="200px">
+<img src="/assets/adderall.jpg" alt="Several 10mg Adderall IR pills" width="200px" height="200px">
 
 ## Legal status
 

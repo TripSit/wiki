@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:09:17.997Z
 ---
 
-<img src="crystal_meth.jpg" width="250" align="right">
+<img src="/assets/crystal_meth.jpg" width="250" align="right">
 
 **Methamphetamine** is a strong physical and mental stimulant. It is legally prescribed as a treatment for ADD under the brand name Desoxyn, for both children and adults. Recreationally, methamphetamine is used to increase sexual drive, lift the mood, and increase energy, allowing some users to engage in sexual activity continuously for several days straight. Methamphetamine production is a relatively simple process, especially when compared to many other recreational drugs which has contributed to its widespread use. It is frequently reported on in the media when home meth-producing labs are busted.
 
@@ -98,7 +98,7 @@ When dealing with methamphetamine it's important to remember that a large number
 
 ## Chemistry and Pharmacology
 
-<img src="meth_molecule.jpg" width="150" align="right">
+<img src="/assets/meth_molecule.jpg" width="150" align="right">
 
 Systematic name: N-methyl-1-phenylpropan-2-amine
 

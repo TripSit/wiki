@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:09:21.111Z
 ---
 
-<img src="mxe.jpg" width="200" align="left">
+<img src="/assets/mxe.jpg" width="200" align="left">
 
 **Methoxetamine** (MXE, 3-MeO-2-Oxo-PCE) is a near chemical analogue of [Ketamine](/en/ketamine) and [PCP](/en/pcp). It was first publicly reported in 2010. Some say it's similar to Ketamine or high doses of DXM. Methoxetamine differs from many dissociatives such as ketamine and phencyclidine that were developed as pharmaceuticals in that it was designed specifically for grey market distribution, making it a rare instance of a true designer drug. It has been shown to act as an NMDA receptor antagonist and unlike ketamine also acts as Serotonin Reuptake Inhibitor (SRI). The N-Ethyl group on this compound increases potency.
 

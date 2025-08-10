@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:59:07.174Z
 ---
 
-<img src="alcohol1.jpg" width="250" align="right" alt="US-made Craft beer" />
+<img src="/assets/alcohol1.jpg" width="250" align="right" alt="US-made Craft beer" />
 
 Alcohol is a CNS depressant that acts through the GABAa receptor, and is one of the most common strong psychoactives used by humans. It has a long history of use and its intoxicating effects are well-studied and documented.
 
@@ -187,15 +187,15 @@ By knowing the number of alcohol consumption, one can make a risk assessment of 
 
 # Images
 
-<img src="alcohol1.jpg" alt="Alcohol" width="200px" height="200px"/>
-<img src="alcohol2.jpg" alt="Alcohol" width="200px" height="200px"/>
-<img src="alcohol3.jpg" alt="Alcohol" width="200px" height="200px"/>
-<img src="alcohol4.jpg" alt="Alcohol" width="200px" height="200px"/>
-<img src="alcohol5.jpg" alt="Alcohol" width="200px" height="200px"/>
-<img src="alcohol6.jpg" alt="Alcohol" width="200px" height="200px"/>
-<img src="alcohol7.jpg" alt="Alcohol" width="200px" height="200px"/>
-<img src="alcohol8.jpg" alt="Alcohol" width="200px" height="200px"/>
-<img src="wino.jpg" alt="Wino" width="200px" height="200px"/>
+<img src="/assets/alcohol1.jpg" alt="Alcohol" width="200px" height="200px"/>
+<img src="/assets/alcohol2.jpg" alt="Alcohol" width="200px" height="200px"/>
+<img src="/assets/alcohol3.jpg" alt="Alcohol" width="200px" height="200px"/>
+<img src="/assets/alcohol4.jpg" alt="Alcohol" width="200px" height="200px"/>
+<img src="/assets/alcohol5.jpg" alt="Alcohol" width="200px" height="200px"/>
+<img src="/assets/alcohol6.jpg" alt="Alcohol" width="200px" height="200px"/>
+<img src="/assets/alcohol7.jpg" alt="Alcohol" width="200px" height="200px"/>
+<img src="/assets/alcohol8.jpg" alt="Alcohol" width="200px" height="200px"/>
+<img src="/assets/wino.jpg" alt="Wino" width="200px" height="200px"/>
 
 ## Legal status
 

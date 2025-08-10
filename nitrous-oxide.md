@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:10:27.135Z
 ---
 
-<img src="nitrous_package.jpg" align="right" width="200px">
+<img src="/assets/nitrous_package.jpg" align="right" width="200px">
 
 Nitrous Oxide (N2O) is a simple gas that, when inhaled, causes rapid analgesia (pain relief), euphoria, mild sedation, and sometimes psychedelic dissociation. It is widely available and its effects are short lasting.
 
@@ -96,7 +96,7 @@ The mechanism of action of Nitrous Oxide can be found [here](https://en.wikipedi
 
 ## Images
 
-<img src="nitrous_collage.jpg" width="500px">
+<img src="/assets/nitrous_collage.jpg" width="500px">
 
 ## Legal status
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:13:37.539Z
 ---
 
-<img src="salvia.jpg" width="350" align="right">
+<img src="/assets/salvia.jpg" width="350" align="right">
 
 **Salvia Divinorum** is a plant of the genus Salvia, which is psychoactive and known to induce intense and dysphoric hallucinatory experiences. It can either be smoked or taken sublingually, though the former is preferred by most users. Many of the users do not consider the drug to have much 'recreational' potential, due to the intense and often scary experience it yields - however it has seen value as a tool for spiritual use.
 

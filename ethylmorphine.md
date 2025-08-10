@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:04:16.124Z
 ---
 
-<img src="ethylmorphine_structure_small.png" align="right">
+<img src="/assets/ethylmorphine_structure_small.png" align="right">
 
 *Ethylmorphine* (3-ethoxy-morphine) is a synthetic opioid very similar in effect to the naturally occurrying codeine (3-methoxy-morphine). As such, it has broadly the same effects as codeine. Ethylmorphine has been describing "as less potent than morphine but slightly more potent than codeine.<sup>[1](#ref1)</sup> Keep that in mind when dosing.
 

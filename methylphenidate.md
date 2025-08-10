@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:09:27.077Z
 ---
 
-<img src="methylphenidate.png" width="300" alt="Blister packed Methylphenidate pills" style="float: right; margin: 0 0 1em 1em;" />
+<img src="/assets/methylphenidate.png" width="300" alt="Blister packed Methylphenidate pills" style="float: right; margin: 0 0 1em 1em;" />
 
 **Methylphenidate** (also known as Ritalin, Concerta, Medikinet and Tranquilyn) is a [stimulant](/en/stimulants) which is commonly prescribed as treatment of AD(H)D outside of the USA, instead of [Amphetamines](/en/adderall).
 

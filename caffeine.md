@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:00:39.001Z
 ---
 
-<img src="caff.jpg" alt="Brewed coffee, raw coffee beans and caffeine powder" width="500" />
+<img src="/assets/caff.jpg" alt="Brewed coffee, raw coffee beans and caffeine powder" width="500" />
 
 **Caffeine** is a naturally occurring stimulant, which is unique from most other psychoactive drugs in that it is almost ubiquitously legal and in heavy use worldwide. Ordinary use of the caffeine has a low risk of causing health problems, though many modern cultures engage in a 'caffeine culture' which involves heavy regular use and arguable dependence on the drug.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:15:57.249Z
 ---
 
-<img src="zuza_tramal.jpg" align="right" width="200" alt="Tramal">
+<img src="/assets/zuza_tramal.jpg" align="right" width="200" alt="Tramal">
 
 **Tramadol** is a opioid that also acts as a SNRI. It is used as a prescription drug in many countries to treat moderate pain (often combined with paracetamol), and also sees recreational use for its euphoric effects. Due to its complex and atypical nature, it has also been investigated for use in the treatment of many conditions, including PTSD, opioid withdrawal, OCD and the management of diabetic side-effects.
 

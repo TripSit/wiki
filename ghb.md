@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:04:56.203Z
 ---
 
-<img src="ghb.jpg" align="right">
+<img src="/assets/ghb.jpg" align="right">
 
 **GHB** (Gamma-Hydroxybutyric Acid) is a CNS depressant used as intoxicant. It is a naturally occurring substance found in the human central nervous system, as well as in wine, beef, small citrus fruits, and in small amounts in almost all animals. GHB has been used in a medical setting as a general anaesthetic, to treat conditions such as insomnia, clinical depression, narcolepsy, and alcohol withdrawal, and to improve athletic performance.
 

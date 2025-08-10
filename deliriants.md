@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:02:43.993Z
 ---
 
-<img src="datura_flower.jpg" align="left">
+<img src="/assets/datura_flower.jpg" align="left">
 
 **Deliriants** are considered to be true hallucinogens, because the visuals they produce are hard or impossible to tell apart from reality; they are also known for negative physical effects. Deliriants have long history of use, with naturally occurring deliriants being found in plant species such as Atropa belladonna (deadly nightshade), various Brugmansia species (Angel's Trumpets), Datura stramonium (Jimson weed), Hyoscyamus niger (henbane), and Mandragora officinarum (mandrake) in the form of tropane alkaloids (notably atropine, scopolamine, and hyoscyamine). Synthetic compounds such as diphenhydramine (Benadryl) and dimenhydrinate (Dramamine) are also deliriants. 
 
@@ -60,7 +60,7 @@ Due to the nature of the state deliriants can induce, it's strongly advised to o
 *Scopolamine hydrobromide trihydrate - 3800 mg/kg subcutaneously in rats
 *Atropine sulfate monohydrate - 622 mg/kg orally in rats
 
-<img src="benadryl_capsules.jpg" width="200" align="right" style="float: left;">
+<img src="/assets/benadryl_capsules.jpg" width="200" align="right" style="float: left;">
 <br><br><br><br><br><br><br><br><br>
 ## Links
 http://en.wikipedia.org/wiki/Deliriant

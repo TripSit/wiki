@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T01:59:19.856Z
 ---
 
-<img src="amt.jpg" align="right">
+<img src="/assets/amt.jpg" align="right">
 
 **α-Methyltryptamine** is a long-lasting euphoric stimulant and a psychedelic, a research chemical which was first discovered in the 60s.
 

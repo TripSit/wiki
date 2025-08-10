@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:10:15.614Z
 ---
 
-<img src="25c.jpg" width="300" alt="25C-NBOMe tabs dosed at 1mg each." style="float: right; margin-left: 20px;">
+<img src="/assets/25c.jpg" width="300" alt="25C-NBOMe tabs dosed at 1mg each." style="float: right; margin-left: 20px;">
 
 These chemicals have nearly no history of human use prior to 2010 when they first became available online, and very little is known about this group of compounds. They should only be used with extreme caution. It's strongly recommended to not take more than 1500 µg of any substance of the NBOMe family, as there have been multiple deaths from people taking just 2-3 blotters.
 
@@ -114,9 +114,9 @@ See [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for general in
 
 ## Images
 
-<img src="25b.jpg" height="150" alt="25B-NBOMe" style="margin: 5px;">
-<img src="25c.jpg" height="150" alt="25C-NBOMe" style="margin: 5px;">
-<img src="25i.jpg" height="150" alt="25I-NBOMe" style="margin: 5px;">
+<img src="/assets/25b.jpg" height="150" alt="25B-NBOMe" style="margin: 5px;">
+<img src="/assets/25c.jpg" height="150" alt="25C-NBOMe" style="margin: 5px;">
+<img src="/assets/25i.jpg" height="150" alt="25I-NBOMe" style="margin: 5px;">
 
 ## Legal status
 

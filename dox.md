@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:03:31.599Z
 ---
 
-<img src="dom.jpg" alt="5mg DOM blotters" width="300" align="left">
+<img src="/assets/dom.jpg" alt="5mg DOM blotters" width="300" align="left">
 
 **DOx** is a chemical class of substituted amphetamines that persists of many long lasting and very potent psychedelic drugs.
 DOx not only includes [DOB](/en/dob), [DOC](/en/doc), [DOI](/en/doi) and [DOM](/en/dom), but also as number of lesser known substances, such as the [Aleph](/en/aleph) and [TMA](/en/tma) series.
@@ -80,8 +80,8 @@ Most substances of the DOx class are controlled substances in almost every count
 
 ## Images
 
-<img src="dom.jpg" alt="DOM">
-<img src="dom2.png" alt="DOM blotter art">
+<img src="/assets/dom.jpg" alt="DOM">
+<img src="/assets/dom2.png" alt="DOM blotter art">
 
 ## Links
 

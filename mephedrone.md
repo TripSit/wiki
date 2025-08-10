@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:09:06.239Z
 ---
 
-<img src="mephedrone.jpg" width="200" align="right">
+<img src="/assets/mephedrone.jpg" width="200" align="right">
 
 **Mephedrone** (4-Methylmethcathinone, 4-MMC, and also known by slang terms such as 'meow' and 'M-CAT') is a synthetic stimulant with empathogenic effects. A research chemical first developed as an analogue of MDMA in 1929, it eventually became popular among recreational drug users between 2007 and 2009 as it became available for purchase online. As a result, it was used increasingly in Europe, Australia, and New Zealand, associated with several deaths, and as a result was controlled in some countries.
 

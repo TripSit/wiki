@@ -18,7 +18,7 @@ editor: markdown
 dateCreated: 2025-08-01T01:32:24.803Z
 ---
 
-<img src="shroom.png" width="300px" alt="Psilocybe Cubensis var. Palenque" style="float: right; margin-left: 15px;">
+<img src="/assets/shroom.png" width="300px" alt="Psilocybe Cubensis var. Palenque" style="float: right; margin-left: 15px;">
 
 Terms used to refer to mushrooms include: shrooms, mushies, magic mushrooms and psilocybin mushrooms.
 
@@ -87,7 +87,7 @@ Psilocybin tends to induce more introspection than other psychedelics.
 * Mood lift, euphoria
 * Increased giggling and laughing
 
-<img src="shroomfx.jpg" width="300px" alt="An example of visual effects on mushrooms." style="float: right; margin-left: 15px;">
+<img src="/assets/shroomfx.jpg" width="300px" alt="An example of visual effects on mushrooms." style="float: right; margin-left: 15px;">
 
 * Creative, philosophical or deep thinking : ideas flow more easily
 * Boring tasks or entertainment can become more interesting or funny

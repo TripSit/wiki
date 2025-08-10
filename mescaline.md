@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:09:12.221Z
 ---
 
-<img src="mescaline.jpg" width="200" style="float: left; margin-right: 10px;" alt="Mescaline vial and powder">
+<img src="/assets/mescaline.jpg" width="200" style="float: left; margin-right: 10px;" alt="Mescaline vial and powder">
 
 **Mescaline** is a [psychedelic](/en/psychedelics) phenethylamine derived from several ancient species of cactus, which have been used ritualistically for thousands of years. It continues to be used for spiritual, religious and recreational purposes today.
 

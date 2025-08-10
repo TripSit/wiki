@@ -29,10 +29,10 @@ Note: Sometimes the "/" in Mount Point "/tripradio" is not required and added au
 
 **Note: Use radio.tripsit.me instead of tripsit.fm**
 
-<img src="buttsettings.png" alt="butt">
-<img src="nicecast1.png" alt="Nicecast">
-<img src="mixx_dj_settings.png" alt="Mixxx">
-<img src="edcast21.png" alt="Edcast with Winamp 1">
+<img src="/assets/buttsettings.png" alt="butt">
+<img src="/assets/nicecast1.png" alt="Nicecast">
+<img src="/assets/mixx_dj_settings.png" alt="Mixxx">
+<img src="/assets/edcast21.png" alt="Edcast with Winamp 1">
 
 #### Required information
 
@@ -42,10 +42,10 @@ All DJs **have to** set up their streaming client like this:
 |---|---|
 | **Stream description** | *Your IRC nickname* |
 
-<img src="buttmeta.png" alt="butt metadata">
-<img src="nicecastmeta.png" alt="Nicecast metadata">
-<img src="edcast1.png" alt="Edcast with Winamp metadata">
-<img src="edcast3.png" alt="Edcast with Winamp metadata2">
+<img src="/assets/buttmeta.png" alt="butt metadata">
+<img src="/assets/nicecastmeta.png" alt="Nicecast metadata">
+<img src="/assets/edcast1.png" alt="Edcast with Winamp metadata">
+<img src="/assets/edcast3.png" alt="Edcast with Winamp metadata2">
 
 ## Basic guide to DJing
 

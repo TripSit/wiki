@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:06:21.468Z
 ---
 
-<img src="2000px-hydromorphone_-_hydromorphon.svg.png" width="280" align="right">
+<img src="/assets/2000px-hydromorphone_-_hydromorphon.svg.png" width="280" align="right">
 
 **Hydromorphone**, a more common synonym for dihydromorphinone (not to be confused by dihydromorphine, which is a different derivative of the morphine family), commonly a hydrochloride (brand names Palladone, Dilaudid, and numerous others). It's a semi-synthetic opioid.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:07:27.055Z
 ---
 
-<img src="kratom_dried_leaf.jpg" width="350" align="right">
+<img src="/assets/kratom_dried_leaf.jpg" width="350" align="right">
 
 The **Kratom** leaf is a psychoactive, traditionally chewed to provide euphoria. Its leaves contain 7-Hydroxymitragynine and mitragynine which act as a μ-opioid receptor agonist like morphine, and can be used to treat chronic pain. The leaves are chewed as an opioid substitute and stimulant in Thailand and especially in the southern peninsula. Kratom is also used in neighboring countries in Southeast Asia where it grows naturally, primarily among the working class. As traditionally used, kratom is not seen as a drug and there is no stigma associated with kratom use or discrimination against kratom eaters. They can also be smoked, brewed as a tea, or made into an extract. It has a relatively long history of human use.
 

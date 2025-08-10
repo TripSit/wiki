@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:08:37.542Z
 ---
 
-<img src="mdma.jpg" style="float: right; width: 300px;" alt="MDMA Crystals">
+<img src="/assets/mdma.jpg" style="float: right; width: 300px;" alt="MDMA Crystals">
 
 **MDMA** (3,4-methylenedioxy-N-Methylamphetamine) is an popular drug of the phenethylamine and amphetamine class known for its empathogenic, euphoric, and stimulant effects, and has also been used in psychotherapy. It most frequently comes in tablet form, although it is also found in capsules or as powder. MDMA is also known as Ecstasy, Molly, XTC, E and several other names. 
 
@@ -203,11 +203,11 @@ MDMA is legally controlled in most of the world under the UN Convention on Psych
 
 ## Images
 
-<img src="mdma.jpg" alt="MDMA Crystals" width="200px" height="200px">
-<img src="mdma2.jpg" alt="MDMA Crystals" width="200px" height="200px">
-<img src="bitcoin.png" alt="Bitcoin MDMA Pill" width="200px" height="200px">
-<img src="mdma3.png" alt="MDMA Crystals" width="200px" height="200px">
-<img src="mdma7.jpg" alt="MDMA Crystals" width="200px" height="200px">
+<img src="/assets/mdma.jpg" alt="MDMA Crystals" width="200px" height="200px">
+<img src="/assets/mdma2.jpg" alt="MDMA Crystals" width="200px" height="200px">
+<img src="/assets/bitcoin.png" alt="Bitcoin MDMA Pill" width="200px" height="200px">
+<img src="/assets/mdma3.png" alt="MDMA Crystals" width="200px" height="200px">
+<img src="/assets/mdma7.jpg" alt="MDMA Crystals" width="200px" height="200px">
 
 ## Links
 

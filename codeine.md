@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:01:58.168Z
 ---
 
-<img src="codeine_structure.jpg" align="right">
+<img src="/assets/codeine_structure.jpg" align="right">
 
 Codeine is an opiate used for its analgesic, antitussive, antidiarrheal, antihypertensive, anxiolytic,antidepressant, sedative and hypnotic properties. It is also used to suppress premature labor contractions, myocardial infarction, and has many other potential and indicated uses. It is often sold as a salt in the form of either codeine sulfate or codeine phosphate in the United States and Canada; codeine hydrochloride is more common worldwide and the citrate, hydroiodide, hydrobromide, tartrate, and other salts are also seen. It occurs naturally in the opium poppy and as such has a long history of human use.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:03:22.503Z
 ---
 
-<img src="spicecrystal001.jpg" alt="Opaque DMT crystal" style="float: right; width: 300px;" />
+<img src="/assets/spicecrystal001.jpg" alt="Opaque DMT crystal" style="float: right; width: 300px;" />
 
 **N,N-Dimethyltryptamine** (or **DMT** for short) is a short acting psychedelic entheogen which allows a person's consciousness to voyage into the most incredible dimensions, visions, thoughts and experiences imaginable. It is most commonly classified as a psychedelic but also possesses some properties inherent to dissociatives. It is one of the most powerful yet mysterious psychedelics in existence, but in the opinion of many users, to classify DMT as merely a drug would be doing it a great injustice as DMT seems to some as a transdimensional key into places and vistas so profound and awe inspiring that it raises many new questions regarding the nature of reality and our place within it. Nevertheless, it is important to realize that the experience may be very difficult for some to integrate, and great care and respect is necessary to use it.
 
@@ -226,12 +226,12 @@ Refer to [Psychedelic Harm Reduction](/en/psychedelics#harm_reduction) for gener
 
 ## Images
 
-<img src="dmtwaxy.png" alt="Waxy DMT crystals" width="200px" height="200px"/>
-<img src="spicecrystal001.jpg" alt="DMT crystal" width="200px" height="200px"/>
-<img src="dmtfreebasemolecule.png" alt="Freebase DMT structure" width="200px" height="200px"/>
-<img src="changa.jpg" alt="Changa" width="200px" height="200px"/>
-<img src="nndmt.jpg" alt="DMT with vial" width="200px" height="200px"/>
-<img src="dmt3.jpg" width="200px" height="200px"/>
+<img src="/assets/dmtwaxy.png" alt="Waxy DMT crystals" width="200px" height="200px"/>
+<img src="/assets/spicecrystal001.jpg" alt="DMT crystal" width="200px" height="200px"/>
+<img src="/assets/dmtfreebasemolecule.png" alt="Freebase DMT structure" width="200px" height="200px"/>
+<img src="/assets/changa.jpg" alt="Changa" width="200px" height="200px"/>
+<img src="/assets/nndmt.jpg" alt="DMT with vial" width="200px" height="200px"/>
+<img src="/assets/dmt3.jpg" width="200px" height="200px"/>
 
 ## Chemistry and Pharmacology
 

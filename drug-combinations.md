@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:03:37.722Z
 
 **WARNING! For educational purposes: We do not endorse any of these combinations. This page will always be 'work in progress'. It is extremely important to be safe at all times! See below the graphic for important information regarding specific combinations.**
 
-<img src="combo_2.png" width="1000" style="display: block; margin: 0 auto;">
+<img src="/assets/combo_2.png" width="1000" style="display: block; margin: 0 auto;">
 
 ## Overview
 This chart is meant as a quick reference guide and additional research MUST always be done. If you use this chart or information on your site you must link to the full summaries and display this message.

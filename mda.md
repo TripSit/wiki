@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:08:34.600Z
 ---
 
-<img src="mda.jpg" alt="MDA Crystals" width="500">
+<img src="/assets/mda.jpg" alt="MDA Crystals" width="500">
 
 **MDA** (Methylenedioxyamphetamine) is an popular drug of the phenethylamine and amphetamine class knownthat is mainly used as a recreational drug, an entheogen, and a tool in use to supplement various types of practices for transcendence, including in meditation, psychonautics, and as an agent in psychedelic psychotherapy.
 

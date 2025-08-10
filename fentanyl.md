@@ -101,11 +101,11 @@ Fentanyl is a potent μ-opioid receptor agonist with relatively little effect on
 
 ## Images
 
-<img src="fent.jpg" alt="various commercial preparations for parenteral administration" align="left">
+<img src="/assets/fent.jpg" alt="various commercial preparations for parenteral administration" align="left">
 
-<img src="fpatch.gif" alt="packaging for the 100ug/hr Mylan brand fentanyl patch" align="left">
+<img src="/assets/fpatch.gif" alt="packaging for the 100ug/hr Mylan brand fentanyl patch" align="left">
 
-<img src="mylan.jpg" alt="a 75ug/hr Mylan patch applied to the skin" align="left" width="400" height="400">
+<img src="/assets/mylan.jpg" alt="a 75ug/hr Mylan patch applied to the skin" align="left" width="400" height="400">
 
 <br clear="all">
 

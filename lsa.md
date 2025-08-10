@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:08:00.652Z
 ---
 
-<img src="hbwr.jpg" width="200" align="right">
+<img src="/assets/hbwr.jpg" width="200" align="right">
 
 **LSA** or **d-lysergic acid amide** (also known as Ergine and d-lysergamide), a chemical found in some psychedelic seeds and plants as well as some fungi, is a potent psychoactive and a precursor to synthesizing LSD.
 
@@ -97,9 +97,9 @@ See [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for general in
 
 ## Images
 
-<img src="morning-glory-seeds.jpg"> *Morning Glory seeds containing ergine*
+<img src="/assets/morning-glory-seeds.jpg"> *Morning Glory seeds containing ergine*
 
-<img src="lsa-extraction.jpg"> *LSA extracted from morning glory seeds using a [Cold Water Extraction](/en/cold-water-extraction)*
+<img src="/assets/lsa-extraction.jpg"> *LSA extracted from morning glory seeds using a [Cold Water Extraction](/en/cold-water-extraction)*
 
 ## Legal status
 

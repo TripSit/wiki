@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:07:15.465Z
 ---
 
-<img src="kava.jpg" width="300" align="right">
+<img src="/assets/kava.jpg" width="300" align="right">
 
 **Kava** (Piper methysticum) is a tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to [alcohol](/en/alcohol). It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'
 

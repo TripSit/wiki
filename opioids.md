@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:10:41.153Z
 ---
 
-<img src="papaver_somniferum.jpg" width="250" align="right" alt="Close-up color photo of a Papaver somniferum pod">
+<img src="/assets/papaver_somniferum.jpg" width="250" align="right" alt="Close-up color photo of a Papaver somniferum pod">
 
 Opiates and opioids are classes of depressant analgesics derived from or chemically similar to substances found in Papaver somniferum, the opium poppy. They include both naturally occurring and synthetic substances. The term opiate is often used interchangeably for the term opioid. Opiate is limited to the natural alkaloids found in the resin of the poppy. Opioid refers to both opiates and synthetic substances as well as opioid peptides. The analgesic effect of opioids are due to decreased perception of pain, decreased reaction to pain as well as increased pain tolerance. They can also be used as for their antitussive properties.
 
