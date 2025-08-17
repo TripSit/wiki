@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: 2025-08-08T01:59:28.725Z
 ---
 
-We have two applications depending on the position you wish to apply for. [TripSitter Application](/en/tripsitter-application) and [Contributor Application](/en/contributor-application).
+We have two applications depending on the position you wish to apply for. [TripSitter Application](/en/tripsit/tripsitter-application) and [Contributor Application](/en/tripsit/contributor-application).

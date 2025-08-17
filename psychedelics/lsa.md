@@ -99,7 +99,7 @@ See [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for general in
 
 <img src="/assets/morning-glory-seeds.jpg"> *Morning Glory seeds containing ergine*
 
-<img src="/assets/lsa-extraction.jpg"> *LSA extracted from morning glory seeds using a [Cold Water Extraction](/en/cold-water-extraction)*
+<img src="/assets/lsa-extraction.jpg"> *LSA extracted from morning glory seeds using a [Cold Water Extraction](/en/guides/cold-water-extraction)*
 
 ## Legal status
 

@@ -30,8 +30,8 @@ The drinking of teas made from mescaline containing cacti is one of the oldest k
 
 Mescaline was used by Native American cultures for spiritual purposes and usually were either consumed dried or in a tea. Nausea and vomiting associated with consuming the cactus itself were thought to be an inherent as well as important part of the experience. It was considered to have a cleansing effect on the mind and body.
 
-In the 60s, mescaline along with [LSD](/en/lsd) and several other psychedelics were researched for the treatment of select mental illnesses, notably alcoholism and depression.
-In modern times, mescaline continues to be used recreationally - though is somewhat more uncommon than other psychedelics such as the [2C-X](/en/2c-x) series, which are very similar in effects, presumably due to its relatively low potency and difficulty in production.
+In the 60s, mescaline along with [LSD](/en/psychedelics/lsd) and several other psychedelics were researched for the treatment of select mental illnesses, notably alcoholism and depression.
+In modern times, mescaline continues to be used recreationally - though is somewhat more uncommon than other psychedelics such as the [2C-X](/en/psychedelics/2c-x) series, which are very similar in effects, presumably due to its relatively low potency and difficulty in production.
 
 ## Dosage
 
@@ -93,7 +93,7 @@ Note: The prevalence of negative effects increases with higher doses.
 
 As with all psychedelic drugs, mescaline carries within it the potential for a very powerful experience, and as such has the potential to result in a very difficult experience ('bad' trip). Mindset and setting play important roles in governing the nature of a psychedelic experience, among other things.
 
-See [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) and [How To Deal With A Bad Trip](/en/how-to-deal-with-a-bad-trip) for more information.
+See [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) and [How To Deal With A Bad Trip](/en/guides/how-to-deal-with-a-bad-trip) for more information.
 
 ### Interactions
 Due to the illicit nature of mescaline, little empirical data is available regarding its interaction profile. It can be generally stated that mescaline potentiates the effects of stimulants including serotonergic, dopaminergic, and adrenergic. Care must be taken to reduce (by 80% or more) the amount of any stimulant taken in combination with Mescaline.
@@ -106,7 +106,7 @@ Mescaline itself is oxidatively metabolized primarily by the enzyme SSAO (semica
 
 Mescaline shares the anabolic path of serotonin and is able to form analogous metabolites.
 
-See the [Drug combinations](/en/drug-combinations) chart for more information.
+See the [Drug combinations](/en/guides/drug-combinations) chart for more information.
 
 ## Chemistry and Pharmacology
 

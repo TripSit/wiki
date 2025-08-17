@@ -64,7 +64,7 @@ Hemp producers sell hemp seeds as a health food. Hemp "milk" is a milk substitut
 
 Hemp matures very fast and requires little pesticides or herbicides. It is environmentally friendly and can be utilized for 25,000 products, including clothing, biofuels, medicines, and construction materials. It has been used by many civilizations for the last 12,000 years.
 
-## [Recreational use](/en/cannabis)
+## [Recreational use](/en/depressants/cannabis)
 
 See also: [tetrahydrocannabinol](/en/tetrahydrocannabinol), [cannabidiol](/en/cannabidiol), [effects of cannabis](/en/effects_of_cannabis)
 
@@ -80,13 +80,13 @@ See also: [tetrahydrocannabinol](/en/tetrahydrocannabinol), [cannabidiol](/en/ca
 
 ## Aspects of Cannabis production and use
 
-- [Cannabis cultivation](/en/cannabis_cultivation)
-- [Cannabis (drug)](/en/cannabis)
+- [Cannabis cultivation](/en/depressants/cannabis_cultivation)
+- [Cannabis (drug)](/en/depressants/cannabis)
 - [Effects of cannabis](/en/effects_of_cannabis)
 - [Hemp](/en/hemp)
 - [Legality of cannabis](/en/legality_of_cannabis)
-- [Cannabis reclassification in the United Kingdom](/en/cannabis_reclassification_in_the_united_kingdom)
-- [Cannabis rescheduling in the United States](/en/cannabis_rescheduling_in_the_united_states)
+- [Cannabis reclassification in the United Kingdom](/en/depressants/cannabis_reclassification_in_the_united_kingdom)
+- [Cannabis rescheduling in the United States](/en/depressants/cannabis_rescheduling_in_the_united_states)
 - [Drug policy of the Netherlands](/en/drug_policy_of_the_netherlands)
 - [Medical cannabis](/en/medical_cannabis)
 - [Spiritual use of cannabis](/en/spiritual_use_of_cannabis)

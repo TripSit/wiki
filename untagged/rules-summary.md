@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2025-08-08T02:13:31.228Z
 ---
 
-This page is a summary of our [Rules](/en/rules). 
+This page is a summary of our [Rules](/en/tripsit/rules). 
 
 ## Do not ask where to get currencies or substances, or discuss vendors of currencies or substances
-Legal, Illegal, it doesn't matter. This is called "sourcing" is not allowed for various reasons (see the full [Rules](/en/rules) page). 
+Legal, Illegal, it doesn't matter. This is called "sourcing" is not allowed for various reasons (see the full [Rules](/en/tripsit/rules) page). 
 
 ## Do not ask where to get substances or currencies, or discuss vendors of currencies or substances
 This rule is important, so it's stated twice.

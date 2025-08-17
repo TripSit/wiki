@@ -22,7 +22,7 @@ A panic attack is widely regarded as one of the scariest things a person can exp
 * Feelings of unreality or dissociation
 * Sound distortion/visual disturbances and/or auditory hallucinations
 
-While not dangerous, it can sometimes feel as if something more physically dangerous is occurring, check our guide on differentiating panic attacks between more serious conditions [here](/en/overdose#general-information).
+While not dangerous, it can sometimes feel as if something more physically dangerous is occurring, check our guide on differentiating panic attacks between more serious conditions [here](/en/guides/overdose#general-information).
 
 Certain medicines or recreational drug use can increase the chances of a panic attack, particularly with abuse. Stimulants in particular are known to cause anxiety and panic in some users. Heroic doses and binging both drastically increase the chances of this occurring as a side effect.
 
@@ -30,7 +30,7 @@ Certain medicines or recreational drug use can increase the chances of a panic a
 
 First and foremost, don't worry, you aren't dying. Panic attacks may manifest with strong physical symptoms (such as feeling faint or numbness) which may make you feel as if something else is happening, but they aren't dangerous and they are only temporary. It is important to note that while the feelings and sensations are very realistic and strong, they are superficial in a physical sense, and represent no actual physical distress. Acknowledging this issue in an objective manner can pave the way for rational thinking during spells of even the most intense anxiety and/or panic.
 
-If the panic is being caused or exacerbated by the effects of a drug, remind yourself that it is only temporary and the experience will end. See [How To Deal With A Bad Trip](/en/how-to-deal-with-a-bad-trip) for more techniques, or [join #tripsit](http://chat.tripsit.me/) to speak with people who can help.
+If the panic is being caused or exacerbated by the effects of a drug, remind yourself that it is only temporary and the experience will end. See [How To Deal With A Bad Trip](/en/guides/how-to-deal-with-a-bad-trip) for more techniques, or [join #tripsit](http://chat.tripsit.me/) to speak with people who can help.
 
 With stimulant use, panic attacks can sometimes manifest as a symptom of malnutrition or dehydration, and dealing with these issues can help calm you down. Check our [Quick Guide to Stimulant Comedowns] for more information.
 

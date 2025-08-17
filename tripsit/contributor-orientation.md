@@ -34,7 +34,7 @@ A large part of a contributor's main duty comes down to factsheet-maintenance. T
 
 The fact-sheet API is in the process of being integrated into Erowid's Vault as a second-opinion/reference-point on Dosage for many new research-chemicals, and has the potential to expand even farther. For these reasons it is of utmost importance that we keep up a high standard for accuracy and maintain a consistent standard of quality, formatting and relevance in the factsheet database.
 
-You will use the commands outlined in [Editing Factsheets](/en/editing-factsheets) to perform fact-sheet maintenance. 
+You will use the commands outlined in [Editing Factsheets](/en/archive/editing-factsheets) to perform fact-sheet maintenance. 
 
 A list of all currently existing factsheet entries is available [here](http://factsheet.tripsit.me/factsheet/). 
 
@@ -118,7 +118,7 @@ The [tripbot.tripsit.me/factsheet Tripbot FACTSHEET DATABASE] was created and is
 
 These commands work anywhere Tripbot is found, however we ask that you keep the bulk of editing command usage in PM with Tripbot for cleaner documentation and logging of Tripbot's notifications in #content, and to deter any potential trolls from taking notice and creating more work for us. 
 
-[Editing Factsheets](/en/editing-factsheets) describes the factsheet modification syntax. You can also ask questions about this in #content. 
+[Editing Factsheets](/en/archive/editing-factsheets) describes the factsheet modification syntax. You can also ask questions about this in #content. 
 
 ### Report
 

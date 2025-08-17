@@ -12,13 +12,13 @@ The pain caused by the insufflation of drugs can range, depending on the substan
 
 * Ensure the drug is cut up enough, and is in its finest form. It is preferable to use something like a razor blade for this. For drugs which can come in the form of crystals, these can be crushed between two cards (a bank card, for example).
 * When insufflating large amounts of a substance, it can help to split the line between two nostrils.
-* Consider an alternative route of administration. For many drugs, in terms of bioavailability, [rectal administration](/en/quick-guide-to-plugging) is often relatively close to insufflation. Furthermore, for certain drugs, such as [MXE](/en/mxe), there is negligble difference in bioavailability between routes of administration.
+* Consider an alternative route of administration. For many drugs, in terms of bioavailability, [rectal administration](/en/guides/quick-guide-to-plugging) is often relatively close to insufflation. Furthermore, for certain drugs, such as [MXE](/en/mxe), there is negligble difference in bioavailability between routes of administration.
 
 Additionally a simple method, known as nasal irrigation, can be used both before and after snorting a substance, to help clear the nasal passages and reduce pain, as well as damage to the nasal cavity. This guide will explain how to create the solution and how to use it.
 
 ## Creating the solution
 
-Typical saline solutions are comprised of your most basic household goods: water and table salt. The typical solution has 9 grams of table salt per 1 litre of water. You can create this simply by mixing the salt in with the water in some container (such as a bottle of water), and then mixing it, until the salt has dissolved into the water. Be sure to label the container clearly, stating on it that it is a saline solution, and that it should not be drunk (also: don't drink it), as well as its concentration. Creating a solution such as this is a form of volumetric dosing, about which you can find more information in the [Quick Guide To Volumetric Dosing](/en/quick-guide-to-volumetric-dosing).
+Typical saline solutions are comprised of your most basic household goods: water and table salt. The typical solution has 9 grams of table salt per 1 litre of water. You can create this simply by mixing the salt in with the water in some container (such as a bottle of water), and then mixing it, until the salt has dissolved into the water. Be sure to label the container clearly, stating on it that it is a saline solution, and that it should not be drunk (also: don't drink it), as well as its concentration. Creating a solution such as this is a form of volumetric dosing, about which you can find more information in the [Quick Guide To Volumetric Dosing](/en/guides/quick-guide-to-volumetric-dosing).
 
 ## Using the solution
 

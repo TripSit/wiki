@@ -18,7 +18,7 @@ Benzodiazepines are drugs which act upon the GABA(A) receptor, and produce a gen
 
 | Chemical name (brand name) | Half-Life [Active Metabolites] | Dose Equiv. of 10mg Diazepam (Oral) | Class |
 |---|---|---|---|
-| [Alprazolam (Xanax)](/en/alprazolam) | 6 - 12 hours | 0.5 mg | Anxiolytic |
+| [Alprazolam (Xanax)](/en/benzodiazepines/alprazolam) | 6 - 12 hours | 0.5 mg | Anxiolytic |
 | Bromazepam (Lexotan, Lexomil) | 10 - 20 hours | 5 - 6 mg | Anxiolytic |
 | Brotizolam (Lendormin) | 2 - 6 hours | .25mg | Hypnotic |
 | Chlordiazepoxide (Librium) | 5 - 30 hours [36 - 200 hours] | 25 mg | Anxiolytic |
@@ -26,13 +26,13 @@ Benzodiazepines are drugs which act upon the GABA(A) receptor, and produce a gen
 | Clonazepam (Klonopin) | 18 - 50 hours | 0.5 mg | Anxiolytic |
 | [Clonazolam](/en/clonazolam) | N/A | 0.2 mg | Anxiolytic |
 | Clorazepate (Tranxene) | [36 - 200 hours] | 15 mg | Anxiolytic |
-| [Diazepam (Valium)](/en/diazepam) | 20 - 100 hours [36 - 200 hours] | 10 mg | Anxiolytic |
+| [Diazepam (Valium)](/en/chemicals/diazepam) | 20 - 100 hours [36 - 200 hours] | 10 mg | Anxiolytic |
 | Diclazepam (Ro5-3448) | ~42 hours | 1mg | Anxiolytic |
 | Estazolam (ProSom, Nuctalon) | 10 - 24 hours | 1 - 2 mg | Hypnotic |
-| [Etizolam (Etilaam, Etizola, Etizest, Depas)](/en/etizolam) | 4-12 hours | 1mg | Anxiolytic |
+| [Etizolam (Etilaam, Etizola, Etizest, Depas)](/en/chemicals/etizolam) | 4-12 hours | 1mg | Anxiolytic |
 | Flubromazepam | 106 hours | 6 - 8 mg | Hypnotic |
 | Flubromazolam | Long | .25mg | Hypnotic |
-| [Flunitrazepam (Rohypnol)](/en/flunitrazepam) | 18 - 26 hours [36 - 200 hours] | 1 mg | Hypnotic |
+| [Flunitrazepam (Rohypnol)](/en/benzodiazepines/flunitrazepam) | 18 - 26 hours [36 - 200 hours] | 1 mg | Hypnotic |
 | Flutoprazepam (Restas) | 60 - 90 hours | ~2.5 mg | Hypnotic |
 | Flurazepam (Dalmane) | [40 - 250 hours] | 15 - 30 mg | Hypnotic |
 | Halazepam (Paxipam) | [30 - 100 hours] | 20 mg | Anxiolytic |
@@ -57,7 +57,7 @@ Benzodiazepines are drugs which act upon the GABA(A) receptor, and produce a gen
 | Chemical name (brand name) | Half-Life [Active Metabolites] | Dose Equiv. of 10mg Diazepam (Oral) | Class |
 |---|---|---|---|
 | Zaleplon (Sonata) | 2 hours | 20 mg | Hypnotic |
-| [Zolpidem (Ambien)](/en/zolpidem) | 2 hours | 20 mg | Hypnotic |
+| [Zolpidem (Ambien)](/en/depressants/zolpidem) | 2 hours | 20 mg | Hypnotic |
 | Zopiclone (Imovane) | 5 - 6 hours | 15 mg | Hypnotic |
 | Eszopiclone (Lunesta) | 6 hours | 3 mg | Hypnotic |
 
@@ -107,7 +107,7 @@ The main danger of the drugs in this class is the risk of blacking out or overdo
 
 Most of the research chemicals from this class are usually active under 10mg's. The best course of action with these substances is putting X amount of active chemical into X amount of your solvent of choice (Such as Propylene-Glycol or Ethanol) And using an oral syringe to get the dose you want. Granted a fair amount are sold are either in presses or on a blotter.
 
-See the [Research Chemicals](/en/research-chemicals) page for more information.
+See the [Research Chemicals](/en/untagged/research-chemicals) page for more information.
 
 # Chemistry and Pharmacology
 

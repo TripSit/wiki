@@ -16,7 +16,7 @@ The relative milligramme strength of hydrocodone to codeine is given as 6 fold, 
 
 ## History
 
-Hydrocodone was first synthesized in Germany in 1920 by Carl Mannich and Helene Löwenheim. Hydrocodone is derived from codeine. As a semi-synthetic opioid, it is most often used orally as a narcotic analgesic and antitussive. Used mostly in combination with Acetaminophen (Vicodin) or Ibuprofen. If you have a drug with acetaminophen in it, we strongly recommend you cold water (CWE) extract the acetaminophen away. CWE methods can be found [Here](/en/cold-water-extraction)
+Hydrocodone was first synthesized in Germany in 1920 by Carl Mannich and Helene Löwenheim. Hydrocodone is derived from codeine. As a semi-synthetic opioid, it is most often used orally as a narcotic analgesic and antitussive. Used mostly in combination with Acetaminophen (Vicodin) or Ibuprofen. If you have a drug with acetaminophen in it, we strongly recommend you cold water (CWE) extract the acetaminophen away. CWE methods can be found [Here](/en/guides/cold-water-extraction)
 
 ## Dosage
 
@@ -74,7 +74,7 @@ Any dose of Hydrocodone may be fatal. Do not mix with other drugs or alcohol.
 
 Excessive alcohol/grapefruit juice drinking while taking drug that contains APAP, can cause liver damage, other severe medical conditions, and even death.
 
-Please consider [CWE](/en/cold-water-extraction) if your hydrocodone contains APAP, as APAP is harmful to your liver and doctors recommend no more than 4g.
+Please consider [CWE](/en/guides/cold-water-extraction) if your hydrocodone contains APAP, as APAP is harmful to your liver and doctors recommend no more than 4g.
 
 ### Potentiators
 

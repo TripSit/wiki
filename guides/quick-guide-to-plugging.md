@@ -25,8 +25,8 @@ Plugging requires some supplies, all of which (with the possible exception of a 
 * Lubricant
   * Preferably something water-based or KY-Jelly works fine. Avoid oil-based personal lubricants.
 * Clean Water or otherwise appropriate solvent (see note below)
-  * For polar compounds such as [MXE](/en/mxe), most opioids, [MDMA](/en/mdma), [Amphetamine](/en/amphetamine), etc it is best to use **water** as your plugging solvent since water is readily available and is easy to clean/purify.
-  * For nonpolar compounds such as [DMT](/en/dmt), it is best to use **propylene glycol** since it is safe and relatively easy to obtain, is clean when purchased in a sealed container.
+  * For polar compounds such as [MXE](/en/mxe), most opioids, [MDMA](/en/stimulants/mdma), [Amphetamine](/en/stimulants/amphetamine), etc it is best to use **water** as your plugging solvent since water is readily available and is easy to clean/purify.
+  * For nonpolar compounds such as [DMT](/en/psychedelics/dmt), it is best to use **propylene glycol** since it is safe and relatively easy to obtain, is clean when purchased in a sealed container.
 
 **Note:** In chemistry the term(s) 'polar' and 'nonpolar' are used to describe the state of a molecule's covalent bond; a polar substance will have an unbalanced covalent bond meaning it will have an excess charge, while 'non-polar' is used to differentiate between that and a substance which has a balanced covalent bond.
 

@@ -14,7 +14,7 @@ This page includes a list of sources for quality milligram scales worldwide, wit
 
 To achieve the most accurate measurement from one's scales, one should put it on a surface that is as flat as possible. Other factors that can contribute to an inaccurate measurement are winds or drafts and vibrations, particularly from the bass one's speakers if one is listening to music. If your scale is new, make sure to follow the calibration instructions if there are any and use the calibration weights(if given) to confirm the success of the process. If one is measuring directly onto the scales, it would be wise to sanitise them with something like a wet wipe followed by a dry wipe, as general dirt(from exposure) or powder can contribute to the inaccuracy of one's measurement.
 
-Warning: Do not assume that these scales are accurate for amounts lower than at least 50mg. Measure potent chemicals at your own risk; an entry level scale should never be used to measure any drug with an overdose margin smaller than 100mg from your intended dose. For chemicals active at a lower dose, consult our [quick guide to volumetric dosing](/en/quick-guide-to-volumetric-dosing).
+Warning: Do not assume that these scales are accurate for amounts lower than at least 50mg. Measure potent chemicals at your own risk; an entry level scale should never be used to measure any drug with an overdose margin smaller than 100mg from your intended dose. For chemicals active at a lower dose, consult our [quick guide to volumetric dosing](/en/guides/quick-guide-to-volumetric-dosing).
 
 <img src="/assets/gem20accuracy.png">
 

@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:16:42.968Z
 
 Tryptamines, specifically substituted tryptamines, are organic compounds built upon a core tryptamine backbone. This fundamental structure consists of an indole ring and an amine group connected by an ethyl sidechain. Substituents can be located at the amine, on the indole ring, or along the sidechain.
 
-This broad class of substances includes neurotransmitters like serotonin, alongside numerous alkaloids found in plants and fungi, such as [psilocybin](/en/psilocybin-psilocin), [bufotenine](/en/bufotenine), [DMT](/en/dmt), and [mescaline](/en/mescaline). Ann and Alexander Shulgin extensively researched and documented many novel compounds within this class in their book *TiHKAL*. More complex compounds like [LSD](/en/lsd), [yohimbine](/en/yohimbine), and [mitragynine](/en/mitragyna-speciosa) are technically tryptamines. Most psychoactive tryptamines have [psychedelic](/en/psychedelics), empathogenic and to a lesser extend stimulating effects.
+This broad class of substances includes neurotransmitters like serotonin, alongside numerous alkaloids found in plants and fungi, such as [psilocybin](/en/chemicals/psilocybin-psilocin), [bufotenine](/en/chemicals/bufotenine), [DMT](/en/psychedelics/dmt), and [mescaline](/en/stimulants/mescaline). Ann and Alexander Shulgin extensively researched and documented many novel compounds within this class in their book *TiHKAL*. More complex compounds like [LSD](/en/psychedelics/lsd), [yohimbine](/en/chemicals/yohimbine), and [mitragynine](/en/mitragyna-speciosa) are technically tryptamines. Most psychoactive tryptamines have [psychedelic](/en/psychedelics), empathogenic and to a lesser extend stimulating effects.
 
 ## Ring and Amine Substituted Tryptamines
 
@@ -27,10 +27,10 @@ Regarding halogenation, tryptamines with halogens at the 5th position are active
 ## α- and β-substituted Tryptamines
 
 ### α-alkylated Tryptamines
-α-alkylated tryptamines, such as [αMT](/en/amt) and [αET](/en/αet), are active substances that tend to be more empathogenic and stimulating compared to their non-α-substituted counterparts. While simpler amine and ring substituted tryptamines typically act as serotonin receptor agonists, α-alkylated tryptamines function as **monoamine oxidase inhibitors** (MAOIs) and **monoamine releasing agents**. This difference in mechanism accounts for their distinct subjective effects.
+α-alkylated tryptamines, such as [αMT](/en/stimulants/amt) and [αET](/en/αet), are active substances that tend to be more empathogenic and stimulating compared to their non-α-substituted counterparts. While simpler amine and ring substituted tryptamines typically act as serotonin receptor agonists, α-alkylated tryptamines function as **monoamine oxidase inhibitors** (MAOIs) and **monoamine releasing agents**. This difference in mechanism accounts for their distinct subjective effects.
 
 ### β-substituted Tryptamines
 Most β substituted tryptamines are **β-ketones**. β-ketone tryptamines are analogues to cathinones (β-ketone-phenethylamines). They are neither serotonin agonists nor MAOIs; instead, they act as **monoamine releasing agents**. Some of these compounds are selective **serotonin-dopamine releasing agents**, being very weak norepinephrine releasers.
 
 ## Complex Substituted Tryptamines
-More complex compounds like [Iboga alkaloids](/en/ibogaine), [β-carbolines](/en/harmine-notes), [ergolines](/en/ergot-alkaloids) (including LSD), and mitragyna alkaloids technically contain the tryptamine structure as part of their larger molecules. These compounds are incredibly diverse can not be categorised easily. For example, mitragyna alkaloids act on opioid receptors, making them atypical [opioids](/en/opioids).
+More complex compounds like [Iboga alkaloids](/en/psychedelics/ibogaine), [β-carbolines](/en/untagged/harmine-notes), [ergolines](/en/chemicals/ergot-alkaloids) (including LSD), and mitragyna alkaloids technically contain the tryptamine structure as part of their larger molecules. These compounds are incredibly diverse can not be categorised easily. For example, mitragyna alkaloids act on opioid receptors, making them atypical [opioids](/en/opioids).

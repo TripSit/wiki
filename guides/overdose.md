@@ -12,7 +12,7 @@ dateCreated: 2025-08-08T02:10:50.551Z
 
 **If you think you or a friend is overdosing, seek immediate medical attention. When in doubt, it is better to contact emergency services than to be responsible for bodily harm or death.**
 
-Furthermore, it is important not to misrepresent your situation to paramedics. Tell the paramedics and emergency personnel the truth about what you have ingested. A majority of overdose situations are caused by unsafe drug combinations; when considering a drug combination, check for any [Drug Combinations](/en/drug-combinations), avoid dangerous combinations and start with a lower dose of each drug.
+Furthermore, it is important not to misrepresent your situation to paramedics. Tell the paramedics and emergency personnel the truth about what you have ingested. A majority of overdose situations are caused by unsafe drug combinations; when considering a drug combination, check for any [Drug Combinations](/en/guides/drug-combinations), avoid dangerous combinations and start with a lower dose of each drug.
 
 If someone is refusing contact with emergency medical services due to fear of legal consequences they should be reminded that most regions have some sort of Good Samaritan law where legal immunity is offered to reduce a bystanders' hesitation to assist in the event of an emergency.
 

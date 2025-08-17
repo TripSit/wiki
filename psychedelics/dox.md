@@ -11,15 +11,15 @@ dateCreated: 2025-08-08T02:03:31.599Z
 <img src="/assets/dom.jpg" alt="5mg DOM blotters" width="300" align="left">
 
 **DOx** is a chemical class of substituted amphetamines that persists of many long lasting and very potent psychedelic drugs.
-DOx not only includes [DOB](/en/dob), [DOC](/en/doc), [DOI](/en/doi) and [DOM](/en/dom), but also as number of lesser known substances, such as the [Aleph](/en/aleph) and [TMA](/en/tma) series.
+DOx not only includes [DOB](/en/dob), [DOC](/en/doc), [DOI](/en/doi) and [DOM](/en/psychedelics/dom), but also as number of lesser known substances, such as the [Aleph](/en/aleph) and [TMA](/en/tma) series.
 Almost all substances of the DOx series have a very long duration (12-30 hours), are extremely potent (active at just a few miligrams) and have a very slow onset.
 They're often described as less spiritual and more stimulating compared to classic psychedelics.
 
 ## History
 
-The DOx series was first researched by Alexander and Ann Shulgin, who rated [DOM](/en/dom) as one of the most important phenethylamine compounds, the so called "magical half-dozen", in their book PiHKAL.
-The most popular substance of this class is [DOM](/en/dom), also known as STP (Serenity, Tranquility, and Peace), which first appeared in tablet form in 1967.
-As of 2014, drugs of the DOx series are sometimes mistakenly sold as "acid" on blotters, and once again [DOM](/en/dom) is the most widespread compound among users of psychedelic amphetamines.
+The DOx series was first researched by Alexander and Ann Shulgin, who rated [DOM](/en/psychedelics/dom) as one of the most important phenethylamine compounds, the so called "magical half-dozen", in their book PiHKAL.
+The most popular substance of this class is [DOM](/en/psychedelics/dom), also known as STP (Serenity, Tranquility, and Peace), which first appeared in tablet form in 1967.
+As of 2014, drugs of the DOx series are sometimes mistakenly sold as "acid" on blotters, and once again [DOM](/en/psychedelics/dom) is the most widespread compound among users of psychedelic amphetamines.
 
 ## Effects
 ### Postive
@@ -62,11 +62,11 @@ DOx compounds have a very long duration and also a long comeup, redosing is not 
 
 ### Potentiators
 
-* [Cannabis](/en/cannabis)
+* [Cannabis](/en/depressants/cannabis)
 
 ### Interactions
 
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs.
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs.
 
 Under no circumstances any DOx compound should be combined with a MAOI.
 

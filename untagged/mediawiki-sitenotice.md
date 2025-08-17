@@ -112,6 +112,6 @@ Several synthetic analogs of salvinorin A have been developed for research purpo
 
 - [Salvia divinorum](/en/salvia-divinorum)
 - [Dissociatives](/en/dissociatives)
-- [Hallucinogens](/en/hallucinogens)
+- [Hallucinogens](/en/guides/hallucinogens)
 - [Opioid receptors](/en/opioid-receptors)
 - [Harm reduction](/en/harm-reduction)

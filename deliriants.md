@@ -17,13 +17,13 @@ Uncured tobacco is also considered a deliriant due to its very high nicotine con
 Deliriants are either Tropane based or Antihistamine based.
 
 ## Common Deliriants
-* [DPH](/en/diphenhydramine)
+* [DPH](/en/deliriants/diphenhydramine)
 * [Datura](/en/datura)
-* [Scopolamine](/en/scopolamine)
+* [Scopolamine](/en/deliriants/scopolamine)
 * [Tobacco](/en/tobacco)
 
 ## History
-The term deliriant was introduced by David F. Duncan and Robert S. Gold to distinguish these drugs from psychedelics and dissociatives, such as [LSD](/en/lsd) and [ketamine](/en/ketamine) respectively, due to their unique property of causing delirium, as opposed to the more lucid states produced by other types of hallucinogen. The term is generally used to refer to anticholinergic drugs. 
+The term deliriant was introduced by David F. Duncan and Robert S. Gold to distinguish these drugs from psychedelics and dissociatives, such as [LSD](/en/psychedelics/lsd) and [ketamine](/en/untagged/ketamine) respectively, due to their unique property of causing delirium, as opposed to the more lucid states produced by other types of hallucinogen. The term is generally used to refer to anticholinergic drugs. 
 
 Deliriants such as henbane, mandrake, atropa belladonna and [Datura](/en/datura) are featured in many stories in European mythology, often in association with witchcraft.
 

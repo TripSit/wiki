@@ -14,7 +14,7 @@ dateCreated: 2025-08-08T02:04:16.124Z
 
 Medically, ethylmorphine is primarily used as an ingredient in cough suppression products. It is not approved for sale in the United Stated.
 
-Typical of opoiods, it can provide euphoria, anxiety relief, sedation, nausea. Please refer to the page on [codeine](/en/codeine) for more information about effects.
+Typical of opoiods, it can provide euphoria, anxiety relief, sedation, nausea. Please refer to the page on [codeine](/en/opioids/codeine) for more information about effects.
 
 ## Dosage
 

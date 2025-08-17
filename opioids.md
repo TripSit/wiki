@@ -17,21 +17,21 @@ Opiates and opioids are classes of depressant analgesics derived from or chemica
 | Chemical name (Activity noted past Delta/Kappa/mu/Nociceptin/Zeta) | Half-Life [Active Metabolites] | Dose Equiv. of 10mg Morphine (Oral) |
 |---|---|---|
 | Dextropropoxyphene | 6-12 hours [30-36 hours] | 130-200mg |
-| [Codeine](/en/codeine) | 2.5-3 hours | 66.67-125mg |
+| [Codeine](/en/opioids/codeine) | 2.5-3 hours | 66.67-125mg |
 | Tramadol (SNRI) | 6-8.8 hours | 66.67-125mg |
 | Tilidine | 3-5 hours | 50mg |
 | Dihydrocodeine | ~4 hours | 50mg |
 
 # Common opioids
 
-* [Codeine](/en/codeine)
-* [Heroin](/en/heroin)
-* [Hydrocodone](/en/hydrocodone)
-* [Hydromorphone](/en/hydromorphone)
-* [Methadone](/en/methadone)
-* [Oxycodone](/en/oxycodone)
-* [Oxymorphone](/en/oxymorphone)
-* [Tramadol](/en/tramadol)
+* [Codeine](/en/opioids/codeine)
+* [Heroin](/en/opioids/heroin)
+* [Hydrocodone](/en/opioids/hydrocodone)
+* [Hydromorphone](/en/opioids/hydromorphone)
+* [Methadone](/en/opioids/methadone)
+* [Oxycodone](/en/untagged/oxycodone)
+* [Oxymorphone](/en/opioids/oxymorphone)
+* [Tramadol](/en/opioids/tramadol)
 
 # History
 
@@ -81,7 +81,7 @@ An opioid is any psychoactive chemical that resembles an opiate in its pharmacol
 
 Avoid driving on higher doses.
 
-Opioid analgesics do not cause any specific organ toxicity, unlike many other drugs, such as aspirin and acetaminophen. They are not associated with upper gastrointestinal bleeding and renal toxicity, however, people seeking codeine experiences from medications that contain acetaminophen (paracetamol) may be putting themselves at risk for acetaminophen-related complications such as liver damage. In the case of Acetaminophen and aspirin-containing medications, [Cold Water Extraction](/en/cold-water-extraction) is useful to reduce the amount of non-opioid analgesics ingested
+Opioid analgesics do not cause any specific organ toxicity, unlike many other drugs, such as aspirin and acetaminophen. They are not associated with upper gastrointestinal bleeding and renal toxicity, however, people seeking codeine experiences from medications that contain acetaminophen (paracetamol) may be putting themselves at risk for acetaminophen-related complications such as liver damage. In the case of Acetaminophen and aspirin-containing medications, [Cold Water Extraction](/en/guides/cold-water-extraction) is useful to reduce the amount of non-opioid analgesics ingested
 
 If possible, having Naloxone available (especially when dealing with high doses) is a good idea. Naloxone is a pure opioid antagonist, which means it reverses the effects of opiate drugs and can reverse overdose symptoms.
 
@@ -93,7 +93,7 @@ When preparing IV solutions for injection of street drugs, a wheel filter (micro
 
 Don't mix any of the class with any other CNS [Depressants](/en/depressants) as it increases the risk of an overdose and respiratory depression.
 
-[Tramadol](/en/tramadol) and [Meperidine](/en/meperidine) are affecting serotonin levels in the brain and might cause Serotonin Syndrome with some combinations. Check [Drug Combinations](/en/drug-combinations) for more information.
+[Tramadol](/en/opioids/tramadol) and [Meperidine](/en/meperidine) are affecting serotonin levels in the brain and might cause Serotonin Syndrome with some combinations. Check [Drug Combinations](/en/guides/drug-combinations) for more information.
 
 ## Research Chemicals
 
@@ -101,7 +101,7 @@ Respiratory depression is one of the very common side effects with this class an
 
 It's suggested to start at the lowest possible dose; in the case of W-18, animal testing has shown it to be around 10,000x the potency of Morphine. So the logical way to start is either to volumetrically dose or use a precise scale with a +/- microgram amount. Titrating up to an active dose with this class might be the most difficult, due to the massively steep dosage curves.
 
-See the [Research Chemicals](/en/research-chemicals) page for more information.
+See the [Research Chemicals](/en/untagged/research-chemicals) page for more information.
 
 # Links
 

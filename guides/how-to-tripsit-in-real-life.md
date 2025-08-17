@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:06:09.512Z
 ---
 
-This article covers some basic rules and tips on how to tripsit someone through a drug experience in life. Additional to this page, you can pick up some extra tips on attitudes and what to say on [How To Tripsit Online](/en/how-to-tripsit-online).
+This article covers some basic rules and tips on how to tripsit someone through a drug experience in life. Additional to this page, you can pick up some extra tips on attitudes and what to say on [How To Tripsit Online](/en/guides/how-to-tripsit-online).
 
 ## Common Duties
 

@@ -12,7 +12,7 @@ dateCreated: 2025-08-08T02:08:37.542Z
 
 **MDMA** (3,4-methylenedioxy-N-Methylamphetamine) is an popular drug of the phenethylamine and amphetamine class known for its empathogenic, euphoric, and stimulant effects, and has also been used in psychotherapy. It most frequently comes in tablet form, although it is also found in capsules or as powder. MDMA is also known as Ecstasy, Molly, XTC, E and several other names. 
 
-Because MDMA is so popular and because it goes well with dance parties, the demand for it usually exceeds supply, especially at any given location on any given night. This creates an opening for unscrupulous individuals to sell virtually anything as 'ecstasy'. While 'ecstasy' is the popular name for MDMA, the functional definition of ecstasy is any pill represented as MDMA on the street. Ecstasy pills are notoriously unreliable in content, more so than most other street drugs, and commonly contain either caffeine, ephedrine, amphetamines, other MDXX's, DXM, or in rare cases DOX's, and don't necessarily contain MDMA or any psychoactive. They can also contain very neurotoxic substances (such as PMA, 4-CA, among many others). This problem has led to the development of simple MDMA [Test Kits](/en/test-kits) that may help give the user a general sense of the content of a pill.
+Because MDMA is so popular and because it goes well with dance parties, the demand for it usually exceeds supply, especially at any given location on any given night. This creates an opening for unscrupulous individuals to sell virtually anything as 'ecstasy'. While 'ecstasy' is the popular name for MDMA, the functional definition of ecstasy is any pill represented as MDMA on the street. Ecstasy pills are notoriously unreliable in content, more so than most other street drugs, and commonly contain either caffeine, ephedrine, amphetamines, other MDXX's, DXM, or in rare cases DOX's, and don't necessarily contain MDMA or any psychoactive. They can also contain very neurotoxic substances (such as PMA, 4-CA, among many others). This problem has led to the development of simple MDMA [Test Kits](/en/guides/test-kits) that may help give the user a general sense of the content of a pill.
 
 The experience is often called rolling.
 
@@ -148,7 +148,7 @@ Many users [report feeling extremely drained the day after MDMA use](http://www.
 
 * MDMA rapidly builds tolerance, depletes serotonin and compounds neurotoxicity issues. Look for other drugs and avoid using MDMA more than once every few months.
 
-* Ecstasy tablets are notoriously impure, often containing chemicals other than MDMA. Check out [EcstasyData](http://www.ecstasydata.org/) and [Pill Reports](http://pillreports.com/) for pill testing results. Buy a [Test Kit](/en/test-kits)!
+* Ecstasy tablets are notoriously impure, often containing chemicals other than MDMA. Check out [EcstasyData](http://www.ecstasydata.org/) and [Pill Reports](http://pillreports.com/) for pill testing results. Buy a [Test Kit](/en/guides/test-kits)!
 
 ## Health risks
 
@@ -163,7 +163,7 @@ There are some studies which suggest that long-term overuse and abuse of MDMA ca
 
 ### Interactions
 
-* MDMA can cause [Serotonin Syndrome](/en/serotonin-syndrome) when combined with MAOIs. Refer to [Drug combinations](/en/drug-combinations) for more information.
+* MDMA can cause [Serotonin Syndrome](/en/serotonin-syndrome) when combined with MAOIs. Refer to [Drug combinations](/en/guides/drug-combinations) for more information.
 
 * [SSRIs and SNRIs block most effects of MDMA.](http://www.erowid.org/chemicals/mdma/mdma_info9.shtml)
 

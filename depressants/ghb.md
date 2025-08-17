@@ -69,7 +69,7 @@ GBL dose: 1ml GBL is equal to 1.6ml GHB
 * The dosage curve of GHB is very steep, recreational doses being very close to doses which will cause a period of unrousable sleep, which are again relatively close to doses which may cause coma or death through respiratory depression. 
 *The only way to know the concentration of liquid GHB is to know and trust information provided by the source. Users should be extremely careful about GHB dosages as even small overdoses can result in temporarily unrousable sleep.
 * Avoid driving and operating heavy machinery
-* Don't mix it with [alcohol](/en/alcohol), or other [depressants](/en/depressants)
+* Don't mix it with [alcohol](/en/depressants/alcohol), or other [depressants](/en/depressants)
 * 2-3 uses a week should be the maximum
 * High addiction potential
 

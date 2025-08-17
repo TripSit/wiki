@@ -20,7 +20,7 @@ Here's the details you need to know to setup your streaming software.
 | **Port** | **8000** |
 | **Mount point** | **/tripradio** |
 | **Username** (or "Account") | *Leave empty [sometimes 'source']* |
-| **Password** | *[Apply to get password](/en/dj-application)* |
+| **Password** | *[Apply to get password](/en/tripsit/dj-application)* |
 | **Streaming format** | **mp3 only, up to 320kbit!** |
 
 Note: Sometimes the "/" in Mount Point "/tripradio" is not required and added automatically.  If you cannot join, try removing the "/" and try reconnecting.  If that doesn't work, go back and add the "/".  For whatever reason, it can be very finicky sometimes.

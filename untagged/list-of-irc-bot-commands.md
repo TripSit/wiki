@@ -40,7 +40,7 @@ dateCreated: 2025-08-08T02:07:41.032Z
 
 | Syntax | Description | Example |
 |--------|-------------|---------|
-| ~idose <dose> <drug> <method> | Tripbot will remember the dose and the timing for you. [Make sure to set a timezone before using this](/en/list-of-irc-bot-commands#utility), else the absolute time might be inaccurate. Relative time will still be accurate. **Running this multiple times will overwrite the previous stored dose**. Please note this functionality only works in private messages with tripbot. | ~idose 100mg MDMA |
+| ~idose <dose> <drug> <method> | Tripbot will remember the dose and the timing for you. [Make sure to set a timezone before using this](/en/untagged/list-of-irc-bot-commands#utility), else the absolute time might be inaccurate. Relative time will still be accurate. **Running this multiple times will overwrite the previous stored dose**. Please note this functionality only works in private messages with tripbot. | ~idose 100mg MDMA |
 | ~lastdose | Tripbot responds with your latest dose, including drug, dose and timing. | <@tripbot>: You last dosed 100mg of MDMA  3 hours ago (22:00 on 13/05/2017). |
 | ~set upidose true/false | tripbot will upload your dose history and send it to you when you add a new drug with ~idose | ~set upidose true |
 
@@ -104,4 +104,4 @@ dateCreated: 2025-08-08T02:07:41.032Z
 | ~ud <word> | Returns the first Urban Dictionary definition for the <word> provided. | ~ud TripSit |
 | ~xkcd <number> | Returns a link to the xkcd comic <number> specified, or the latest one if <number> is not given. | ~xkcd 1173 |
 | ~flashy <colour> <message> | Gives a link to a page that shows the <message> flashing in <colour>. | ~flashy blue hello |
-| ~triptoy | Gives a link to a fun website for tripping. Click the link to see a full list of [Trip Toys](/en/list-of-trip-toys) |  |
+| ~triptoy | Gives a link to a fun website for tripping. Click the link to see a full list of [Trip Toys](/en/untagged/list-of-trip-toys) |  |

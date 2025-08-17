@@ -84,7 +84,7 @@ Selective MAOIs only inhibit either MAOI-A or MAO-B (See note for MAO-B selectiv
 * [Mirtazapine](/en/mirtazapine) (Remeron)
 
 ### NMDA antagonists
-Dissociatives such as [Ketamine](/en/ketamine), [PCP](/en/pcp), [MXE](/en/mxe) or [Diphenidine](/en/diphenidine) produce a afterglow that lasts 1-2 weeks and has a strong antidepressant effect.
+Dissociatives such as [Ketamine](/en/untagged/ketamine), [PCP](/en/dissociatives/pcp), [MXE](/en/mxe) or [Diphenidine](/en/dissociatives/diphenidine) produce a afterglow that lasts 1-2 weeks and has a strong antidepressant effect.
 
 ### Others
 * [Lithium](/en/lithium)
@@ -121,13 +121,13 @@ Also in use are natural remedies such as St John's Wort, which is largely unders
 * Dietary restrictions (For MAOIs)
 
 ## Harm Reduction
-Drugs that inhibit the reuptake of serotonin tend to dull or cancel the effects of many recreational drugs, while mixing other antidepressants such as MAOIs with certain drugs may be fatal. See the [Drug Combinations](/en/drug-combinations) for more information. 
+Drugs that inhibit the reuptake of serotonin tend to dull or cancel the effects of many recreational drugs, while mixing other antidepressants such as MAOIs with certain drugs may be fatal. See the [Drug Combinations](/en/guides/drug-combinations) for more information. 
 
 Extreme caution should be taken when using MAOIs, due to their mechanism of action. Eating certain foods containing tryamine can cause *fatal* complications.
 
 Antidepressants cannot be used recreationally. 
 
-Do not combine any antidepressants with any medications containing Dextromethorphan ([DXM](/en/dxm)). This can lead to serotonin syndrome which can be a fatal condition.
+Do not combine any antidepressants with any medications containing Dextromethorphan ([DXM](/en/dissociatives/dxm)). This can lead to serotonin syndrome which can be a fatal condition.
 
 ## Links
 

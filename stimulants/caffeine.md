@@ -22,7 +22,7 @@ Caffeine as a distinct chemical was first isolated in 1819 in Germany, later bei
 
 ## Usage
 
-The most common consumption method is in a brewed drink (such as tea or [coffee](/en/coffee)) or in a carbonated beverage, such as soda. Caffeine is also found in several foods, namely chocolate, and can be eaten in capsule or pill form. It can also be bought as a powder, usually in bulk.
+The most common consumption method is in a brewed drink (such as tea or [coffee](/en/ethnobotanicals/coffee)) or in a carbonated beverage, such as soda. Caffeine is also found in several foods, namely chocolate, and can be eaten in capsule or pill form. It can also be bought as a powder, usually in bulk.
 
 When imbibed as a brewed drink, the caffeine is usually derived from the natural content existing in the produce of the coffee plant or tea bush.
 
@@ -87,13 +87,13 @@ In higher doses, caffeine can cause panicked thinking, racing thoughts, and an u
 See also information under [Stimulants](/en/stimulants).
 
 * Regular use of caffeine can cause dependence and withdrawal, which can last between 3-12 days.
-* Binging on caffeine may cause symptoms of a more general stimulant comedown. See [Quick Guide to Stimulant Comedowns](/en/quick-guide-to-stimulant-comedowns) for more.
+* Binging on caffeine may cause symptoms of a more general stimulant comedown. See [Quick Guide to Stimulant Comedowns](/en/untagged/quick-guide-to-stimulant-comedowns) for more.
 
 ### Interactions
 
 Ordinary amounts of caffeine are usually relatively safe in combination with most drugs, however many users find the combination of caffeine with other drugs that stimulate the CNS to be quite uncomfortable.
 
-See the [Drug combinations](/en/drug-combinations) chart for more information.
+See the [Drug combinations](/en/guides/drug-combinations) chart for more information.
 
 ## Chemistry and Pharmacology
 

@@ -18,7 +18,7 @@ The primary causes of a bad trip are entering the trip with a bad mindset. It's 
 
 Tripping while in a bad mood, or in an unstable mental state is likely to lead to negative thoughts and thereby a bad trip. Similarly, tripping in an uncomfortable environment, such as with people you don't know well, is liable to lead to negative thoughts.
 
-If it's your first time taking a new drug, it's always recommended to do so in the [presence of a sober sitter](/en/how-to-tripsit-in-real-life) - preferably one with experience in the given drug. Human contact can help reconnect a user to reality, and allay any paranoias.
+If it's your first time taking a new drug, it's always recommended to do so in the [presence of a sober sitter](/en/guides/how-to-tripsit-in-real-life) - preferably one with experience in the given drug. Human contact can help reconnect a user to reality, and allay any paranoias.
 
 Some chemicals are particularly given to causing bad trips; for example, [deliriants](/en/deliriants) such as [DPH](/en/dph) are notorious for causing bad trips due to the scary nature of their hallucinations, and inability for the user to distinguish the effects of the drug from reality. It is recommended to avoid such drugs.
 

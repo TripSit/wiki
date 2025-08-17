@@ -77,7 +77,7 @@ Tramadol acts as a μ-opioid receptor agonist, serotonin releasing agent (SRA), 
 
 ## Harm Reduction
 * Do not drive or operate machinery while under the influence of tramadol.
-* Alcohol and many other drugs are extremely dangerous to combine with tramadol, for a list of interactions refer to [Drug combinations](/en/drug-combinations).
+* Alcohol and many other drugs are extremely dangerous to combine with tramadol, for a list of interactions refer to [Drug combinations](/en/guides/drug-combinations).
 * Mainly, do not combine with benzos, other opiates, or other serotogenic drugs
 
 * Tramadol effects serotonin levels in the brain. For this reason it is recommended to taper on and taper off use over an extended time period.

@@ -69,6 +69,6 @@ The effects of 3-HO-PCP include:
 
 ## See Also
 
-- [PCP](/en/pcp)
-- [3-MeO-PCP](/en/3-meo-pcp)
+- [PCP](/en/dissociatives/pcp)
+- [3-MeO-PCP](/en/dissociatives/3-meo-pcp)
 - [Dissociatives](/en/dissociatives)

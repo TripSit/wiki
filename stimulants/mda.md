@@ -143,7 +143,7 @@ See [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for general in
 
 ### Interactions
 
-MDA can cause [Serotonin Syndrome](/en/serotonin-syndrome) when combined with MAOIs. Refer to [Drug combinations](/en/drug-combinations) for more information.
+MDA can cause [Serotonin Syndrome](/en/serotonin-syndrome) when combined with MAOIs. Refer to [Drug combinations](/en/guides/drug-combinations) for more information.
 
 [SSRIs and SNRIs block most effects of MD(M)A.](http://www.erowid.org/chemicals/mdma/mdma_info9.shtml)
 
@@ -151,7 +151,7 @@ MDA can cause [Serotonin Syndrome](/en/serotonin-syndrome) when combined with MA
 
 Chemical name: (R) 1-(benzo[1,3]dioxol-5-yl)propan-2-amine
 
-Take a look at [MDMA Chemistry and Pharmacology](/en/mdma#chemistry-and-pharmacology). MDA is around five times as neurotoxic as MDMA and should not be used frequently.
+Take a look at [MDMA Chemistry and Pharmacology](/en/stimulants/mdma#chemistry-and-pharmacology). MDA is around five times as neurotoxic as MDMA and should not be used frequently.
 
 ## Legal status
 

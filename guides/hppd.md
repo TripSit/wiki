@@ -84,4 +84,4 @@ HPPD is a relatively rare condition and in most cases is not permanent, however 
 
 Unfortunately there is very little reliable data for clinical research into HPPD, since it is a relatively uncommon condition in terms of solid diagnoses. There is some inconsistent data available, mostly comprised of a recreational drug users who are have come forth seeking help - though this is not perfectly useful for study because of the inconsistency of street-drugs.
 
-Certain substances are known (by mostly consistent anecdotal reports) to be particularly prone to having lasting effects, [NBOMEs](/en/nbomes) are notable in this regard.
+Certain substances are known (by mostly consistent anecdotal reports) to be particularly prone to having lasting effects, [NBOMEs](/en/psychedelics/nbomes) are notable in this regard.

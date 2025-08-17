@@ -247,7 +247,7 @@ Plants containing DMT include Mimosa hostilis/tenuflora, Psychotria viridis, Cod
 
 #### Extraction Teks
 
-* [Zim's Clarified ATB Hybrid Salt Tek](/en/zims-clarified-atb-hybrid-salt-tek)
+* [Zim's Clarified ATB Hybrid Salt Tek](/en/guides/zims-clarified-atb-hybrid-salt-tek)
 
 ## Legal status
 

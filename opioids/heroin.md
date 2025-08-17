@@ -63,7 +63,7 @@ When injected intravenously, smoked, or insufflated, heroin produces a wash of e
 
 * Do not drive or use heavy machinery
 
-* Do not mix heroin (or other opiates) with benzos or alcohol. For a full list of interactions view [Drug combinations](/en/drug-combinations)
+* Do not mix heroin (or other opiates) with benzos or alcohol. For a full list of interactions view [Drug combinations](/en/guides/drug-combinations)
 
 ### Potentiators
 

@@ -38,7 +38,7 @@ The difficulties of coordinating public and private interests, local and global 
 
 ## Uses
 
-Buprenorphine is usually sold in the form of sublingual tablets (Suboxone), or trans dermal patches (Butrans). Patches can be attached to skin for long release as treatment for opioid withdrawal, or cut and chewed for recreational use. Usual (30 minutes) sub-lingual use of patches is not 100% effective, so patches can be re-used. Buprenorphine is water-soluble, and can be extracted with a [Cold Water Extraction](/en/cold-water-extraction) (takes more time, usually 24 hours, or around 4 hours with few drops of strong alcohol). Since buprenorphine is a long acting opioid antagonist, other opioids won't work for at least 36 hours after dosing buprenorphine (though some negative effects will be garnered).
+Buprenorphine is usually sold in the form of sublingual tablets (Suboxone), or trans dermal patches (Butrans). Patches can be attached to skin for long release as treatment for opioid withdrawal, or cut and chewed for recreational use. Usual (30 minutes) sub-lingual use of patches is not 100% effective, so patches can be re-used. Buprenorphine is water-soluble, and can be extracted with a [Cold Water Extraction](/en/guides/cold-water-extraction) (takes more time, usually 24 hours, or around 4 hours with few drops of strong alcohol). Since buprenorphine is a long acting opioid antagonist, other opioids won't work for at least 36 hours after dosing buprenorphine (though some negative effects will be garnered).
 
 Buprenorphine will cause withdrawal if you have an opioid tolerance and don't wait long enough (typically 48~ hours) before taking it.
 
@@ -125,7 +125,7 @@ However, if buprenorphine is used in combination with other central nervous syst
 
 ### Interactions
 
-[Drug Combinations](/en/drug-combinations)
+[Drug Combinations](/en/guides/drug-combinations)
 
 Combination of buprenorphine and SSRIs [can cause](http://www.ncbi.nlm.nih.gov/pubmed/18774063) Serotonin Syndrome.
 

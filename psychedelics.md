@@ -10,14 +10,14 @@ dateCreated: 2025-08-08T02:12:24.333Z
 
 **Psychedelics** are a class of psychoactive compounds whose primary effects are rooted in altering perception, causing a number of mental effects which manifest in many forms including altered states of consciousness, visual or tactile effects.
 
-A difference between the common semantic and scientific uses of 'psychedelic' often occurs. Most psychedelic drugs are either [Tryptamines](/en/tryptamines), [Phenethylamines](/en/phenethylamines) or [Lysergamides](/en/lysergamides), and these structural definitions often denote what constitutes a psychedelic proper. However, psychedelics are also part of a wider definition of 'hallucinogens,' which includes certain [dissociatives](/en/dissociatives) and [deliriants](/en/deliriants) - these sharing in many of the typically 'psychedelic' effects of the classical psychedelic chemicals. While a drug may not be strictly classified as a psychedelic, it may share in the semantic definition of a substance which causes the user to experience extra-ordinary forms of consciousness through alterations in cognition and perception, forming 'the psychedelic experience.'
+A difference between the common semantic and scientific uses of 'psychedelic' often occurs. Most psychedelic drugs are either [Tryptamines](/en/untagged/tryptamines), [Phenethylamines](/en/phenethylamines) or [Lysergamides](/en/lysergamides), and these structural definitions often denote what constitutes a psychedelic proper. However, psychedelics are also part of a wider definition of 'hallucinogens,' which includes certain [dissociatives](/en/dissociatives) and [deliriants](/en/deliriants) - these sharing in many of the typically 'psychedelic' effects of the classical psychedelic chemicals. While a drug may not be strictly classified as a psychedelic, it may share in the semantic definition of a substance which causes the user to experience extra-ordinary forms of consciousness through alterations in cognition and perception, forming 'the psychedelic experience.'
 
 ## Common Psychedelics
-* [Mushrooms](/en/mushrooms)
-* [DMT](/en/dmt)
-* [LSD](/en/lsd)
-* [2C-X series](/en/2c-x)
-* [NBOMe series](/en/nbomes)
+* [Mushrooms](/en/untagged/mushrooms)
+* [DMT](/en/psychedelics/dmt)
+* [LSD](/en/psychedelics/lsd)
+* [2C-X series](/en/psychedelics/2c-x)
+* [NBOMe series](/en/psychedelics/nbomes)
 
 See [List of Psychedelics](/t/psychedelic) for a full list.
 
@@ -54,7 +54,7 @@ Psychedelics may cause a wide range of visual effects, for an overview of these,
 
 ## Harm Reduction
 
-Despite many common and prevalent [misconceptions around psychedelic use](/en/common-misconceptions-about-psychedelics), many psychedelics (including [LSD](/en/lsd) and [2C-B](/en/2c-b)) remain among the safest drugs in common recreational use, often with a very low potential for [addiction](/en/addiction). Some psychedelics, such as [LSD](/en/lsd), are almost impossible to physically overdose on, though others such as [NBOMes](/en/nbomes) have very low thresholds for overdose. However, regardless of the physical safety profile of the drug, it is always important to make sure the dose is within reasonable realms since physical side-effects will increase with dosage, along with a greater risk of a bad trip or negative mental side-effects both during and following the trip. 
+Despite many common and prevalent [misconceptions around psychedelic use](/en/guides/common-misconceptions-about-psychedelics), many psychedelics (including [LSD](/en/psychedelics/lsd) and [2C-B](/en/psychedelics/2c-b)) remain among the safest drugs in common recreational use, often with a very low potential for [addiction](/en/guides/addiction). Some psychedelics, such as [LSD](/en/psychedelics/lsd), are almost impossible to physically overdose on, though others such as [NBOMes](/en/psychedelics/nbomes) have very low thresholds for overdose. However, regardless of the physical safety profile of the drug, it is always important to make sure the dose is within reasonable realms since physical side-effects will increase with dosage, along with a greater risk of a bad trip or negative mental side-effects both during and following the trip. 
 
 ### General
 
@@ -68,15 +68,15 @@ Psychedelics are known to potentially cause latent mental illness to manifest. T
 
 During psychedelic trips, a 'bad trip' may be a possibility. This happens when the user enters a negative mindset, often find it difficult to shift their mind from a negative thought path (named 'thought looping'). The chances of a bad trip are increased depending on many factors, including the mental and emotional stability of the user or the setting of the trip - to mitigate these factors, only trip in a comfortable and positive environment.
 
-It is often relatively easy to [escape a bad trip](/en/how-to-deal-with-a-bad-trip), through changing the setting, meditation or by simply [talking to someone](http://chat.tripsit.me).
+It is often relatively easy to [escape a bad trip](/en/guides/how-to-deal-with-a-bad-trip), through changing the setting, meditation or by simply [talking to someone](http://chat.tripsit.me).
 
 ### HPPD
 
-In some cases, the use (or more commonly abuse) of psychedelics may cause [Hallucinogen Persisting Perception Disorder](/en/hppd), in which a user continues to experience the effects of a psychedelic after the experience is over, either latently or in an episodic fashion ('flashbacks'). This usually passes within a short amount of time, but in rare cases can continue for long periods.
+In some cases, the use (or more commonly abuse) of psychedelics may cause [Hallucinogen Persisting Perception Disorder](/en/guides/hppd), in which a user continues to experience the effects of a psychedelic after the experience is over, either latently or in an episodic fashion ('flashbacks'). This usually passes within a short amount of time, but in rare cases can continue for long periods.
 
 ### Tolerance
 
-The figure differs (such as with [DMT](/en/dmt) and [NBOMes](/en/nbomes)), but many psychedelics have a physical tolerance lasting between 1-2 weeks. However, many users report a mental tolerance which may last longer than the physical tolerance, and increases in duration depending on the frequency of use. Psychedelics are often considered to be heavy mental experiences, therefore it is always recommended to leave a reasonable amount of time (often a month or more) between trips, to avoid any adverse psychological effects of chronic use.
+The figure differs (such as with [DMT](/en/psychedelics/dmt) and [NBOMes](/en/psychedelics/nbomes)), but many psychedelics have a physical tolerance lasting between 1-2 weeks. However, many users report a mental tolerance which may last longer than the physical tolerance, and increases in duration depending on the frequency of use. Psychedelics are often considered to be heavy mental experiences, therefore it is always recommended to leave a reasonable amount of time (often a month or more) between trips, to avoid any adverse psychological effects of chronic use.
 
 ### Stimulation
 
@@ -84,11 +84,11 @@ Many psychedelics are also somewhat stimulating, and therefore may cause similar
 
 ### Research Chemicals
 
-Other than regular risks, there are some psychedelic research chemicals with extremely high dosage curves (such as the [DOx](/en/dox) series and particularly the [25X-NBOMe](/en/25x-nbome) series), wherein a few 100ug's might mean the difference between life and death.
+Other than regular risks, there are some psychedelic research chemicals with extremely high dosage curves (such as the [DOx](/en/psychedelics/dox) series and particularly the [25X-NBOMe](/en/25x-nbome) series), wherein a few 100ug's might mean the difference between life and death.
 
 Psychedelics can range between micrograms (Such as AL-LAD/LSZ/the NBxxx series) to a much larger dose (aMT/BK-2C-B) as mentioned above, there can be interactions with various medications/supplements/drinks, such as 2C-T-7 and MAOI's. With psychedelics, titrating up to get to an active dose can be tricky, depending on the substance it's recommended to titrate up on the dosage every 2 weeks.
 
-See the [Research Chemicals](/en/research-chemicals) page for more information.
+See the [Research Chemicals](/en/untagged/research-chemicals) page for more information.
 
 ## Images
 

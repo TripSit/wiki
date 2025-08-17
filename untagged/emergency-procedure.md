@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:03:53.452Z
 
 **This page is a work in progress and should not yet be taken as complete or valid**
 
-Sometimes the use of drugs can lead to a situation where a person will need immediate medical attention, often as the result of an [overdose](/en/overdose). This page acts as a set of guidelines for someone who is looking after a person who is having a difficult experience whilst on drugs. If you are unsure whether medical attention is required, it is always quicker and easier to ring your local emergency number (usually either 112 or 911) immediately and explain your situation to them.
+Sometimes the use of drugs can lead to a situation where a person will need immediate medical attention, often as the result of an [overdose](/en/guides/overdose). This page acts as a set of guidelines for someone who is looking after a person who is having a difficult experience whilst on drugs. If you are unsure whether medical attention is required, it is always quicker and easier to ring your local emergency number (usually either 112 or 911) immediately and explain your situation to them.
 
 DISCLAIMER: We are NOT medical professionals. If you believe there is an emergency it is up to you to call for help. This is simply a set of guidelines based on pre-existing information that has been gathered and summarized. This is NOT a formal or peer reviewed guide and is to be used at your own discretion. **We are NOT medical professionals**
 
@@ -57,7 +57,7 @@ In order to assess pain, use the OPQRST system. This is an acronym standing for 
 
 **If you or someone with you is experiencing what may be a medical emergency, determine if you must contact emergency services (enter common ems numbers here) and if unsure, consult this section. If you are certain only one substance is causing the worrisome signs and symptoms, please view the tables below this section directly correlated to drugs and drug classes**
 
-The surest sign that you or someone else needs immediate medical attention, regardless of the substance or dose that someone has taken, is to look at the symptoms they are currently experiencing. However, it should be noted that the anxiety caused by certain drugs can also make one experience symptoms which, at the time, can be indistinguishable from those which indicate a medical emergency. Unfortunately, it is impossible and unethical for TripSit or a tripsitter to try and diagnose this beyond obvious matters. If you are having trouble deciding whether you are having an anxiety attack or are experiencing an overdose, try reading through our [Overdose](/en/overdose) and [Panic Attacks](/en/panic-attacks) guides - if you are still unsure, then you should either contact health hotline services (e.g. Poison Control or NHS Direct), or otherwise seek medical attention. This table describes some medical symptoms common to immediate emergencies, and the course of action which should be taken for such symptoms:
+The surest sign that you or someone else needs immediate medical attention, regardless of the substance or dose that someone has taken, is to look at the symptoms they are currently experiencing. However, it should be noted that the anxiety caused by certain drugs can also make one experience symptoms which, at the time, can be indistinguishable from those which indicate a medical emergency. Unfortunately, it is impossible and unethical for TripSit or a tripsitter to try and diagnose this beyond obvious matters. If you are having trouble deciding whether you are having an anxiety attack or are experiencing an overdose, try reading through our [Overdose](/en/guides/overdose) and [Panic Attacks](/en/untagged/panic-attacks) guides - if you are still unsure, then you should either contact health hotline services (e.g. Poison Control or NHS Direct), or otherwise seek medical attention. This table describes some medical symptoms common to immediate emergencies, and the course of action which should be taken for such symptoms:
 
 | Symptom | Worst case scenario | Possible causes | Primary action | Secondary action |
 |---------|-------------------|----------------|----------------|------------------|
@@ -88,7 +88,7 @@ The most immediate way to get medical attention is to ring the emergency service
 
 4) If asked to leave, please do so. Interference with medical intervention will not help your friend and only slow down the paramedics or EMT's working.
 
-See [**Emergency Numbers**](/en/overdose) for some localised emergency services numbers.
+See [**Emergency Numbers**](/en/guides/overdose) for some localised emergency services numbers.
 
 ### Health hotlines
 
@@ -106,6 +106,6 @@ If a person is experiencing psychological distress but posing no risk to their o
 * [7 Cups Of Tea](http://www.7cupsoftea.com/) - emotional support
 * [Befrienders](http://www.befrienders.org/) - suicide prevention
 
-See also [How To Tripsit In Real Life](/en/how-to-tripsit-in-real-life) if you are or will soon be in the company of someone who needs support.
+See also [How To Tripsit In Real Life](/en/guides/how-to-tripsit-in-real-life) if you are or will soon be in the company of someone who needs support.
 
 [1] https://www.acls.net/acute-coronary-syndromes-algorithm.htm

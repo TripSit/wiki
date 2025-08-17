@@ -114,7 +114,7 @@ Likelihood of negative side effects increases with higher doses
 
 * The drug has not been proven as neurotoxic, however primary indications show that it may well be. As this is the case, care should be taken to space experiences with this drug out - two weeks has been regarded as a good rule of thumb.
 
-* Given the tendency for users to redose, issues such as malnutrition and sleep deprivation may become a problem with extended use. Try to sleep, and see [Quick Guide to Stimulant Comedowns](/en/quick-guide-to-stimulant-comedowns) for more information on managing a comedown.
+* Given the tendency for users to redose, issues such as malnutrition and sleep deprivation may become a problem with extended use. Try to sleep, and see [Quick Guide to Stimulant Comedowns](/en/untagged/quick-guide-to-stimulant-comedowns) for more information on managing a comedown.
 
 ## Chemistry and Pharmacology
 

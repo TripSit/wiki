@@ -44,7 +44,7 @@ Here is a list of drug-related harm reduction orientated guides.
 
 ## Combination Safety
 
-* [Drug Combinations](/en/drug-combinations) - Information about mixing substances safely
+* [Drug Combinations](/en/guides/drug-combinations) - Information about mixing substances safely
 * [Dangerous Combinations](/en/dangerous-combinations) - Combinations to avoid
 
 ## Recovery and Support

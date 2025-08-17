@@ -12,14 +12,14 @@ A **depressant** is a substance that reduces arousal or stimulation. These drugs
 
 # Common Depressants
 
-* [Alcohol](/en/alcohol)
+* [Alcohol](/en/depressants/alcohol)
 * Alpha/Beta blockers 
 * [Barbiturates](/en/barbiturates)
 * [Benzodiazepines](/en/benzodiazepines)
 * [Cannabinoids](/en/cannabinoids)
 * [Dissociatives](/en/dissociatives)
 * First Generation anti histamines 
-* [GHB](/en/ghb) and [GBL](/en/gbl)
+* [GHB](/en/depressants/ghb) and [GBL](/en/gbl)
 * Nonbenzodiazepines (Z-Drugs)
 * [Opioids](/en/opioids)
 
@@ -60,7 +60,7 @@ Longer-term effects of depressants may include dependence, tolerance, addiction,
 
 # Addiction
 
-People who become [addicted](/en/addiction) to depressants generally find it difficult to stop using the drugs alone. This is because depressants have a series of withdrawal symptoms that can be incredibly uncomfortable including convulsions, muscle spasms, panic attacks and delirium. Instead of undergoing the painful process of detoxification, addicts may choose to stay dependent on depressants.
+People who become [addicted](/en/guides/addiction) to depressants generally find it difficult to stop using the drugs alone. This is because depressants have a series of withdrawal symptoms that can be incredibly uncomfortable including convulsions, muscle spasms, panic attacks and delirium. Instead of undergoing the painful process of detoxification, addicts may choose to stay dependent on depressants.
 
 # Harm Reduction
 Driving under the influence of depressants is strongly discouraged. Depressants have a tendency to impair judgement and coordination, especially in higher doses. 

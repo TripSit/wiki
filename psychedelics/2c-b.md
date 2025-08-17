@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T01:57:58.475Z
 
 <img src="/assets/2cb.jpg" alt="2C-B vial and powder" width="150" style="float: right; margin-left: 10px;">
 
-**2C-B** is a [psychedelic](/en/psychedelics) drug of the [2C-X family](/en/2c-x).
+**2C-B** is a [psychedelic](/en/psychedelics) drug of the [2C-X family](/en/psychedelics/2c-x).
 Effects are often described as being more easily managed than other psychedelics; it is often compared to a mixture of a LSD and MDMA.
 2C-B is also known for the strong body component of its effects which are alternately described as pleasurable energy or a 'sense of being in the body,' and by others as an unpleasant 'buzzing' or body-load, which is mostly occurring during onset. Users also report open eye visuals in the form of colour distortions, melting like hallucinations, and other minor visual psychedelic effects.
 
@@ -98,7 +98,7 @@ Do not take heroic doses thinking that 2C-B is one of the "safer psychedelics".
 
 Internationally, 2C-B is a Schedule II drug under the Convention on Psychotropic Substances. In the Netherlands, 2C-B became a list I substance of the Opium Law despite no health incidents occurring. Following the ban, other phenethylamines were sold in place of 2C-B until the Netherlands became the first country in the world to ban 2C-I, 2C-T-2 and 2C-T-7 alongside 2C-B.
 
-* UK: Class A (Along with all the others in the [2C-X family](/en/2c-x). (Illegal to produce, supply, or possess.))
+* UK: Class A (Along with all the others in the [2C-X family](/en/psychedelics/2c-x). (Illegal to produce, supply, or possess.))
 * United States: [Schedule I](http://www.justice.gov/dea/druginfo/ds.shtml) (Illegal to produce, supply, or possess.)
 
 ## Links

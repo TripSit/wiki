@@ -102,15 +102,15 @@ Examples:
 
 The most important thing to keep in mind is that panic attacks are not dangerous. They usually originate from a negative thought loop and can be stopped by reminding the 'victim' that they are in no danger whatsoever. Usually a short period of breathing exercise (30s) will be able to 'break the cycle' in terms of the thought loop and you will be able to move them onto another subject. Ask the user to shut their eyes, breathe slowly and deeply and clear their mind of everything but their breathing for thirty seconds - and reassure them that once they have done this they will be feeling much better.
 
-Remember, panic attacks are uncomfortable but not dangerous. Failing being able to perform meditation, suggest a change of setting - this can be done most easily by suggesting the user goes to get a glass of water. See our page on [panic attacks](/en/panic-attacks) for more specific information on dealing with a panic attack.
+Remember, panic attacks are uncomfortable but not dangerous. Failing being able to perform meditation, suggest a change of setting - this can be done most easily by suggesting the user goes to get a glass of water. See our page on [panic attacks](/en/untagged/panic-attacks) for more specific information on dealing with a panic attack.
 
 ### Possible Overdose
 
-Ascertain whether just [panic attack](/en/panic-attacks), and beyond that recommend nothing other than seeking immediate medical attention. We aren't doctors. You should be able to use our resources (or failing that, Google) to quickly ascertain whether a dose is dangerous. Don't freak out trippers by saying they may be in danger when they're on, for example, ~1500ug of 25-I-NBOMe (high dose but not dangerous). Get some background from the tripper; 4g of paracetamol (Acetaminophen) won't harm most of the people but if someone already has problems with their liver it is really dangerous. 
+Ascertain whether just [panic attack](/en/untagged/panic-attacks), and beyond that recommend nothing other than seeking immediate medical attention. We aren't doctors. You should be able to use our resources (or failing that, Google) to quickly ascertain whether a dose is dangerous. Don't freak out trippers by saying they may be in danger when they're on, for example, ~1500ug of 25-I-NBOMe (high dose but not dangerous). Get some background from the tripper; 4g of paracetamol (Acetaminophen) won't harm most of the people but if someone already has problems with their liver it is really dangerous. 
 
 There is no way to be certain of a users pre-existing tolerance to any one drug and what they say might be nothing more than their perceived tolerance to said drug. As a result, every individual is different. Potential overdoses for one may be a safe recreational dose for another (more tolerant) individual. This means that there is no guaranteed way to know if one is at a significant risk of death from a potential overdose, which is why recommending seeking medical attention is the best thing to do at that point.
 
-See our page on [overdoses](/en/overdose) for more specific information.
+See our page on [overdoses](/en/guides/overdose) for more specific information.
 
 ### Bad Trip
 
@@ -128,7 +128,7 @@ Consider also that challenging moments in a trip can be an incredible opportunit
 
 If it appears the tripper is now feeling better perhaps suggest that they occupy themselves with an enjoyable simple activity (drawing, jamming to music, watching a movie,  '~triptoys' command, etc). Or if the tripper is feeling up for some conversation you should direct them to #sanctuary and explain the chat is a light positive chat for people on substances.  
 
-We also have a [full guide on how to deal with a bad trip](/en/how-to-deal-with-a-bad-trip).
+We also have a [full guide on how to deal with a bad trip](/en/guides/how-to-deal-with-a-bad-trip).
 
 ### Stimulant Induced Panic
 
@@ -141,11 +141,11 @@ More information about Stimulant Harm Reduction [Here](/en/stimulants#harm-reduc
 
 ### Suicidal Users
 
-If a user is suicidal, check if they're on drugs or coming down. Try and calm them down to the best of your ability using the techniques described in the Bad Trip section. Use your best judgment, but remember we're not mental health professionals and we're not equipped to deal with these situations properly. If you feel their state isn't improving try to figure out what country they're from and direct them to call a suicide hotline, as they know how to help them much better than we do. Tripbot has the command: ~suicide that links to [Suicidal Users Referrals](/en/suicidal-users-referrals).  If all attempts fail please contact a staff member.
+If a user is suicidal, check if they're on drugs or coming down. Try and calm them down to the best of your ability using the techniques described in the Bad Trip section. Use your best judgment, but remember we're not mental health professionals and we're not equipped to deal with these situations properly. If you feel their state isn't improving try to figure out what country they're from and direct them to call a suicide hotline, as they know how to help them much better than we do. Tripbot has the command: ~suicide that links to [Suicidal Users Referrals](/en/untagged/suicidal-users-referrals).  If all attempts fail please contact a staff member.
 
 ### Finding and Providing Information
 
-There is a wealth of useful information which can help provide you and a tripsitee with information on our Wiki or our other resources. You can either browse the Wiki itself at http://wiki.tripsit.me, or various important articles are also stored in tripbot quotes, such as ~stimulant comedowns. You can get bite-sized information about certain drugs and classes of drug in-channel with the '~drug drugname' command. For example, '~drug mdma dose'. You can also get a link to a nice web-page with all the information about a single drug with, for example: ~factsheet 2cb. For a quick overview of drug combinations check out our [Drug Combination Chart](/en/drug-combinations)
+There is a wealth of useful information which can help provide you and a tripsitee with information on our Wiki or our other resources. You can either browse the Wiki itself at http://wiki.tripsit.me, or various important articles are also stored in tripbot quotes, such as ~stimulant comedowns. You can get bite-sized information about certain drugs and classes of drug in-channel with the '~drug drugname' command. For example, '~drug mdma dose'. You can also get a link to a nice web-page with all the information about a single drug with, for example: ~factsheet 2cb. For a quick overview of drug combinations check out our [Drug Combination Chart](/en/guides/drug-combinations)
 
 ## What to Avoid
 
@@ -159,6 +159,6 @@ There is a wealth of useful information which can help provide you and a tripsit
 
 ## Other Useful Links
 
-* A quick intro guide to [how the chat works and its commands](/en/irc-user-guide#basic-commands)
-* A list of [Tripbot commands](/en/list-of-irc-bot-commands)
-* A list of [Trip Toys](/en/list-of-trip-toys) (you can link to a random one with ~triptoy)
+* A quick intro guide to [how the chat works and its commands](/en/archive/irc-user-guide#basic-commands)
+* A list of [Tripbot commands](/en/untagged/list-of-irc-bot-commands)
+* A list of [Trip Toys](/en/untagged/list-of-trip-toys) (you can link to a random one with ~triptoy)

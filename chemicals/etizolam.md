@@ -77,9 +77,9 @@ Note: Duration can be significantly longer with higher doses.
 
 ### Interactions
 
-As with other depressants, Etizolam should not be combined with any other CNS depressants (such as [alcohol](/en/alcohol)), at the risk of respiratory depression, which can lead to death.
+As with other depressants, Etizolam should not be combined with any other CNS depressants (such as [alcohol](/en/depressants/alcohol)), at the risk of respiratory depression, which can lead to death.
 
-See the [Drug combinations](/en/drug-combinations) chart for more information.
+See the [Drug combinations](/en/guides/drug-combinations) chart for more information.
 
 ## Chemistry and Pharmacology
 

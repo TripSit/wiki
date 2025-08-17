@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:03:47.936Z
 ---
 
-This document describes how staff members can edit our [Factsheets](/en/factsheets), which provides a database of concise drug information - upon which our IRC-based ~drug information is built, along with our web-based [factsheets](http://drugs.tripsit.me/) and its associated API.
+This document describes how staff members can edit our [Factsheets](/en/tripsit/factsheets), which provides a database of concise drug information - upon which our IRC-based ~drug information is built, along with our web-based [factsheets](http://drugs.tripsit.me/) and its associated API.
 
 ## Web Editing
 

@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T01:58:58.325Z
 
 <img src="/assets/adderall.jpg" alt="Several 10mg Adderall IR pills" width="400" align="left">
 
-Adderall is a commonly prescribed stimulant to treat ADHD and ADD. Adderall is a 3:1 mixture of dextroamphetamine and levoamphetamine. Adderall is commonly found in two forms, IR and XR. IR is instant release, while XR is extended release. Adderall XR releases half of the dosage immediately, and the other half 4 hours later. Adderall, containing [amphetamine](/en/amphetamine), is exceedingly similar to other forms of the substance, though with Adderall the constitution and doses are known.
+Adderall is a commonly prescribed stimulant to treat ADHD and ADD. Adderall is a 3:1 mixture of dextroamphetamine and levoamphetamine. Adderall is commonly found in two forms, IR and XR. IR is instant release, while XR is extended release. Adderall XR releases half of the dosage immediately, and the other half 4 hours later. Adderall, containing [amphetamine](/en/stimulants/amphetamine), is exceedingly similar to other forms of the substance, though with Adderall the constitution and doses are known.
 
 ## History
 
@@ -122,4 +122,4 @@ Adderall mixed with downers like Benzodiazepines can also cause adverse reaction
 
 ## Links
 
-* [Amphetamine](/en/amphetamine)
+* [Amphetamine](/en/stimulants/amphetamine)

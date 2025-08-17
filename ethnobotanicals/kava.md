@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:07:15.465Z
 
 <img src="/assets/kava.jpg" width="300" align="right">
 
-**Kava** (Piper methysticum) is a tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to [alcohol](/en/alcohol). It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'
+**Kava** (Piper methysticum) is a tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold and bitter-tasting beverage used similarly to [alcohol](/en/depressants/alcohol). It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product, used widely by those in certain societies as part of a 'Kava Culture.'
 
 ## History
 
@@ -68,7 +68,7 @@ Note: Onset is faster with an increased dose.
 
 * Avoid driving and operating heavy machinery.
 
-* Do not combine Kava with other CNS depressants (such as [Alcohol](/en/alcohol), [Opioids](/en/opioids), [GHB](/en/ghb) and [Benzodiazepines](/en/benzodiazepines)).
+* Do not combine Kava with other CNS depressants (such as [Alcohol](/en/depressants/alcohol), [Opioids](/en/opioids), [GHB](/en/depressants/ghb) and [Benzodiazepines](/en/benzodiazepines)).
 
 * Pregnant women and people with endogenous psychoses should avoid Kava.
 
@@ -76,7 +76,7 @@ Note: Onset is faster with an increased dose.
 
 ### Interactions
 
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs.
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs.
 
 ## Chemistry and Pharmacology
 

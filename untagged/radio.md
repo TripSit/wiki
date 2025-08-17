@@ -20,8 +20,8 @@ dateCreated: 2025-07-31T22:05:18.669Z
 
 ## Other pages
 
-* **[DJ application](/en/dj-application)** - see here for how to apply to become a DJ.
-* [How to DJ & Radio Software setup](/en/how-to-dj)
+* **[DJ application](/en/tripsit/dj-application)** - see here for how to apply to become a DJ.
+* [How to DJ & Radio Software setup](/en/tripsit/how-to-dj)
 * [List of DJs](/en/list-of-djs)
 
 ## Listen

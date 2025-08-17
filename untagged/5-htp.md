@@ -10,11 +10,11 @@ dateCreated: 2025-08-08T01:58:34.373Z
 
 # MDMA Supplementation
 
-**MDMA** supplementation refers to the practice of taking various [vitamins](/en/vitamins), [minerals](/en/minerals), and other [supplements](/en/supplements) before, during, and after [MDMA](/en/mdma) use to potentially reduce negative side effects and support recovery.
+**MDMA** supplementation refers to the practice of taking various [vitamins](/en/vitamins), [minerals](/en/minerals), and other [supplements](/en/supplements) before, during, and after [MDMA](/en/stimulants/mdma) use to potentially reduce negative side effects and support recovery.
 
 ## Overview
 
-[MDMA](/en/mdma) can deplete certain neurotransmitters and cause oxidative stress in the brain. Supplementation protocols have been developed by harm reduction communities to potentially minimize these effects, though scientific research on their effectiveness in humans is limited.
+[MDMA](/en/stimulants/mdma) can deplete certain neurotransmitters and cause oxidative stress in the brain. Supplementation protocols have been developed by harm reduction communities to potentially minimize these effects, though scientific research on their effectiveness in humans is limited.
 
 ## Common Supplements
 
@@ -52,7 +52,7 @@ Most supplementation protocols follow a pattern of:
 
 ## Safety Considerations
 
-- Some supplements may interact with [MDMA](/en/mdma) or other medications
+- Some supplements may interact with [MDMA](/en/stimulants/mdma) or other medications
 - Quality and purity of supplements can vary significantly
 - Individual responses to supplements can differ
 - Supplements are not regulated as strictly as pharmaceuticals
@@ -70,7 +70,7 @@ While some animal studies suggest certain antioxidants may provide neuroprotecti
 
 ## See Also
 
-- [MDMA](/en/mdma)
+- [MDMA](/en/stimulants/mdma)
 - [Harm Reduction](/en/harm-reduction)
 - [Drug Testing](/en/drug-testing)
 - [Supplements](/en/supplements)

@@ -15,7 +15,7 @@ For this reason TripSit now requires IRCCloud users to identify with SASL. Don't
 You will need to connect using a different client/service at least once to register your nickname. You can use [kiwi](https://chat.tripsit.me/) to do this.
 
 ## Register a nickname
-Connect using a different client/service and register a nickname with NickServ (More information can be found on the [How To Register your Nickname](/en/how-to-register-your-nickname) page.)
+Connect using a different client/service and register a nickname with NickServ (More information can be found on the [How To Register your Nickname](/en/archive/how-to-register-your-nickname) page.)
 
 ## Configure IRCCloud
 Set it to connect to **irc.tripsit.me** on **port 6697**; Configure your client to identify with SASL, otherwise you won't be able to connect. IRCCloud doesn't label it as such, but this is accomplished by clicking **Advanced Options**, then putting in your **NickServ** password in the provided text box. Click **save**.

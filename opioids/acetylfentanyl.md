@@ -97,7 +97,7 @@ Twelve deaths have been associated with Acetyl-Fentanyl in Russia since 2012.
 In July 2015 the DEA informed about 52 confirmed fatalities involving Acetyl-Fentanyl in the United States between 2013 and 2015.
 
 ### Interactions
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs.
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs.
 
 ### LD50
 The LD50 of acetlyfentanyl is 9.3 mg/kg in mice

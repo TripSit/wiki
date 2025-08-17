@@ -205,7 +205,7 @@ Remember: Breaking rules as a joke is still breaking the rules.
    1. Do not discuss the specifics or go in-depth into the mechanics of online vending.
    2. Do not show drug packaging to show how a vendor delivered something. 
 4. Do not post any content that encourages, promotes, or signifies the intent to engage in unnecesarily harmful practices.
-   1. Do not encourage substance use, and discourage drug dosages, [drug combinations](/en/drug-combinations), or any drug experimentation which could be reliably considered unsafe.
+   1. Do not encourage substance use, and discourage drug dosages, [drug combinations](/en/guides/drug-combinations), or any drug experimentation which could be reliably considered unsafe.
    2. Do not post pictures or videos of drug consumption that glorify substance use, eg, "stash pics" or excessive dosages.
    3. Do not refuse to follow harm reduction standards, e.g., continually engage in destructive behavior or refuse to call EMS when directed.
    4. Do not post suicide threats; our team is not qualified to manage this situation and will need to refer to Reddit's SuicideWatch community and suicide prevention hotlines by country: https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines

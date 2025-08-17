@@ -52,15 +52,15 @@ As little as 1 ml of the juice pressed from the fresh leaves is said to contain 
 
 **Ritual Use**
 
-See [ayahuasca](/en/ayahuasca).
+See [ayahuasca](/en/ethnobotanicals/ayahuasca).
 
 **Artifacts**
 
-See [ayahuasca](/en/ayahuasca) ("Ayahuasca Music-A Discography;" on page 711).
+See [ayahuasca](/en/ethnobotanicals/ayahuasca) ("Ayahuasca Music-A Discography;" on page 711).
 
 **Medicinal Use**
 
-The Machiguenga use juice that has been freshly pressed from the leaves of Psychotria viridis or another Psychotria species ([Psychotria spp.](/en/psychotria-spp)) as eyedrops for treating migraine headaches (Russo 1997, 5). While Psychotria viridis does have a reputation as a medicinal plant, such use has been little studied to date (see also [ayahuasca](/en/ayahuasca)).
+The Machiguenga use juice that has been freshly pressed from the leaves of Psychotria viridis or another Psychotria species ([Psychotria spp.](/en/psychotria-spp)) as eyedrops for treating migraine headaches (Russo 1997, 5). While Psychotria viridis does have a reputation as a medicinal plant, such use has been little studied to date (see also [ayahuasca](/en/ethnobotanicals/ayahuasca)).
 
 **Constituents**
 
@@ -68,7 +68,7 @@ The leaves contain 0.1 to 0.61% N,N-DMT along with traces of MMT and MTHC (= 2-m
 
 **Effects**
 
-The Kofan Indians say that by mixing Psychotria viridis leaves into their yage (= ayahuasca; cf. [Banisteriopsis caapi](/en/banisteriopsis-caapi)), they are able to see the oprito, the small "heavenly people" that bear the same name as the plant (Pinkley 1969, 535). When used as an ayahuasca additive, the leaves manifest typical DMT effects (see [ayahuasca](/en/ayahuasca)).
+The Kofan Indians say that by mixing Psychotria viridis leaves into their yage (= ayahuasca; cf. [Banisteriopsis caapi](/en/banisteriopsis-caapi)), they are able to see the oprito, the small "heavenly people" that bear the same name as the plant (Pinkley 1969, 535). When used as an ayahuasca additive, the leaves manifest typical DMT effects (see [ayahuasca](/en/ethnobotanicals/ayahuasca)).
 
 **Commercial Forms and Regulations**
 
@@ -76,7 +76,7 @@ The dried leaves are occasionally available from sources specializing in ethnobo
 
 **Literature**
 
-See also the entries for [Psychotria spp.](/en/psychotria-spp), [ayahuasca](/en/ayahuasca), and [ayahuasca analogs](/en/ayahuasca-analogs).
+See also the entries for [Psychotria spp.](/en/psychotria-spp), [ayahuasca](/en/ethnobotanicals/ayahuasca), and [ayahuasca analogs](/en/ethnobotanicals/ayahuasca-analogs).
 
 Der Marderosian, Ara H., et al. 1970. The use and hallucinatory principles of a psychoactive beverage of the Cashinahua tribe (Amazonia basin). Drug Dependence 5:7-14.
 

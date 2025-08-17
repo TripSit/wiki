@@ -66,7 +66,7 @@ See [Dissociative Harm Reduction](/en/dissociatives#harm-reduction) for general 
 
 It is currently unknown whether diphenidine is a reuptake inhibitor of serotonin (SRI), if that is the case do **NOT** ever combine it with other SRIs (such as MXE) or SSRIs.
 
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs.
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs.
 
 ## Chemistry and Pharmacology
 

@@ -35,7 +35,7 @@ While LSZ has subtly different effects than LSD, with a slightly shorter duratio
 
 ## Harm Reduction
 
-While widespread use of LSZ is relatively new and therefore its full impact is unknown, it is likely that it has a similar safety profile to [LSD](/en/lsd). Refer to [LSD](/en/lsd) and [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for more information.
+While widespread use of LSZ is relatively new and therefore its full impact is unknown, it is likely that it has a similar safety profile to [LSD](/en/psychedelics/lsd). Refer to [LSD](/en/psychedelics/lsd) and [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for more information.
 
 ## Images
 

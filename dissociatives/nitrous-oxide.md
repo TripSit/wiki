@@ -88,7 +88,7 @@ Nitrous Oxide should be mixed with air (50/50). If you got pure gas make sure yo
 
 ### Interactions
 
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of Nitrous Oxide with other drugs.
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of Nitrous Oxide with other drugs.
 
 ## Chemistry and Pharmacology
 

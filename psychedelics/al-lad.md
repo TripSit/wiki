@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T01:59:04.397Z
 
 <img src="/assets/allad.jpg" width="200px" align="left">
 
-**AL-LAD** is a hallucinogenic drug, lysergamide and an analogue of [LSD](/en/lsd). It is described by Alexander Shulgin in the book *TiHKAL* (Tryptamines i Have Known And Loved). AL-LAD is reported as having some subtle experiential differences to LSD (such as increased visuals), and also appears to be slightly shorter lasting. AL-LAD doses are similar to those of LSD, depending on purity.
+**AL-LAD** is a hallucinogenic drug, lysergamide and an analogue of [LSD](/en/psychedelics/lsd). It is described by Alexander Shulgin in the book *TiHKAL* (Tryptamines i Have Known And Loved). AL-LAD is reported as having some subtle experiential differences to LSD (such as increased visuals), and also appears to be slightly shorter lasting. AL-LAD doses are similar to those of LSD, depending on purity.
 
 ## History
 
@@ -32,11 +32,11 @@ AL-LAD was originally discovered in the 90s by David Nichols along with several 
 
 ## Effects
 
-In large, AL-LAD is reported as having a very similar effect profile to [LSD](/en/lsd). However, many subjective differences are noted - a different 'headspace' and slightly different visuals are noted, along with what may be perceived as a slightly 'happier' push.
+In large, AL-LAD is reported as having a very similar effect profile to [LSD](/en/psychedelics/lsd). However, many subjective differences are noted - a different 'headspace' and slightly different visuals are noted, along with what may be perceived as a slightly 'happier' push.
 
 ## Harm Reduction
 
-While widespread use of AL-LAD is relatively new and therefore its full impact is unknown, it is likely that it has a similar safety profile to [LSD](/en/lsd). Refer to [LSD](/en/lsd) and [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for more information.
+While widespread use of AL-LAD is relatively new and therefore its full impact is unknown, it is likely that it has a similar safety profile to [LSD](/en/psychedelics/lsd). Refer to [LSD](/en/psychedelics/lsd) and [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for more information.
 
 ## Chemistry and Pharmacology
 Systemaic name:6-allyl-6-nor-lysergic acid diethylamide

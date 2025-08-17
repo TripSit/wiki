@@ -12,7 +12,7 @@ dateCreated: 2025-08-08T02:16:24.660Z
 
 Congratulations to the following user, who earned a weekly win and 10 extra points!
 
-## [GrimReaper](/en/user-grimreaper)
+## [GrimReaper](/en/untagged/user-grimreaper)
 
 <br />
 

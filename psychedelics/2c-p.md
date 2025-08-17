@@ -16,7 +16,7 @@ It was first synthesized by Alexander Shulgin in 1974. Like most of the other 2C
 
 ## Dosage
 
-The dosage for this drug is very sensitive so you may want to look at the links provided: [Quick Guide to Volumetric Dosing](/en/quick-guide-to-volumetric-dosing) and [Scales](/en/scales)
+The dosage for this drug is very sensitive so you may want to look at the links provided: [Quick Guide to Volumetric Dosing](/en/guides/quick-guide-to-volumetric-dosing) and [Scales](/en/guides/scales)
 
 {{#tdose: 2cp }}
 
@@ -85,7 +85,7 @@ This substance is very dose dependant.
 
 2C-P being very dose dependant. Be careful while dealing with this substance or it could regard in an overdose.
 
-For information regarding interactions Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs.
+For information regarding interactions Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs.
 See [Psychedelic Harm Reduction](/en/psychedelic#harm-reduction) for general information.
 
 ### Potentiators

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:12:15.468Z
 ---
 
-This document is for specific instructions on configuring individual clients to connect to TripSit IRC via the Tor hidden service. For more information, see [How to connect through Tor](/en/how-to-connect-through-tor). For clients not specifically mentioned in this guide, please refer to freenodes guide [here](https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO/IrcSilc#IRCclientspecificinstructions)
+This document is for specific instructions on configuring individual clients to connect to TripSit IRC via the Tor hidden service. For more information, see [How to connect through Tor](/en/archive/how-to-connect-through-tor). For clients not specifically mentioned in this guide, please refer to freenodes guide [here](https://trac.torproject.org/projects/tor/wiki/doc/TorifyHOWTO/IrcSilc#IRCclientspecificinstructions)
 
 ## Mirc
 1. Open your proxy configuration page (Tools>Options>Connect>Proxy)

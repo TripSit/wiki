@@ -76,18 +76,18 @@ Some users report Alprazolam (and [benzodiazepines](/en/benzodiazepines) in gene
 
 ### Interactions
 
-As with other depressants, Alprazolam should not be combined with any other CNS depressants (such as [Alcohol](/en/alcohol)), at the risk of respiratory depression, which can lead to death.
-See the [Drug combinations](/en/drug-combinations) chart for more information.
+As with other depressants, Alprazolam should not be combined with any other CNS depressants (such as [Alcohol](/en/depressants/alcohol)), at the risk of respiratory depression, which can lead to death.
+See the [Drug combinations](/en/guides/drug-combinations) chart for more information.
 
 ## Chemistry and Pharmacology
 
 Alprazolam is absorbed fairly rapidly, with peak plasma levels achieved around the one-two hour mark.
 
-It is primarily metabilised via CYP3A4. Alprazolam is a chemical analogue of triazolam. It is a triazolobenzodiazepine. It binds to the GABA(a) receptor and modulates the function of the GABA receptor. You can learn more about the GABA(a) receptor [here](/en/gaba-receptors-and-subunits-info).
+It is primarily metabilised via CYP3A4. Alprazolam is a chemical analogue of triazolam. It is a triazolobenzodiazepine. It binds to the GABA(a) receptor and modulates the function of the GABA receptor. You can learn more about the GABA(a) receptor [here](/en/untagged/gaba-receptors-and-subunits-info).
 
 The LD50 of Alprazolam in rats is 331-2171mg/kg.
 
-An Australian study (2004) of overdose admissions between 1987 and 2002 found alprazolam, which happens to be the most prescribed [benzodiazepine](/en/benzodiazepines) in the U.S. by a large margin, to be more toxic than [diazepam](/en/diazepam) and other [benzodiazepines](/en/benzodiazepines).
+An Australian study (2004) of overdose admissions between 1987 and 2002 found alprazolam, which happens to be the most prescribed [benzodiazepine](/en/benzodiazepines) in the U.S. by a large margin, to be more toxic than [diazepam](/en/chemicals/diazepam) and other [benzodiazepines](/en/benzodiazepines).
 
 ## Legal Status
 

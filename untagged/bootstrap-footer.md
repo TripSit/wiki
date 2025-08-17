@@ -63,7 +63,7 @@ All articles published in the journal are made freely available under a Creative
 
 ## Contact Information
 
-For submission inquiries or editorial questions, please contact the editorial team through the [PsychonautWiki community forums](/en/community).
+For submission inquiries or editorial questions, please contact the editorial team through the [PsychonautWiki community forums](/en/untagged/community).
 
 ## Recent Publications
 

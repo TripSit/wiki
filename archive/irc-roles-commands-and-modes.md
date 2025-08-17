@@ -46,7 +46,7 @@ A short overview of staff positions and the flags that are assigned to them, plu
 
 * Admin - +AFORVefiorstv - Full permissions in #tripsit and #drugs, opped by default.
 
-  * In addition to kick, quiet, and ban, admins have founder, and the ability to use the set command. **For more information, see the [overview of the set command](/en/overview-of-the-set-command)**
+  * In addition to kick, quiet, and ban, admins have founder, and the ability to use the set command. **For more information, see the [overview of the set command](/en/archive/overview-of-the-set-command)**
 
 ## Channel comands
 
@@ -152,13 +152,13 @@ Flags can be set via !flags user +/- flags or via /msg ChanServ flags #channel u
 
 * +O - Enables automatic op.
 
-* +s - Enables use of the set command. **For more information, see the [overview of the set command](/en/overview-of-the-set-command)**
+* +s - Enables use of the set command. **For more information, see the [overview of the set command](/en/archive/overview-of-the-set-command)**
 
-* +i - Enables use of the invite and getkey commands. **Channel keys can only be set via the set command. For more information, see the [overview of the set command](/en/overview-of-the-set-command)**
+* +i - Enables use of the invite and getkey commands. **Channel keys can only be set via the set command. For more information, see the [overview of the set command](/en/archive/overview-of-the-set-command)**
 
 * +r - Enables use of the kick, kickban, ban and unban commands. **!kick/!kickban/!ban/!unban user/host (or /msg ChanServ kick/kickban/ban/unban #channel user/host) Depending on your client, ban masks will vary. Wildcards * and ? are supported. A ban on *!*@1.2.3.4 will block any nickname and username from the host *!*@1.2.3.4. Pattern is nickname!~username@host.**
 
-* +R - Enables use of the recover and clear commands. **For more information, see the [overview of the clear command](/en/overview-of-the-clear-command)**
+* +R - Enables use of the recover and clear commands. **For more information, see the [overview of the clear command](/en/untagged/overview-of-the-clear-command)**
 
 * +f - Enables modification of channel access lists. **Channel access list can be viewed by saying '!flags' in a channel, or via /msg ChanServ flags #channel.**
 
@@ -168,7 +168,7 @@ Flags can be set via !flags user +/- flags or via /msg ChanServ flags #channel u
 
 * +S - Marks the user as a successor. **If the founder of the channel has their NickServ account removed, ownership will transfer to the successor.**
 
-* +F - Grants full founder access. **This is not shown in ChanServ info. Ownership must be transferred via the set command. For more information, see the [overview of the set command](/en/overview-of-the-set-command)**
+* +F - Grants full founder access. **This is not shown in ChanServ info. Ownership must be transferred via the set command. For more information, see the [overview of the set command](/en/archive/overview-of-the-set-command)**
 
 * +b - Enables automatic kickban.
 
@@ -220,11 +220,11 @@ Channel modes are set with **/mode #channel +/- modes**
 
 * +k, key (channel password)
 
-  * Taking one parameter, when set, this mode requires a user to supply the key in order to join the channel: /JOIN #channel key. **This is disabled by default and can only be set by the founder of a channel with the set command. For more information, see the [overview of the set command](/en/overview-of-the-set-command)**
+  * Taking one parameter, when set, this mode requires a user to supply the key in order to join the channel: /JOIN #channel key. **This is disabled by default and can only be set by the founder of a channel with the set command. For more information, see the [overview of the set command](/en/archive/overview-of-the-set-command)**
 
 * +l, channel member limit
 
-  * Takes one numeric parameter, the number of users which are allowed to be in the channel before further joins are blocked. Invited users may join regardless. **This is disabled by default and can only be set by the founder of a channel with the set command. For more information, see the [overview of the set command](/en/overview-of-the-set-command)**
+  * Takes one numeric parameter, the number of users which are allowed to be in the channel before further joins are blocked. Invited users may join regardless. **This is disabled by default and can only be set by the founder of a channel with the set command. For more information, see the [overview of the set command](/en/archive/overview-of-the-set-command)**
 
 * +L, large ban list
 
@@ -236,7 +236,7 @@ Channel modes are set with **/mode #channel +/- modes**
 
 * +n, no external messages
 
-  * When set, this mode prevents users from sending to the channel without being in it themselves. **This is enabled by default and can only be set by the founder of a channel with the set command. For more information, see the [overview of the set command](/en/overview-of-the-set-command)**
+  * When set, this mode prevents users from sending to the channel without being in it themselves. **This is enabled by default and can only be set by the founder of a channel with the set command. For more information, see the [overview of the set command](/en/archive/overview-of-the-set-command)**
 
 * +o, channel operator
 
@@ -270,7 +270,7 @@ Channel modes are set with **/mode #channel +/- modes**
 
 * +t, topic limit
 
-  * When set, this mode prevents users who are not channel operators from changing the topic. **This is enabled by default and can only be set by the founder of a channel with the set command. For more information, see the [overview of the set command](/en/overview-of-the-set-command)**
+  * When set, this mode prevents users who are not channel operators from changing the topic. **This is enabled by default and can only be set by the founder of a channel with the set command. For more information, see the [overview of the set command](/en/archive/overview-of-the-set-command)**
 
 * +v, voice
 

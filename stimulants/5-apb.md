@@ -11,7 +11,7 @@ dateCreated: 2025-08-08T01:58:28.676Z
 # General information
 
 ## General Description
-5-APB is a relatively new Research Chemical which is a structural analogue of [MDA](/en/mda). Where the Methylenedioxy ring has been replaced by a benzofuran ring.
+5-APB is a relatively new Research Chemical which is a structural analogue of [MDA](/en/stimulants/mda). Where the Methylenedioxy ring has been replaced by a benzofuran ring.
 
 ## History
 

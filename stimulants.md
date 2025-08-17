@@ -12,25 +12,25 @@ dateCreated: 2025-08-08T02:14:49.265Z
 
 ## Common Stimulants
 
-* [Amphetamines](/en/amphetamine)
+* [Amphetamines](/en/stimulants/amphetamine)
 
-* [Methamphetamine](/en/methamphetamine)
+* [Methamphetamine](/en/stimulants/methamphetamine)
 
-* [Caffeine](/en/caffeine)
+* [Caffeine](/en/stimulants/caffeine)
 
-* [Nicotine](/en/nicotine)
+* [Nicotine](/en/stimulants/nicotine)
 
-* [Cocaine](/en/cocaine)
+* [Cocaine](/en/stimulants/cocaine)
 
-* [Methylphenidate](/en/methylphenidate)
+* [Methylphenidate](/en/stimulants/methylphenidate)
 
-* [MDMA](/en/mdma)
+* [MDMA](/en/stimulants/mdma)
 
 * [Piperazines](/en/piperazines)
 
-* [Cathinones](/en/cathinones)
+* [Cathinones](/en/untagged/cathinones)
 
-Many [psychedelic](/en/psychedelics) drugs such as [LSD](/en/lsd) or [2C-X](/en/2c-x) are also stimulating to varying degrees.
+Many [psychedelic](/en/psychedelics) drugs such as [LSD](/en/psychedelics/lsd) or [2C-X](/en/psychedelics/2c-x) are also stimulating to varying degrees.
 
 ## History
 
@@ -74,11 +74,11 @@ Stimulants have a long history of human use, with cocaine having been used for t
 
 * Sleep deprivation
 
-Further and more serious issues can arise following a binge or during withdrawals from stimulants, see the [Quick Guide to Stimulant Comedowns](/en/quick-guide-to-stimulant-comedowns) for more information.
+Further and more serious issues can arise following a binge or during withdrawals from stimulants, see the [Quick Guide to Stimulant Comedowns](/en/untagged/quick-guide-to-stimulant-comedowns) for more information.
 
 ## Addiction
 
-The vast majority of stimulants carry a high risk of habituation and addiction when abused. Depending on the chemical and degree of abuse, withdrawal symptoms for a habituated user vary in effect, duration and intensity; see the [Quick Guide to Stimulant Comedowns](/en/quick-guide-to-stimulant-comedowns) for more information.
+The vast majority of stimulants carry a high risk of habituation and addiction when abused. Depending on the chemical and degree of abuse, withdrawal symptoms for a habituated user vary in effect, duration and intensity; see the [Quick Guide to Stimulant Comedowns](/en/untagged/quick-guide-to-stimulant-comedowns) for more information.
 
 ## Harm Reduction
 
@@ -122,13 +122,13 @@ Furthermore, the *duration* of the effects produced by different drugs will vary
 
 This means that the effects from a stimulant may wear off sooner than the depressant's effects do, or vice-versa. For example, it is possible for speedball users to go into cardiac arrest from the sudden increase in depressant effects once the stimulant-drug wears off.
 
-**Refer to [Drug combinations](/en/drug-combinations) for more specific information.**
+**Refer to [Drug combinations](/en/guides/drug-combinations) for more specific information.**
 
 ### Research Chemicals
 
-RC stimulants often carry a very high risk of addiction, since they are often relatively inexpensive and are generally designed to be more and more potent physically and in terms of their effects. With all drugs,[ROA](/en/roa) and dose plays an important role in governing effects and risks, however stimulants are particularly relevant since many of them are short-acting and highly potent. For example, many new stimulants such as 2-DPMP/3,4-CTMP are active at extremely low doses (under 10mg's), while some such as most cathinones are active in the 100mg+ range.
+RC stimulants often carry a very high risk of addiction, since they are often relatively inexpensive and are generally designed to be more and more potent physically and in terms of their effects. With all drugs,[ROA](/en/untagged/roa) and dose plays an important role in governing effects and risks, however stimulants are particularly relevant since many of them are short-acting and highly potent. For example, many new stimulants such as 2-DPMP/3,4-CTMP are active at extremely low doses (under 10mg's), while some such as most cathinones are active in the 100mg+ range.
 
-See the [Research Chemicals](/en/research-chemicals) page for more information.
+See the [Research Chemicals](/en/untagged/research-chemicals) page for more information.
 
 ## Images
 

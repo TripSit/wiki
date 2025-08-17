@@ -18,9 +18,9 @@ We are looking for developers! If you are interested in volunteering, please rea
 
 At some point, IRC access will be necessary, so you will need a way to access IRC. As you may have noticed, we try as hard as we can to get people who need assistance into the chat room. Real-time communication is the best medium for assisting people and for collaborating on projects. **The easiest way to do this is through our [webchat](http://chat.tripsit.me/chat/?nick=TripHelper?#tripsit#,drugs,#home)**. This will get you the quickest access to our assistance chat rooms, #tripsit(1-3), as well as our general and drug chatrooms: #lounge, #drugs, #opiates, #stims.
 
-**While using a webchat client is good for getting started, the features of a desktop client are useful for regular use.** Whilst you can use any IRC client you fance, the TripSit Team have packaged our own client, which is a version of KVIRC configured with our server information. People who [download](http://tripsit.me/tripsitapp/) this client will only have to [set up SASL](/en/irc-user-guide#set-up-sasl) and [register their nickname](/en/irc-user-guide#register-a-nickname). 
+**While using a webchat client is good for getting started, the features of a desktop client are useful for regular use.** Whilst you can use any IRC client you fance, the TripSit Team have packaged our own client, which is a version of KVIRC configured with our server information. People who [download](http://tripsit.me/tripsitapp/) this client will only have to [set up SASL](/en/archive/irc-user-guide#set-up-sasl) and [register their nickname](/en/archive/irc-user-guide#register-a-nickname). 
  
-If you can't use KVIRC or prefer to use a different client, you can download a client on your own and use our [guide to setting up the client](/en/irc-user-guide#setting-up-the-client) to help figure out how to connect. **If you hit any roadblocks you can [join the #help room](http://chat.tripsit.me/?nick=RedditAssist?#help) by saying "/join #help" without the quotes.**
+If you can't use KVIRC or prefer to use a different client, you can download a client on your own and use our [guide to setting up the client](/en/archive/irc-user-guide#setting-up-the-client) to help figure out how to connect. **If you hit any roadblocks you can [join the #help room](http://chat.tripsit.me/?nick=RedditAssist?#help) by saying "/join #help" without the quotes.**
 
 If you're already an IRC pro, our server information is:
 
@@ -28,7 +28,7 @@ If you're already an IRC pro, our server information is:
 
 * SSL Port: 6697
 
-* [We also have a guide to connecting through TOR.](/en/how-to-connect-through-tor)
+* [We also have a guide to connecting through TOR.](/en/archive/how-to-connect-through-tor)
 
 * [More IRC connection information](http://tripsit.me/chat-overview/)
 
@@ -42,7 +42,7 @@ Our flagship resource for helping people is the **[#tripsit](http://chat.tripsit
 
 Next to #tripsit, #tripsit1, #tripsit2 and #tripsit3 are our communication room, #tripsitters. Non-staff are welcome to join this room to communicate about #tripsit sessions. Most of the time, people just need someone to reassure them that they're going to be okay. However, in the event that a session is too much for you, you can use #tripsitters to get in contact with experienced TripSitters or other community members who are standing by at all times in the event that the session needs some specialized attention.
 
-If nothing is currently happening in the #tripsit channels, then both of these channels may be idle. On your tab bar, you will also find the #sanctuary channel; this channel is for people who are tripping but do not require much assistance - you can still help by providing some light conversation! You could also take this time to join the other channels on the network, like #drugs and #lounge, until there's activity in the room. While waiting, you should also **check out our [guide on how to tripsit online](/en/how-to-tripsit-online) and our [chat overview](http://tripsit.me/chat-overview/).** Be sure to read topics for important information! 
+If nothing is currently happening in the #tripsit channels, then both of these channels may be idle. On your tab bar, you will also find the #sanctuary channel; this channel is for people who are tripping but do not require much assistance - you can still help by providing some light conversation! You could also take this time to join the other channels on the network, like #drugs and #lounge, until there's activity in the room. While waiting, you should also **check out our [guide on how to tripsit online](/en/guides/how-to-tripsit-online) and our [chat overview](http://tripsit.me/chat-overview/).** Be sure to read topics for important information! 
 
 If you consistently help out people you can submit an application and we'll offer you a position as an official TripSitter. After this, you can continue to be more involved in various ways and make it up to a Moderator position to help out the rest of our channels on the network. There are more positions than Moderator for people who want to help out more and can show dependability and trustworthiness.
 

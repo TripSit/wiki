@@ -50,9 +50,9 @@ To put it simply, often the vendors themselves don't even really know what their
 
 Remember, just because it is an analogue of something, does not mean it will behave the same way.
 
-An example of this can be seen in the following comparison of two structurally related chemicals [MDAI](/en/mdai) and [MDMA](/en/mdma). MDMA has been documented since the late 60's. MDAI is an analogue of MDMA, and while it produces some similar effects to MDMA it differs in that it's non-neurotoxic.
+An example of this can be seen in the following comparison of two structurally related chemicals [MDAI](/en/mdai) and [MDMA](/en/stimulants/mdma). MDMA has been documented since the late 60's. MDAI is an analogue of MDMA, and while it produces some similar effects to MDMA it differs in that it's non-neurotoxic.
 
-Or we can take [2C-B](/en/2c-b) and its analogues such as [BK-2C-B](/en/bk-2c-b), 25B-NBXXX, TCB-2, DOB, Bromo-Dragon-Fly, 2C-B-FLY. The parent drug in this example is much safer than the rest. There is no record of a death from 2C-B alone, with 25B-NBOMe there have been reports of multiple deaths during its short history of release.
+Or we can take [2C-B](/en/psychedelics/2c-b) and its analogues such as [BK-2C-B](/en/bk-2c-b), 25B-NBXXX, TCB-2, DOB, Bromo-Dragon-Fly, 2C-B-FLY. The parent drug in this example is much safer than the rest. There is no record of a death from 2C-B alone, with 25B-NBOMe there have been reports of multiple deaths during its short history of release.
 
 ## Harm Reduction Precautions
 
@@ -82,9 +82,9 @@ With a chemical that has never been tested in vivo (animal subjects) for most su
 
 Therefore, because of the importance of using sub-threshold tester-doses, and since many of these new chemicals are highly potent anyways it is imperative that one has a reliable way to accurately measure chemicals in low doses.
 
-It is not safe to assume any consumer-grade scale will be reliably accurate <50mg, however, there is a way to measure accurately low doses of chemicals using a method known as 'volumetric dosing', [Quick guide to volumetric dosing](/en/quick-guide-to-volumetric-dosing). While this technique is not particularly difficult it does require some planning and precision.
+It is not safe to assume any consumer-grade scale will be reliably accurate <50mg, however, there is a way to measure accurately low doses of chemicals using a method known as 'volumetric dosing', [Quick guide to volumetric dosing](/en/guides/quick-guide-to-volumetric-dosing). While this technique is not particularly difficult it does require some planning and precision.
 
-If you intend to employ volumetric measuring techniques, or when working with new chemicals (or any chemicals for that matter) it is important to be sure to use the most accurate scale available on a consumer level. Unfortunately, there are no scales that are reliably accurate for weights under approximately 25 mg that are readily available to the average consumer. That being said, there are some scales for sale for under $100, which if used correctly, can be safely used to prepare a solution for volumetric dosing of a substance. For more information on how to correctly use a scale, and sources for reasonably reliable scales to buy, check [Scales](/en/scales).
+If you intend to employ volumetric measuring techniques, or when working with new chemicals (or any chemicals for that matter) it is important to be sure to use the most accurate scale available on a consumer level. Unfortunately, there are no scales that are reliably accurate for weights under approximately 25 mg that are readily available to the average consumer. That being said, there are some scales for sale for under $100, which if used correctly, can be safely used to prepare a solution for volumetric dosing of a substance. For more information on how to correctly use a scale, and sources for reasonably reliable scales to buy, check [Scales](/en/guides/scales).
 
 ## Links
 

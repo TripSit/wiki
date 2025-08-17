@@ -31,7 +31,7 @@ Ephedra distachya (cf. [Ephedra spp.](/en/ephedra-spp)) and was first
 
 introduced into ophthalmology as Mydriaticum
 
-(cf. [atropine](/en/atropine)). Since around 1925, the alkaloid also
+(cf. [atropine](/en/chemicals/atropine)). Since around 1925, the alkaloid also
 
 been an important asthma medication (Schneider
 
@@ -97,7 +97,7 @@ Because ephedrine helps reduce swelling of the
 
 mucous membranes, it is a component of many
 
-cough syrups (see [codeine](/en/codeine)). Ephedrine suppresses
+cough syrups (see [codeine](/en/opioids/codeine)). Ephedrine suppresses
 
 the effects of alcohol and is administered subcutaneously
 

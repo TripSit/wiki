@@ -75,7 +75,7 @@ Weil have suggested that the dried secretions of
 Bufo alvarius were traded to Mexico in preColumbian
 times and that the priests and shamans
 there smoked or used it in some other manner
-(Davis and Weil1992; cf. [balche'](/en/balche), [bufotenine](/en/bufotenine)).
+(Davis and Weil1992; cf. [balche'](/en/balche), [bufotenine](/en/chemicals/bufotenine)).
 
 In Arizona, there is now a Church of the Toad
 of Light, which uses the secretions of Bufo alvarius
@@ -91,7 +91,7 @@ in problems with the law.
 
 **Literature**
 
-See also the entries for [bufotenine](/en/bufotenine).
+See also the entries for [bufotenine](/en/chemicals/bufotenine).
 
 Davis, Wade, and Andrew T. Weil. 1992. Identity of a
 New World psychoactive toad. Ancient

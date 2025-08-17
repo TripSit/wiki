@@ -50,7 +50,7 @@ Can be substituted with reusable suit. Check resistance to Sodium Hydroxide and 
 **Miscellaneous**
 * Spare jar
 * Plastic wrap
-* Milligram scale, see [Scales](/en/scales)
+* Milligram scale, see [Scales](/en/guides/scales)
 * Tarp
 * A table you don't mind throwing out in the unlikely event that something goes wrong, like this foldable table.
 * Coffee grinder if your Mimosa Hostilis does not come in powder form.

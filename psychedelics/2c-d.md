@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T01:58:01.922Z
 
 <img src="/assets/--file-2c-d.gif" align="right" />
 
-**2C-D** is a short acting psychedelic drug of the [2C-X family](/en/2c-x).
+**2C-D** is a short acting psychedelic drug of the [2C-X family](/en/psychedelics/2c-x).
 The effects of 2C-D are usually compared to 2C-B (although not as visual as 2C-B) or other psychedelic stimulants and sometimes to MDMA (ecstasy). Its effects are generally considered milder than 2C-B, LSD, or MDMA. 2C-D is also known for the strong body component of its effects which are alternately described as pleasurable energy or a 'sense of being in the body', and by others as an unpleasant 'buzzing' or body-load, which is mostly occurring during onset. 
 Shulgin himself referred to this substance as a "pharmacological tofu," meaning that when mixed with other substances, it can extend or potentiate their effects without coloring the experience too much, in a manner similar to how tofu absorbs the flavors of sauces or spices it is cooked with. Some people have claimed 2C-D is relatively uninteresting on its own, but many other users have strongly disagreed with this assessment and believe instead 2C-D to be a true psychedelic in its own right. 
 

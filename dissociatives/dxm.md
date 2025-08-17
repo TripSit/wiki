@@ -18,7 +18,7 @@ The high is not for everyone; it is said to loosely follow the rule of thirds: o
 
 DXM manifests its effects in a series of plateaus, with dose determining which plateau (and consequently which effects) one will experience. Lower dose plateaus can be well suited to relaxation, light social interaction and listening to music, while higher doses result in a more encompassing dissociative experience which does not lend itself to attentive social attention. At high doses it's common to have strong hallucinations, experiences of detachment, depersonalisation, and out-of-body experiences. These all-encompassing states can be startling and uncomfortable for some.
 
-Its mechanisms of action are multiple, including action as a nonselective serotonin reuptake inhibitor and a sigma-1 receptor agonist. DXM and it's major metabolite, dextrorphan, also acts as an NMDA receptor antagonist at high doses, which produces effects similar to, yet distinct from, the dissociative states caused by other dissociative anaesthetics such as [Ketamine](/en/ketamine) and [PCP](/en/pcp).
+Its mechanisms of action are multiple, including action as a nonselective serotonin reuptake inhibitor and a sigma-1 receptor agonist. DXM and it's major metabolite, dextrorphan, also acts as an NMDA receptor antagonist at high doses, which produces effects similar to, yet distinct from, the dissociative states caused by other dissociative anaesthetics such as [Ketamine](/en/untagged/ketamine) and [PCP](/en/dissociatives/pcp).
 
 DXM does not typically show up in normal drug tests, however it can produce false positive results for PCP and/or opioids in extended or specialized drug tests. Occasional use should not produce these false-positive results after a couple days have passed.
 
@@ -179,11 +179,11 @@ The first two plateaus are commonly associated with a mix of being high on THC a
 
 If you take a Third or Fourth plateau dose, it is recommend to trip alone or with a close friend, as it is not a social drug at this dose. The best way to enjoy it is to lay back and listen to music with your eyes closed. 
 
-Choosing your destination plateau will depend a lot on what other drugs you've done and how comfortable you are with your own mind. People who have never tried any hallucinogen other than marijuana and/or alcohol should start with a First Plateau dose, while people with mushrooms or [LSD](/en/lsd) experience could start at a Second Plateau dose. **It is not advised to start at the Third or Fourth plateau** unless you have extensive experience with other dissociatives.
+Choosing your destination plateau will depend a lot on what other drugs you've done and how comfortable you are with your own mind. People who have never tried any hallucinogen other than marijuana and/or alcohol should start with a First Plateau dose, while people with mushrooms or [LSD](/en/psychedelics/lsd) experience could start at a Second Plateau dose. **It is not advised to start at the Third or Fourth plateau** unless you have extensive experience with other dissociatives.
 
 ### First Plateau
 
-The First Plateau is the lightest in effect. It feels a bit 'off', and is often likened to something of a cross between the effects of [MDA](/en/mda) and Alcohol. First plateau is usually slightly stimulating. The First plateau has also been described as "basically like a hit or two of good weed and 2-3 beers with 10 minutes of a 'trip' about 2 hours in."
+The First Plateau is the lightest in effect. It feels a bit 'off', and is often likened to something of a cross between the effects of [MDA](/en/stimulants/mda) and Alcohol. First plateau is usually slightly stimulating. The First plateau has also been described as "basically like a hit or two of good weed and 2-3 beers with 10 minutes of a 'trip' about 2 hours in."
 
 Effects commonly experienced at the first plateau level
 
@@ -270,10 +270,10 @@ The following is a summary of other ingredients commonly found in DXM products.
 
 DXM has several potentially dangerous interactions with pharmaceutical and recreational drugs including analgesics (painkillers), antihistamines, antidepressants and stimulants.
 
-DXM has the potential to cause [Serotonin Syndrome](https://en.wikipedia.org/wiki/Serotonin_Syndrome) if mixed with other serotonergic drugs such as [antidepressants](/en/antidepressants) that act as SSRIs, MAOIs, empathogens which affect serotonin release such as [MDMA](/en/mdma), [MDA](/en/mda), [Mephedrone](/en/mephedrone), [Tramadol](/en/tramadol), 2-c-t-x drugs, [MXE](/en/mxe), aMT, 5-HTP, ect.
+DXM has the potential to cause [Serotonin Syndrome](https://en.wikipedia.org/wiki/Serotonin_Syndrome) if mixed with other serotonergic drugs such as [antidepressants](/en/antidepressants) that act as SSRIs, MAOIs, empathogens which affect serotonin release such as [MDMA](/en/stimulants/mdma), [MDA](/en/stimulants/mda), [Mephedrone](/en/stimulants/mephedrone), [Tramadol](/en/opioids/tramadol), 2-c-t-x drugs, [MXE](/en/mxe), aMT, 5-HTP, ect.
 Serotonin Syndrome causes discomfort, excitability, irritability, diarrhea, moodswings, seizures, coma and can be deadly⁴ if not treated.
 
-* See [Drug combinations](/en/drug-combinations) and [Dissociative Interactions](/en/dissociatives#interactions) for more information.
+* See [Drug combinations](/en/guides/drug-combinations) and [Dissociative Interactions](/en/dissociatives#interactions) for more information.
 
 ## Chemistry and Pharmacology
 

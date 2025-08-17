@@ -24,7 +24,7 @@ All staff members agree to uphold the [code of conduct](http://wiki.tripsit.me/w
 
 ## Keep the Peace
 
-You will be expected to know the network policies and procedures as listed [here](http://wiki.tripsit.me/wiki/TripSit_Rules). Regardless of their role, staff will enforce our rules, recognize misinformation, request citations when needed, and deal with trolls. Remember: No info > bad info. If a user is trolling, becoming overly aggressive, or otherwise causing a problem, staff may ~quiet (syntax below) them in #tripsit and #sanctuary, and ~report them in other channels. Non-staff are welcome to ~report them, and a staff member will come by to take care of it. Refer to the [rule breaking procedure](/en/rule-breaking-procedure) for more information.
+You will be expected to know the network policies and procedures as listed [here](http://wiki.tripsit.me/wiki/TripSit_Rules). Regardless of their role, staff will enforce our rules, recognize misinformation, request citations when needed, and deal with trolls. Remember: No info > bad info. If a user is trolling, becoming overly aggressive, or otherwise causing a problem, staff may ~quiet (syntax below) them in #tripsit and #sanctuary, and ~report them in other channels. Non-staff are welcome to ~report them, and a staff member will come by to take care of it. Refer to the [rule breaking procedure](/en/untagged/rule-breaking-procedure) for more information.
 
 ## Populate other channels
 
@@ -38,9 +38,9 @@ Try to get involved with the various other TripSit projects. Learn to DJ, contri
 
 While we want all of our staff members to be role models and regular contributors. All staff supervise and advance a part of the TripSit network. Please ensure you are familiar with the role-specific orientation documents linked below.
 
-* [TripSitters](/en/tripsitter-orientation) – These are the backbone of the network. Providing assistance in our tripsitting channels, and limited user management.
-* [Moderators](/en/moderator-orientation) – Keeping the peace and ensuring a positive environment throughout the network.
-* [Contributors](/en/contributor-orientation) - Contribute to the HR resources provided by TripSit.
+* [TripSitters](/en/tripsit/tripsitter-orientation) – These are the backbone of the network. Providing assistance in our tripsitting channels, and limited user management.
+* [Moderators](/en/tripsit/moderator-orientation) – Keeping the peace and ensuring a positive environment throughout the network.
+* [Contributors](/en/tripsit/contributor-orientation) - Contribute to the HR resources provided by TripSit.
 
 # Communication and Resources
 
@@ -79,7 +79,7 @@ Especially [index of Guides](/en/guides)
 
 # Basic Staff Commands
 
-This section will list the basic tripbot commands you'll use in the course of your activity as staff. There are additional commands relevant to your particular position described on the orientation page for that role. [This page](/en/list-of-irc-bot-commands) also describes some more general tripbot commands.
+This section will list the basic tripbot commands you'll use in the course of your activity as staff. There are additional commands relevant to your particular position described on the orientation page for that role. [This page](/en/untagged/list-of-irc-bot-commands) also describes some more general tripbot commands.
 
 ## Report
 
@@ -105,4 +105,4 @@ Staff can use the ~notify command to keep records of events on the network. This
 
 # Applications and New Staff
 
-If you or someone you know wants to join Team TripSit then direct them to [this page](/en/application).
+If you or someone you know wants to join Team TripSit then direct them to [this page](/en/tripsit/application).

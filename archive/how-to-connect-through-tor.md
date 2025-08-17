@@ -12,11 +12,11 @@ While TripSit scrambles IP's and hostmasks by default, some users want another l
 
 ## Register a nickname
 
-Connect without tor and register a nickname with NickServ (More information can be found on the [How To Register your Nickname](/en/how-to-register-your-nickname) page.)
+Connect without tor and register a nickname with NickServ (More information can be found on the [How To Register your Nickname](/en/archive/how-to-register-your-nickname) page.)
 
 ## Use tor as a proxy
 
-Configure your IRC client to use Tor as a proxy. Directions for individual clients can be found on the [Proxy Configuration for Tor](/en/proxy-configuration-for-tor) page.
+Configure your IRC client to use Tor as a proxy. Directions for individual clients can be found on the [Proxy Configuration for Tor](/en/archive/proxy-configuration-for-tor) page.
 
 ## Start Tor
 

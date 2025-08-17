@@ -39,7 +39,7 @@ Rules are enforced by the TripSit staff; as much as we try, we cannot monitor ev
 
 We encourage users to use reports to get attention to a situation quickly.
 
-Should you witness a user breaking one of the following rules, use the '~report' command to notify the TripSit [staff](/en/list-of-staff-and-their-roles).
+Should you witness a user breaking one of the following rules, use the '~report' command to notify the TripSit [staff](/en/tripsit/list-of-staff-and-their-roles).
 
 Try to be as clear and detailed as possible when explaining the nature of the event.
 
@@ -189,7 +189,7 @@ The TripSit community is devoted to [harm reduction](/en/harm-reduction-supplies
 
 Users identified as continually engaging in reckless drug-use behavior are seen as a bad influence on the community as a whole, actively working against our [mission](http://tripsit.me/about-tripsit/about-tripsit/) to be a a harm-reduction community devoted to positive support.
 
-All users are expected to discourage drug dosages, [drug combinations](/en/drug-combinations), or any drug experimentation which could be reliably considered unsafe.
+All users are expected to discourage drug dosages, [drug combinations](/en/guides/drug-combinations), or any drug experimentation which could be reliably considered unsafe.
 
 </details>
 
@@ -323,7 +323,7 @@ We like to deal with other behaviors in a softer manner, by guiding the user and
 
 In the case of repeated offences or a bad attitude, we reserve the right to forego these protocols in favor of the community.
 
-Every case is unique and will be dealt with to the best of the ability of the [staff](/en/list-of-staff-and-their-roles) on duty at the time.
+Every case is unique and will be dealt with to the best of the ability of the [staff](/en/tripsit/list-of-staff-and-their-roles) on duty at the time.
 
 </details>
 
@@ -655,7 +655,7 @@ If you have collected information from or about a child under the age of 13, bot
 
 ## Nicknames or channels cannot be offensive
 <details>
-<summary><a href="/en/nicknames">Nicknames</a> and channels may not contain any racial slurs or bigotry.</summary>
+<summary><a href="/en/untagged/nicknames">Nicknames</a> and channels may not contain any racial slurs or bigotry.</summary>
 
 In this case the user will be forced to choose another name, multiple offenses may result in bans.
 

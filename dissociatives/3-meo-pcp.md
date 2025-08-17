@@ -125,7 +125,7 @@ It is for these reasons that it would be in one's best interest to use a [volume
 
 ## Harm Reduction
 
-* 3-Meo-PCP is a very powerful NMDA antagonist (doses are on par with [PCP](/en/pcp)), and as such it has the potential to be very confusing.
+* 3-Meo-PCP is a very powerful NMDA antagonist (doses are on par with [PCP](/en/dissociatives/pcp)), and as such it has the potential to be very confusing.
 * 3-MeO-PCP is considered to be a 'research-chemical', simply meaning that there is little to no clinical data on long-term effects.
 * 3-MeO-PCP, as with all arylcyclohexylamine class dissociative compounds may cause neurotoxicity when used frequently or in high dose.
 * 3-MeO-PCP acts as a mild Serotonin Reuptake Inhibitor and as such may risk adverse effects as a result of synergy when used with certain serotogenic drugs or medications. See [Interactions](http://wiki.tripsit.me/wiki/3-MeO-PCP#Interactions).
@@ -136,7 +136,7 @@ For more information see [Dissociative Harm-Reduction](http://wiki.tripsit.me/wi
 
 ### Interactions
 
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs. 
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs. 
 PCP and 3-MeO-PCP have similar profiles and as such its safe to assume the PCP combination-chart data also applies to 3-MeO-PCP. 
 
 Specifically, do not mix 3-MeO-PCP with alcohol or benzodiazepines. 3-MeO-PCP will also likely produce synergistic effects if used in conjunction with certain serotogenic medications or drugs.

@@ -75,7 +75,7 @@ Ideal dosage varies widely between individuals. Some people get very heavy menta
 
 ## Harm Reduction
 ### Interactions
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs.
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs.
 
 ## Legal status
 Class A in the UK under the Misuse of Drugs Act[^1]

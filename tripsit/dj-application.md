@@ -13,7 +13,7 @@ dateCreated: 2025-08-08T02:03:19.770Z
 * Fast, reliable internet connection (Above 2 mbit (2000 kbit)): [Test here, select a european server](http://speedtest.net).
 * Willing to take requests.
 * Willing to play music that doesn't suck.
-* Have a working streaming setup using the [tripradiotest mountpoint](/en/how-to-dj#testing-stream).
+* Have a working streaming setup using the [tripradiotest mountpoint](/en/tripsit/how-to-dj#testing-stream).
 
 Can you say YES to those 4 requirements? Go ahead to the next section.
 
@@ -37,4 +37,4 @@ Please also ask in the IRC channel #music if you have any other questions.
 
 ## After you are accepted & got the password
 
-Add yourself to the DJ list on [this page](/en/radio). Ask for +v in the #music channel where we talk about music radio stuff.
+Add yourself to the DJ list on [this page](/en/untagged/radio). Ask for +v in the #music channel where we talk about music radio stuff.

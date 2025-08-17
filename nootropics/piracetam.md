@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:11:47.280Z
 ---
 
-**Piracetam** was the first Racetam created, and has since served as the basis for other more potent racetams created after its discovery in 1964. It has been known as a "staple" in the nootropic community, along with [caffeine](/en/caffeine).
+**Piracetam** was the first Racetam created, and has since served as the basis for other more potent racetams created after its discovery in 1964. It has been known as a "staple" in the nootropic community, along with [caffeine](/en/stimulants/caffeine).
 
 ## History
 
@@ -62,7 +62,7 @@ There may be discontinuation symptoms if used for a prolonged period of time, it
 ## Harm Reduction
 Start low with this substance and work your way up to your "optimal" dosage. As with most of the Racetam family, it will take a week or more to reach full effects.
 
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs.
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs.
 
 See [Dissociative Harm Reduction](/en/dissociatives#harm-reduction) for general information.
 

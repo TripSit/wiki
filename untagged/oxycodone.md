@@ -107,7 +107,7 @@ Oxycodone's chemical name is derived from codeine. The chemical structures are v
 * Oxycodone has a hydroxyl group at carbon-14 (codeine has just a hydrogen in its place)
 * Oxycodone has a 7,8-dihydro feature. Codeine has a double bond between those two carbons; and
 * Oxycodone has a carbonyl group (as in ketones) in place of the hydroxyl group of codeine.
-It is also similar to [hydrocodone](/en/hydrocodone), differing only in that it has a hydroxyl group at carbon-14.
+It is also similar to [hydrocodone](/en/opioids/hydrocodone), differing only in that it has a hydroxyl group at carbon-14.
 
 Source
 ----

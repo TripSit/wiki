@@ -64,7 +64,7 @@ Refer to [Psychedelic Harm Reduction](/en/psychedelics#harm-reduction) for gener
 
 ### Interactions
 
-Check out our [Drug Combinations](/en/drug-combinations) page and chart for interactions and combinations of common drugs.
+Check out our [Drug Combinations](/en/guides/drug-combinations) page and chart for interactions and combinations of common drugs.
 
 ## Legal status
 

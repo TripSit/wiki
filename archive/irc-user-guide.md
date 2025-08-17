@@ -73,7 +73,7 @@ SASL lets you automatically log in/identify to your nickname once registered. De
 <img src="/assets/tripsit_kvirc_help.register.png" alt="TripSit KVIRC Help Register">
 
 Services are robots that perform functions on the network. For example, the service you will interact with to register your nickname is named NickServ. Most services can be learned about by messaging them "help" or "help <module>" as shown above. Other services you may interact with are:
-* **tripbot** - Our resident multi-purpose android. [Check here for a list of commands](/en/list-of-irc-bot-commands).
+* **tripbot** - Our resident multi-purpose android. [Check here for a list of commands](/en/untagged/list-of-irc-bot-commands).
 * **thanatos** - Enforces an auto-quiet on those who say "nigger", "faggot", and links that violate the sourcing rules. Also hugs users who seem sad.
 * **ChanServ** - Register a channel with this service. ChanServ commands are [detailed below](/en/new-irc-user-guide#chanserv-commands).
 * **MemoServ** - Send notes to people who are offline and they will receive them when they get back.

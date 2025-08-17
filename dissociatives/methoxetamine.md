@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:09:21.111Z
 
 <img src="/assets/mxe.jpg" width="200" align="left">
 
-**Methoxetamine** (MXE, 3-MeO-2-Oxo-PCE) is a near chemical analogue of [Ketamine](/en/ketamine) and [PCP](/en/pcp). It was first publicly reported in 2010. Some say it's similar to Ketamine or high doses of DXM. Methoxetamine differs from many dissociatives such as ketamine and phencyclidine that were developed as pharmaceuticals in that it was designed specifically for grey market distribution, making it a rare instance of a true designer drug. It has been shown to act as an NMDA receptor antagonist and unlike ketamine also acts as Serotonin Reuptake Inhibitor (SRI). The N-Ethyl group on this compound increases potency.
+**Methoxetamine** (MXE, 3-MeO-2-Oxo-PCE) is a near chemical analogue of [Ketamine](/en/untagged/ketamine) and [PCP](/en/dissociatives/pcp). It was first publicly reported in 2010. Some say it's similar to Ketamine or high doses of DXM. Methoxetamine differs from many dissociatives such as ketamine and phencyclidine that were developed as pharmaceuticals in that it was designed specifically for grey market distribution, making it a rare instance of a true designer drug. It has been shown to act as an NMDA receptor antagonist and unlike ketamine also acts as Serotonin Reuptake Inhibitor (SRI). The N-Ethyl group on this compound increases potency.
 
 ## Dosage
 
@@ -80,11 +80,11 @@ See [Dissociative Harm Reduction](/en/dissociatives#harm-reduction) for general 
 ### Interactions
 MXE is extremely dangerous in combination with alcohol and can cause fatal apnea or respiratory depression.
 Even residual MXE can potentiate the effects of 5ht agonists. 
-[Drug Combinations](/en/drug-combinations)
+[Drug Combinations](/en/guides/drug-combinations)
 
 ## Chemistry and Pharmacology
 
-Examination of MXE molecule showed that, similar to [Ketamine](/en/ketamine), the 2 isomers have totally different effects with the (S) having potent NMDA activity (when the -OCH3 is deprotected to -OH, it gets stronger) while the (R) isomer has SRI effects and possibly a opioid metabolite.
+Examination of MXE molecule showed that, similar to [Ketamine](/en/untagged/ketamine), the 2 isomers have totally different effects with the (S) having potent NMDA activity (when the -OCH3 is deprotected to -OH, it gets stronger) while the (R) isomer has SRI effects and possibly a opioid metabolite.
 
 MXE is generally sold racemic.
 

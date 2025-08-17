@@ -101,7 +101,7 @@ Diphenhydramine is an inverse agonist of the histamine H1 receptor. It is a memb
 
 ## Harm Reduction
 
-* Many oral diphenhydramine preparations contain analgesics such as acetaminophen/paracetamol or aspirin, which can be toxic to the liver in high doses. Some adulterants, such as paracetamol, can be removed by [Cold Water Extraction](/en/cold-water-extraction).
+* Many oral diphenhydramine preparations contain analgesics such as acetaminophen/paracetamol or aspirin, which can be toxic to the liver in high doses. Some adulterants, such as paracetamol, can be removed by [Cold Water Extraction](/en/guides/cold-water-extraction).
 
 * Do not combine LARGE, recreational doses of DPH with any other depressant drugs such as benzos, DXM, alcohol, or opiates
       *However smaller doses (25mg-50mg) are totally safe to mix with dxm and opiates and cut down on the itching caused by them 

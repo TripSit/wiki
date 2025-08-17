@@ -10,11 +10,11 @@ dateCreated: 2025-08-08T01:58:05.049Z
 
 <img src="/assets/2ce.jpg" alt="Vial of 2C-E with powder" width="150" align="right">
 
-**2C-E** is a chemical of the [2C-X](/en/2c-x) series which is characterised by its particularly intense visuals and higher potency when compared with other members of the family.
+**2C-E** is a chemical of the [2C-X](/en/psychedelics/2c-x) series which is characterised by its particularly intense visuals and higher potency when compared with other members of the family.
 
 ## History
 
-2C-E, like many of its close analogues, was first synthesized by Alexander Shulgin and published in PiHKAL. He was quite fond of it, granting it a place in his "Magical Half Dozen" alongside of [DOM](/en/dom), [2C-B](/en/2c-b), [2C-T-2](/en/2c-t-2) & 7 and [mescaline](/en/mescaline).
+2C-E, like many of its close analogues, was first synthesized by Alexander Shulgin and published in PiHKAL. He was quite fond of it, granting it a place in his "Magical Half Dozen" alongside of [DOM](/en/psychedelics/dom), [2C-B](/en/psychedelics/2c-b), [2C-T-2](/en/2c-t-2) & 7 and [mescaline](/en/stimulants/mescaline).
 
 ## Usage
 
@@ -90,7 +90,7 @@ See [Stimulant Harm Reduction](/en/stimulants#harm-reduction) for more informati
 
 ### Interactions
 
-See the [Drug combinations](/en/drug-combinations) chart for more information.
+See the [Drug combinations](/en/guides/drug-combinations) chart for more information.
 
 ## Chemistry and Pharmacology
 

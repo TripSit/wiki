@@ -16,13 +16,13 @@ Amphetamine was discovered in 1887 and exists as two enantiomers: levoamphetamin
 
 ## Dosage
 
-Depending on purity, amphetamine doses **will** vary. Branded amphetamine, like [Adderall](/en/adderall), knows similar yet better documented and thus more predictable doses.
+Depending on purity, amphetamine doses **will** vary. Branded amphetamine, like [Adderall](/en/stimulants/adderall), knows similar yet better documented and thus more predictable doses.
 
 {{#tdose: amphetamines}}
 
 ## Duration
 
-Some branded forms of amphetamine like [Adderall](/en/adderall), generally purposed to be prescribed to treat ADD and ADHD, are extended release (XR), which increases the duration of a single administration.
+Some branded forms of amphetamine like [Adderall](/en/stimulants/adderall), generally purposed to be prescribed to treat ADD and ADHD, are extended release (XR), which increases the duration of a single administration.
 
 ### Oral
 

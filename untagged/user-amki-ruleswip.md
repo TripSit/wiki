@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:17:03.082Z
 
 Welcome to the TripSit IRC Channels. We have created a ruleset to help communicating with each other while maintaining a comfortable atmosphere.
 
-Therefore the following rules need to be followed in all TripSit administrated [channels](/en/channels).
+Therefore the following rules need to be followed in all TripSit administrated [channels](/en/archive/channels).
 These rooms are amongst others:  **#drugs**, **#tripsit**, **#bookclub**, **#compsci**, **#gaming**, **#help**, **#music**, **#news**, **#psychonaut**, **#psychopharm**, **#sanctuary**,   **#tripsitvip**, **#tripsit.me**.
 
 If you have any questions, please join **#tripsit.me** to discuss unclear rules with us.
@@ -37,7 +37,7 @@ Do not insult other users; take heated discussions to private chat.
 Posting personal information about channel members is grounds for a permanent network ban. Trying to collect personal info of users is dealt with in the same manner.
 
 ## Nicknames
-[Nicknames](/en/nicknames) may not contain any racial slurs or bigotry. In this case the user will be forced to choose another name, multiple offenses may result in bans.
+[Nicknames](/en/untagged/nicknames) may not contain any racial slurs or bigotry. In this case the user will be forced to choose another name, multiple offenses may result in bans.
 
 ## Sourcing
 
@@ -65,7 +65,7 @@ We like to deal with other behaviors in a softer manner, by guiding the user and
 The TripSit community is devoted to [harm reduction](/en/harm-reduction-supplies), support, and positvitiy, and we will never recommend or tolerate dangerous or reckless drug use.
 Users identified as continually engaging in reckless drug-use behavior are seen as a bad influence on the community as a whole, actively working against our [mission statement](http://tripsit.me/about-tripsit/about-tripsit/) to be a a harm-reduction community devoted to positive support. 
 It is against the rules to endorse or encourage dangerous behavior regarding drug consumption.
-All users are expected to discourage drug dosages, [drug combinations](/en/drug-combinations), or any drug experimentation which could be reliably considered unsafe.  
+All users are expected to discourage drug dosages, [drug combinations](/en/guides/drug-combinations), or any drug experimentation which could be reliably considered unsafe.  
 Note that if a situation is identified as life-threatening, or one in which the community's users believe immediate medical attention is required, we will always attempt to contact local medical personel to help you.
 As such, these behaviors are considered against the rules and violators may be subjected to temporary or permanent bans (situation depending).
 

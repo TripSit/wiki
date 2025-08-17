@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-08T02:02:57.660Z
 ---
 
-Diazepam (Also known as Diastat; Valium; Zetran) is a [benzodiazepine](/en/benzodiazepines) that is commonly used to treat a large range of conditions from anxiety to Meniere's Disease. It possesses anxiolytic, anticonvulsant, hypnotic, sedative, skeletal muscle relaxant, and amnesic properties. It is also one of the most commonly used drugs to taper off of other [benzodiazepines](/en/benzodiazepines)/[Alcohol](/en/alcohol) withdrawal.
+Diazepam (Also known as Diastat; Valium; Zetran) is a [benzodiazepine](/en/benzodiazepines) that is commonly used to treat a large range of conditions from anxiety to Meniere's Disease. It possesses anxiolytic, anticonvulsant, hypnotic, sedative, skeletal muscle relaxant, and amnesic properties. It is also one of the most commonly used drugs to taper off of other [benzodiazepines](/en/benzodiazepines)/[Alcohol](/en/depressants/alcohol) withdrawal.
 
 ## History
 
@@ -65,9 +65,9 @@ When on high doses of [benzodiazepines](/en/benzodiazepines), users are likely t
 Some users report Diazepam (and [benzodiazepines](/en/benzodiazepines) in general) to lead to compulsive redosing, trying to find a "high" which is where a fair amount of the point above comes from. To avoid this keep doses low and be wary of reduced inhibitions while under the influence of Diazepam.
 
 ### Interactions
-As with other depressants, Diazepam should not be combined with any other CNS depressants (such as [Alcohol](/en/alcohol)), at the risk of respiratory depression, which can lead to death.
+As with other depressants, Diazepam should not be combined with any other CNS depressants (such as [Alcohol](/en/depressants/alcohol)), at the risk of respiratory depression, which can lead to death.
 
-See the [Drug combinations](/en/drug-combinations) chart for more information.
+See the [Drug combinations](/en/guides/drug-combinations) chart for more information.
 
 ## Chemistry and Pharmacology
 Diazepam can be administered orally, intravenously (Has to be diluted, as it is painful and damaging to veins), intramuscularly, or as a suppository.

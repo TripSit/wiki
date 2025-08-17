@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:09:27.077Z
 
 <img src="/assets/methylphenidate.png" width="300" alt="Blister packed Methylphenidate pills" style="float: right; margin: 0 0 1em 1em;" />
 
-**Methylphenidate** (also known as Ritalin, Concerta, Medikinet and Tranquilyn) is a [stimulant](/en/stimulants) which is commonly prescribed as treatment of AD(H)D outside of the USA, instead of [Amphetamines](/en/adderall).
+**Methylphenidate** (also known as Ritalin, Concerta, Medikinet and Tranquilyn) is a [stimulant](/en/stimulants) which is commonly prescribed as treatment of AD(H)D outside of the USA, instead of [Amphetamines](/en/stimulants/adderall).
 
 ## History
 
@@ -24,7 +24,7 @@ Today methylphenidate is available in instant release (Ritalin) and extended rel
 
 ## Usage
 
-As mentioned above, Methylphenidate is in wide use worldwide for the treatment of ADHD - along with [Adderall](/en/adderall) it is one of the most commonly prescribed chemicals.
+As mentioned above, Methylphenidate is in wide use worldwide for the treatment of ADHD - along with [Adderall](/en/stimulants/adderall) it is one of the most commonly prescribed chemicals.
 
 The drug is also widely used off-prescription, by users seeking euphoria or surplus energy and concentration. Similar to Adderall It is commonly used by students at exam-times or for other study, often sold at a premium by colleagues with prescriptions.
 
@@ -79,17 +79,17 @@ Note: The prevalence of negative effects increases with higher doses.
 
 ## Harm Reduction
 
-* Abuse or binging on Methylphenidate can lead to heavy comedown effects which can, in extreme cases, result in psychosis. Get some sleep every night, and see [Quick Guide To Stimulant Comedowns](/en/quick-guide-to-stimulant-comedowns) for more infromation.
+* Abuse or binging on Methylphenidate can lead to heavy comedown effects which can, in extreme cases, result in psychosis. Get some sleep every night, and see [Quick Guide To Stimulant Comedowns](/en/untagged/quick-guide-to-stimulant-comedowns) for more infromation.
 
 * Methylphenidate has been shown to be habit-forming, take care with repeated use.
 
-* Coingestion of [alcohol](/en/alcohol) (ethanol) also increases the blood plasma levels of d-methylphenidate by up to 40%.
+* Coingestion of [alcohol](/en/depressants/alcohol) (ethanol) also increases the blood plasma levels of d-methylphenidate by up to 40%.
 
 As with all stimulants, remain hydrated and stay healthy. See [Stimulant Harm Reduction](/en/stimulants#harm-reduction) for more information.
 
 ### Interactions
 
-See the [Drug combinations](/en/drug-combinations) chart for more information.
+See the [Drug combinations](/en/guides/drug-combinations) chart for more information.
 
 ## Chemistry and Pharmacology
 

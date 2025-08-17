@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:07:46.800Z
 
 If your name is on this list, feel free to add to your duties, responsibilities, and how you are contributing to the network or would like to contribute to the network!
 
-If you wish to become part of the TripSit staff, please fill out an [application](/en/application) and send it to a staff member (~staff application).
+If you wish to become part of the TripSit staff, please fill out an [application](/en/tripsit/application) and send it to a staff member (~staff application).
 
 ## Staff List
 

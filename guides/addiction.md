@@ -30,12 +30,12 @@ An addictive behaviour is any activity or behaviour that becomes the major focus
 
 ## Commonly Addictive Recreational Drugs
 
-* Opioids ([Heroin](/en/heroin), [Morphine](/en/morphine), [Oxycodone](/en/oxycodone), [Hydrocodone](/en/hydrocodone), etc.)
-* Stimulants ([Amphetamine](/en/street-amphetamine), [Methamphetamine](/en/methamphetamine), [Cocaine](/en/cocaine), etc.)
-* Benzodiazepines ([Alprazolam](/en/alprazolam), [Clonazepam](/en/clonazepam), [Lorazepam](/en/lorazepam), etc.)
-* [Alcohol](/en/alcohol)
-* [Cannabis](/en/cannabis)
-* Dissociatives ([Ketamine](/en/ketamine), [DXM](/en/dxm), [MXE](/en/mxe), etc.)
+* Opioids ([Heroin](/en/opioids/heroin), [Morphine](/en/opioids/morphine), [Oxycodone](/en/untagged/oxycodone), [Hydrocodone](/en/opioids/hydrocodone), etc.)
+* Stimulants ([Amphetamine](/en/street-amphetamine), [Methamphetamine](/en/stimulants/methamphetamine), [Cocaine](/en/stimulants/cocaine), etc.)
+* Benzodiazepines ([Alprazolam](/en/benzodiazepines/alprazolam), [Clonazepam](/en/clonazepam), [Lorazepam](/en/lorazepam), etc.)
+* [Alcohol](/en/depressants/alcohol)
+* [Cannabis](/en/depressants/cannabis)
+* Dissociatives ([Ketamine](/en/untagged/ketamine), [DXM](/en/dissociatives/dxm), [MXE](/en/mxe), etc.)
 * Nicotine (Cigarettes, [Tobacco](/en/tobacco) products)
 
 ## Other Resources and Help With Addiction

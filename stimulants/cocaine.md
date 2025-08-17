@@ -109,7 +109,7 @@ Very high dosages of cocaine are said to be able to induce hallucinations, an ef
 
 ## Harm Reduction
 
-Avoid: 2C-T-X, aMT, Tramadol, Meperidine, MAOI's. See [Drug combinations](/en/drug-combinations) for more.
+Avoid: 2C-T-X, aMT, Tramadol, Meperidine, MAOI's. See [Drug combinations](/en/guides/drug-combinations) for more.
 
 ### Addiction
 

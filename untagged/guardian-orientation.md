@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:05:18.756Z
 
 # Introduction
 
-The Guardian staff position, like the [TripSitter](/en/tripsitter-orientation) position, is an entry level staff position. However, its focus lies in maintaining a positive environment on TripSit, rather than in tripsitting users directly. Guardians help to enforce the rules and maintain order in our public channels, acting as a positive role model for users. In this way, these staff members are arbitrators, mediators, and community exemplars. Guardians who are active and perform well may later apply to become [Moderators](/en/moderator-orientation).
+The Guardian staff position, like the [TripSitter](/en/tripsit/tripsitter-orientation) position, is an entry level staff position. However, its focus lies in maintaining a positive environment on TripSit, rather than in tripsitting users directly. Guardians help to enforce the rules and maintain order in our public channels, acting as a positive role model for users. In this way, these staff members are arbitrators, mediators, and community exemplars. Guardians who are active and perform well may later apply to become [Moderators](/en/tripsit/moderator-orientation).
 
 Please also make sure you are familiar with our general [staff orientation](/en/orientation).
 
@@ -20,7 +20,7 @@ Unlike moderators, who have access to moderation commands in all TripSit managed
 
 ## Commands
 
-The warning and quiet commands can be used to manage users, but should not be considered as a replacement for guiding people with words. If these commands do not suffice, then you should contact a moderator to consider a ban. See the [rule breaking procedure](/en/rule-breaking-procedure) for more information on how to react to a situation. 
+The warning and quiet commands can be used to manage users, but should not be considered as a replacement for guiding people with words. If these commands do not suffice, then you should contact a moderator to consider a ban. See the [rule breaking procedure](/en/untagged/rule-breaking-procedure) for more information on how to react to a situation. 
 
 When using commands, remember to be descriptive - the commands are recorded, and are often looked upon when judging a user's history in its entirety, or when reviewing a particular event. In these cases, it's very helpful for the command reasons to provide context as to why it was used. As a rule of thumb, the reason for a warning, quiet, or timeout should include the rule(s) that have been broken. If you feel that there's more important context necessary, you can make a document on the Cloud, and add a note with a link to it. If you forget to add a descriptive reason to a command, or did not have time to do so, you can use the ~addnote command to add a reason subsequently.
 

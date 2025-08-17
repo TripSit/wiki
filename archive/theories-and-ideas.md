@@ -10,12 +10,12 @@ dateCreated: 2025-08-08T02:15:46.195Z
 
 A collection of interesting stuff, by Teknos.
 
-[Tree Idea](/en/tree-idea)
+[Tree Idea](/en/untagged/tree-idea)
 
-[Egg Theory](/en/egg-theory)
+[Egg Theory](/en/archive/egg-theory)
 
 [Liber Null](/en/liber-null)
 
-[MBTI mind reading theory](/en/mbti-mind-reading-theory)
+[MBTI mind reading theory](/en/untagged/mbti-mind-reading-theory)
 
-[Archtype Reading Theory](/en/archtype-reading-theory)
+[Archtype Reading Theory](/en/untagged/archtype-reading-theory)

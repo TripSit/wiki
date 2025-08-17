@@ -12,7 +12,7 @@ dateCreated: 2025-08-08T02:03:14.061Z
 
 **Dissociatives** are a class of [hallucinogen](/en/hallucinogen) which reduce or block signals to the conscious mind from other parts of the brain. In comparison to [psychedelics](/en/psychedelics) and [deliriants](/en/deliriants), they are a very new class of hallucinogen, with the first classical dissociative being synthesized in 1926 (PCP). They offer a trip that is characterised by dissociation and bizarre feelings of detachment from reality, with anaesthetic-like effects and dream-like states.
 
-This guide is in reference to all of the classical Dissociatives, or more specifically, [Ketamine](/en/ketamine), [MXE](/en/mxe), [DXM](/en/dxm), [PCP](/en/pcp) and [3-MeO-PCP](/en/3-meo-pcp). This list excludes [Nitrous Oxide](/en/nitrous-oxide), which feels completely atypical in comparison. 
+This guide is in reference to all of the classical Dissociatives, or more specifically, [Ketamine](/en/untagged/ketamine), [MXE](/en/mxe), [DXM](/en/dissociatives/dxm), [PCP](/en/dissociatives/pcp) and [3-MeO-PCP](/en/dissociatives/3-meo-pcp). This list excludes [Nitrous Oxide](/en/dissociatives/nitrous-oxide), which feels completely atypical in comparison. 
 
 It's worth noting that Dissociatives can be addictive and bad for your health with regular long-term usage, so you'll need to do some independent research before trying these. Although these hallucinations are completely different to anything found with psychedelics, they should not be underestimated, and allow you to go equally as "deep" in a completely different mental landscape. However, they are not nearly as powerful when it comes to introspection and resolving personal problems.
 
@@ -20,13 +20,13 @@ All of the classical Dissociatives are pharmacologically categorised as [NMDA re
 
 ## Common Dissociatives
 
-* [Ketamine](/en/ketamine)
-* [DXM](/en/dxm)
-* [MXE](/en/methoxetamine)
-* [PCP](/en/pcp)
+* [Ketamine](/en/untagged/ketamine)
+* [DXM](/en/dissociatives/dxm)
+* [MXE](/en/dissociatives/methoxetamine)
+* [PCP](/en/dissociatives/pcp)
 * [Nitrous](/en/nitrous)
-* [Diphenidine](/en/diphenidine)
-* [Diethyl Ether](/en/diethyl-ether)
+* [Diphenidine](/en/dissociatives/diphenidine)
+* [Diethyl Ether](/en/dissociatives/diethyl-ether)
 
 ## Effects
 
@@ -147,7 +147,7 @@ In comparison to psychedelics, they are more solid and not made of a closed eye 
 
 ### Interactions
 
-It is generally unwise to mix CNS depressants, such as benzodiazepines or alcohol, as it increases the risk of an overdose through respiratory depression. Certain dissociatives also carry particular constraints in terms of interactions. See the [Drug combinations](/en/drug-combinations) chart for more information.
+It is generally unwise to mix CNS depressants, such as benzodiazepines or alcohol, as it increases the risk of an overdose through respiratory depression. Certain dissociatives also carry particular constraints in terms of interactions. See the [Drug combinations](/en/guides/drug-combinations) chart for more information.
 
 ### Research Chemicals
 
@@ -155,11 +155,11 @@ The dangers of research chemical dissociatives inherit many of the potential dan
 
 As with some more well-established dissociatives, there is often a wide range of isomer configurations which lead to inconsistencies in effects from one batch to another.
 
-It is fairly common practice for vendors to misrepresent their product in various ways. There have been batches of RC dissos released which have been found to contain chemicals left-over from the manufacturer. There have also been many anecdotes reporting incidents of batches being sold with other active cuts. Since these drugs are all very new there have been very few actual laboratory analysis reports on the exact content of various RC dissos, and as such, there is a fair bit of speculation and misinformation circulating about all RCs. Furthermore, vendors and manufacturers have been known to make exaggerated claims that have never been actually proven (for example, the theory that MXE will be less physically destructive than its cousin [Ketamine](/en/ketamine) originated from one of the first vendors to carry the product)
+It is fairly common practice for vendors to misrepresent their product in various ways. There have been batches of RC dissos released which have been found to contain chemicals left-over from the manufacturer. There have also been many anecdotes reporting incidents of batches being sold with other active cuts. Since these drugs are all very new there have been very few actual laboratory analysis reports on the exact content of various RC dissos, and as such, there is a fair bit of speculation and misinformation circulating about all RCs. Furthermore, vendors and manufacturers have been known to make exaggerated claims that have never been actually proven (for example, the theory that MXE will be less physically destructive than its cousin [Ketamine](/en/untagged/ketamine) originated from one of the first vendors to carry the product)
 
 Consider the case of Methoxyphenidine, which was named as such and abbreviated as 'MXP' specifically to be marketed as an MXE replacement, where in reality MXP is closer to PCP than it is to MXE in chemical structure and effects.
 
-See the [Research Chemicals](/en/research-chemicals) page for more information.
+See the [Research Chemicals](/en/untagged/research-chemicals) page for more information.
 
 ## Links
 http://en.wikipedia.org/wiki/Dissociative

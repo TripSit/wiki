@@ -10,7 +10,7 @@ dateCreated: 2025-08-08T02:19:06.113Z
 
 <div class="user-nav">
 
-[Home](/en/user-prim) | [Contributions](/en/user-prim/contributions) | [Sandbox](/en/user-prim/sandbox) | [Talk](/en/user-prim/talk)
+[Home](/en/untagged/user-prim) | [Contributions](/en/user-prim/contributions) | [Sandbox](/en/user-prim/sandbox) | [Talk](/en/user-prim/talk)
 
 </div>
 

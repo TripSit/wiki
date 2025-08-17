@@ -14,6 +14,6 @@ Um hello.. I have no idea why my biography has to be 20 words long but I guess I
 
 ## Projects
 
-[New TripSit channel rules](/en/user-amki-ruleswip)
+[New TripSit channel rules](/en/untagged/user-amki-ruleswip)
 
-[New network rules](/en/user-amki-ircruleswip)
+[New network rules](/en/untagged/user-amki-ircruleswip)
